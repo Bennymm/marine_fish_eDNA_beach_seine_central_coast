@@ -1,0 +1,586 @@
+﻿Sample_ID,Sample_Name,PCR_rep,sample type,location,hakai_project,date,hakai_link_data,year,depth,spatial rep,geo-location-name (old),geo-location-name,experiment,temperature °C (surface),salinity (ppt) (surface),pH (surface),temperature °C (bottom),salinity (ppt) (bottom),pH (bottom),bottom depth (m),volume filtered,lab notes
+edna0001-Rep1,edna0001,Rep1,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,1,Koe3upstreameDNA,edna_ko_e3_00,surface,15.9,15.84,7.95,,,,2.2,980,0
+edna0001-Rep2,edna0001,Rep2,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,1,Koe3upstreameDNA,edna_ko_e3_00,surface,15.9,15.84,7.95,,,,2.2,980,0
+edna0001-Rep3,edna0001,Rep3,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,1,Koe3upstreameDNA,edna_ko_e3_00,surface,15.9,15.84,7.95,,,,2.2,980,0
+edna0002-Rep1,edna0002,Rep1,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,2,Koe3mideDNA,edna_ko_e3_15,surface,16,15.09,8.07,,,,2.2,1000,0
+edna0002-Rep2,edna0002,Rep2,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,2,Koe3mideDNA,edna_ko_e3_15,surface,16,15.09,8.07,,,,2.2,1000,0
+edna0002-Rep3,edna0002,Rep3,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,2,Koe3mideDNA,edna_ko_e3_15,surface,16,15.09,8.07,,,,2.2,1000,0
+edna0003-Rep1,edna0003,Rep1,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,3,Koe3downstreameDNA,edna_ko_e3_30,surface,16.1,14.72,8.11,,,,2.5,1000,0
+edna0003-Rep3,edna0003,Rep3,biological,Koeye Estuary,seagrass,2018-06-19,,2018,surface,3,Koe3downstreameDNA,edna_ko_e3_30,surface,16.1,14.72,8.11,,,,2.5,1000,0
+edna0004-Rep1,edna0004,Rep1,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,1,Koe3upstreameDNA,edna_ko_e3_00,depth,15.9,15.84,8.01,,,,2.2,980,0
+edna0004-Rep2,edna0004,Rep2,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,1,Koe3upstreameDNA,edna_ko_e3_00,depth,15.9,15.84,8.01,,,,2.2,980,0
+edna0004-Rep3,edna0004,Rep3,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,1,Koe3upstreameDNA,edna_ko_e3_00,depth,15.9,15.84,8.01,,,,2.2,980,0
+edna0005-Rep1,edna0005,Rep1,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,2,Koe3mideDNA,edna_ko_e3_15,depth,16,15.94,8.1,,,,2.2,975,0
+edna0005-Rep3,edna0005,Rep3,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,2,Koe3mideDNA,edna_ko_e3_15,depth,16,15.94,8.1,,,,2.2,975,0
+edna0006-Rep1,edna0006,Rep1,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,3,Koe3downstreameDNA,edna_ko_e3_30,depth,16.1,14.74,8.12,,,,2.5,1000,0
+edna0006-Rep2,edna0006,Rep2,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,3,Koe3downstreameDNA,edna_ko_e3_30,depth,16.1,14.74,8.12,,,,2.5,1000,0
+edna0006-Rep3,edna0006,Rep3,biological,Koeye Estuary,seagrass,2018-06-19,,2018,depth,3,Koe3downstreameDNA,edna_ko_e3_30,depth,16.1,14.74,8.12,,,,2.5,1000,0
+edna0007-Rep1,edna0007,Rep1,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,1,CHI3eDNA,edna_ch_i3_00,surface,12.4,30.66,8.05,,,,7,1000,0
+edna0007-Rep2,edna0007,Rep2,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,1,CHI3eDNA,edna_ch_i3_00,surface,12.4,30.66,8.05,,,,7,1000,0
+edna0007-Rep3,edna0007,Rep3,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,1,CHI3eDNA,edna_ch_i3_00,surface,12.4,30.66,8.05,,,,7,1000,0
+edna0008-Rep1,edna0008,Rep1,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,2,CHI15eDNA,edna_ch_i3_15,surface,12.3,30.69,8.08,,,,7,1000,0
+edna0008-Rep2,edna0008,Rep2,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,2,CHI15eDNA,edna_ch_i3_15,surface,12.3,30.69,8.08,,,,7,1000,0
+edna0008-Rep3,edna0008,Rep3,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,2,CHI15eDNA,edna_ch_i3_15,surface,12.3,30.69,8.08,,,,7,1000,0
+edna0009-Rep1,edna0009,Rep1,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,3,CHI30eDNA,edna_ch_i3_30,surface,12.3,30.72,8.07,,,,7.1,1000,0
+edna0009-Rep2,edna0009,Rep2,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,3,CHI30eDNA,edna_ch_i3_30,surface,12.3,30.72,8.07,,,,7.1,1000,0
+edna0009-Rep3,edna0009,Rep3,biological,Choked Pass,seagrass,2018-06-19,,2018,surface,3,CHI30eDNA,edna_ch_i3_30,surface,12.3,30.72,8.07,,,,7.1,1000,0
+edna0010-Rep1,edna0010,Rep1,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,1,CHI3eDNA,edna_ch_i3_00,depth,12.1,30.74,8.08,,,,7,1000,0
+edna0010-Rep2,edna0010,Rep2,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,1,CHI3eDNA,edna_ch_i3_00,depth,12.1,30.74,8.08,,,,7,1000,0
+edna0010-Rep3,edna0010,Rep3,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,1,CHI3eDNA,edna_ch_i3_00,depth,12.1,30.74,8.08,,,,7,1000,0
+edna0011-Rep1,edna0011,Rep1,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,2,CHI15eDNA,edna_ch_i3_15,depth,12.1,30.77,8.08,,,,7,1000,0
+edna0011-Rep3,edna0011,Rep3,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,2,CHI15eDNA,edna_ch_i3_15,depth,12.1,30.77,8.08,,,,7,1000,0
+edna0012-Rep1,edna0012,Rep1,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,3,CHI30eDNA,edna_ch_i3_30,depth,12.1,30.76,8.08,,,,7.1,1000,0
+edna0012-Rep2,edna0012,Rep2,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,3,CHI30eDNA,edna_ch_i3_30,depth,12.1,30.76,8.08,,,,7.1,1000,0
+edna0012-Rep3,edna0012,Rep3,biological,Choked Pass,seagrass,2018-06-19,,2018,depth,3,CHI30eDNA,edna_ch_i3_30,depth,12.1,30.76,8.08,,,,7.1,1000,0
+edna0013-Rep1,edna0013,Rep1,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,1,PR1300eDNA,edna_pr_i3_00,surface,14.7,27.8,8.23,,,,2.9,1000,0
+edna0013-Rep2,edna0013,Rep2,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,1,PR1300eDNA,edna_pr_i3_00,surface,14.7,27.8,8.23,,,,2.9,1000,0
+edna0013-Rep3,edna0013,Rep3,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,1,PR1300eDNA,edna_pr_i3_00,surface,14.7,27.8,8.23,,,,2.9,1000,0
+edna0014-Rep1,edna0014,Rep1,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,2,PR1315eDNA,edna_pr_i3_15,surface,14.7,27.76,8.23,,,,3,1000,0
+edna0014-Rep3,edna0014,Rep3,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,2,PR1315eDNA,edna_pr_i3_15,surface,14.7,27.76,8.23,,,,3,1000,0
+edna0015-Rep1,edna0015,Rep1,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,3,PR1330eDNA,edna_pr_i3_30,surface,14.6,27.85,8.24,,,,3,1000,plus or minus 50mL
+edna0015-Rep2,edna0015,Rep2,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,3,PR1330eDNA,edna_pr_i3_30,surface,14.6,27.85,8.24,,,,3,1000,plus or minus 50mL
+edna0015-Rep3,edna0015,Rep3,biological,Pruth Bay,seagrass,2018-06-19,,2018,surface,3,PR1330eDNA,edna_pr_i3_30,surface,14.6,27.85,8.24,,,,3,1000,plus or minus 50mL
+edna0022-Rep1,edna0022,Rep1,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,1,0,edna_chp_00,surface,12,30.48,8.13,,,,3.5,1000,0
+edna0022-Rep2,edna0022,Rep2,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,1,0,edna_chp_00,surface,12,30.48,8.13,,,,3.5,1000,0
+edna0022-Rep3,edna0022,Rep3,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,1,0,edna_chp_00,surface,12,30.48,8.13,,,,3.5,1000,0
+edna0023-Rep1,edna0023,Rep1,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,1,0,edna_chp_15,depth,,,,,,,3.5,1000,0
+edna0023-Rep2,edna0023,Rep2,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,1,0,edna_chp_15,depth,,,,,,,3.5,1000,0
+edna0023-Rep3,edna0023,Rep3,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,1,0,edna_chp_15,depth,,,,,,,3.5,1000,0
+edna0024-Rep1,edna0024,Rep1,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,2,0,edna_chp_30,surface,12.1,30.4,8.12,,,,3.5,1000,0
+edna0024-Rep2,edna0024,Rep2,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,2,0,edna_chp_30,surface,12.1,30.4,8.12,,,,3.5,1000,0
+edna0024-Rep3,edna0024,Rep3,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,2,0,edna_chp_30,surface,12.1,30.4,8.12,,,,3.5,1000,0
+edna0025-Rep1,edna0025,Rep1,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,2,0,edna_chp_00,depth,11.6,30.85,8.12,,,,3.5,1000,0
+edna0025-Rep2,edna0025,Rep2,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,2,0,edna_chp_00,depth,11.6,30.85,8.12,,,,3.5,1000,0
+edna0025-Rep3,edna0025,Rep3,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,2,0,edna_chp_00,depth,11.6,30.85,8.12,,,,3.5,1000,0
+edna0026-Rep1,edna0026,Rep1,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,3,0,edna_chp_15,surface,11.6,30.86,8.09,,,,3.5,1000,0
+edna0026-Rep2,edna0026,Rep2,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,3,0,edna_chp_15,surface,11.6,30.86,8.09,,,,3.5,1000,0
+edna0026-Rep3,edna0026,Rep3,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,surface,3,0,edna_chp_15,surface,11.6,30.86,8.09,,,,3.5,1000,0
+edna0027-Rep1,edna0027,Rep1,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,3,0,edna_chp_30,depth,,,,,,,3.5,1000,0
+edna0027-Rep2,edna0027,Rep2,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,3,0,edna_chp_30,depth,,,,,,,3.5,1000,0
+edna0027-Rep3,edna0027,Rep3,biological,CHP,beach_seine,2018-07-12,2018-07-10,2018,depth,3,0,edna_chp_30,depth,,,,,,,3.5,1000,0
+edna0028-Rep1,edna0028,Rep1,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,1,0,edna_hab4_00,surface,16.5,26.08,8.43,,,,6.4,1000,0
+edna0028-Rep2,edna0028,Rep2,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,1,0,edna_hab4_00,surface,16.5,26.08,8.43,,,,6.4,1000,0
+edna0028-Rep3,edna0028,Rep3,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,1,0,edna_hab4_00,surface,16.5,26.08,8.43,,,,6.4,1000,0
+edna0029-Rep1,edna0029,Rep1,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,2,0,edna_hab4_15,surface,16.9,26.02,8.43,11.4,30.12,8.23,6.2,1000,0
+edna0029-Rep2,edna0029,Rep2,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,2,0,edna_hab4_15,surface,16.9,26.02,8.43,11.4,30.12,8.23,6.2,1000,0
+edna0029-Rep3,edna0029,Rep3,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,2,0,edna_hab4_15,surface,16.9,26.02,8.43,11.4,30.12,8.23,6.2,1000,0
+edna0030-Rep1,edna0030,Rep1,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,3,0,edna_hab4_30,surface,15.9,26.09,8.45,,,,5.8,1000,0
+edna0030-Rep2,edna0030,Rep2,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,3,0,edna_hab4_30,surface,15.9,26.09,8.45,,,,5.8,1000,0
+edna0030-Rep3,edna0030,Rep3,biological,HAB4,beach_seine,2018-07-12,2018-07-11,2018,surface,3,0,edna_hab4_30,surface,15.9,26.09,8.45,,,,5.8,1000,0
+edna0031-Rep1,edna0031,Rep1,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,1,0,edna_pba_00,surface,16.5,26.11,8.44,,,,5.8,1000,0
+edna0031-Rep2,edna0031,Rep2,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,1,0,edna_pba_00,surface,16.5,26.11,8.44,,,,5.8,1000,0
+edna0031-Rep3,edna0031,Rep3,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,1,0,edna_pba_00,surface,16.5,26.11,8.44,,,,5.8,1000,0
+edna0032-Rep1,edna0032,Rep1,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,1,0,edna_pba_15,depth,12.9,26.46,8.3,,,,5.8,1000,0
+edna0032-Rep2,edna0032,Rep2,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,1,0,edna_pba_15,depth,12.9,26.46,8.3,,,,5.8,1000,0
+edna0032-Rep3,edna0032,Rep3,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,1,0,edna_pba_15,depth,12.9,26.46,8.3,,,,5.8,1000,0
+edna0033-Rep1,edna0033,Rep1,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,2,0,edna_pba_30,surface,16.5,26.06,8.43,,,,4,1000,0
+edna0033-Rep2,edna0033,Rep2,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,2,0,edna_pba_30,surface,16.5,26.06,8.43,,,,4,1000,0
+edna0033-Rep3,edna0033,Rep3,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,2,0,edna_pba_30,surface,16.5,26.06,8.43,,,,4,1000,0
+edna0034-Rep1,edna0034,Rep1,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,2,0,edna_pba_00,depth,12.8,29.61,8.64,,,,4,1000,0
+edna0034-Rep2,edna0034,Rep2,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,2,0,edna_pba_00,depth,12.8,29.61,8.64,,,,4,1000,0
+edna0034-Rep3,edna0034,Rep3,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,2,0,edna_pba_00,depth,12.8,29.61,8.64,,,,4,1000,0
+edna0035-Rep1,edna0035,Rep1,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,3,0,edna_pba_15,surface,16.6,26.08,8.4,,,,3.7,1000,0
+edna0035-Rep2,edna0035,Rep2,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,3,0,edna_pba_15,surface,16.6,26.08,8.4,,,,3.7,1000,0
+edna0035-Rep3,edna0035,Rep3,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,surface,3,0,edna_pba_15,surface,16.6,26.08,8.4,,,,3.7,1000,0
+edna0036-Rep1,edna0036,Rep1,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,3,0,edna_pba_30,depth,12.7,29.67,8.28,,,,3.7,1000,0
+edna0036-Rep2,edna0036,Rep2,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,3,0,edna_pba_30,depth,12.7,29.67,8.28,,,,3.7,1000,0
+edna0036-Rep3,edna0036,Rep3,biological,PBA,beach_seine,2018-07-12,2018-07-10,2018,depth,3,0,edna_pba_30,depth,12.7,29.67,8.28,,,,3.7,1000,0
+edna0037-Rep1,edna0037,Rep1,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,1,0,edna_wfb_00,surface,12.5,30.95,7.97,,,,5.3,1000,0
+edna0037-Rep2,edna0037,Rep2,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,1,0,edna_wfb_00,surface,12.5,30.95,7.97,,,,5.3,1000,0
+edna0037-Rep3,edna0037,Rep3,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,1,0,edna_wfb_00,surface,12.5,30.95,7.97,,,,5.3,1000,0
+edna0038-Rep1,edna0038,Rep1,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,1,0,edna_wfb_15,depth,10.6,31.55,7.94,,,,5.3,1000,0
+edna0038-Rep2,edna0038,Rep2,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,1,0,edna_wfb_15,depth,10.6,31.55,7.94,,,,5.3,1000,0
+edna0038-Rep3,edna0038,Rep3,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,1,0,edna_wfb_15,depth,10.6,31.55,7.94,,,,5.3,1000,0
+edna0039-Rep1,edna0039,Rep1,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,2,0,edna_wfb_30,surface,12.4,31.02,7.95,,,,5.3,1000,0
+edna0039-Rep2,edna0039,Rep2,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,2,0,edna_wfb_30,surface,12.4,31.02,7.95,,,,5.3,1000,0
+edna0039-Rep3,edna0039,Rep3,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,2,0,edna_wfb_30,surface,12.4,31.02,7.95,,,,5.3,1000,0
+edna0040-Rep1,edna0040,Rep1,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,2,0,edna_wfb_00,depth,10.6,31.55,7.96,,,,5.3,1000,0
+edna0040-Rep2,edna0040,Rep2,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,2,0,edna_wfb_00,depth,10.6,31.55,7.96,,,,5.3,1000,0
+edna0040-Rep3,edna0040,Rep3,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,2,0,edna_wfb_00,depth,10.6,31.55,7.96,,,,5.3,1000,0
+edna0041-Rep1,edna0041,Rep1,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,3,0,edna_wfb_15,surface,12.1,30.5,7.99,,,,5.3,1000,0
+edna0041-Rep2,edna0041,Rep2,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,3,0,edna_wfb_15,surface,12.1,30.5,7.99,,,,5.3,1000,0
+edna0041-Rep3,edna0041,Rep3,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,surface,3,0,edna_wfb_15,surface,12.1,30.5,7.99,,,,5.3,1000,0
+edna0042-Rep1,edna0042,Rep1,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,3,0,edna_wfb_30,depth,10.6,31.64,7.97,,,,5.3,1000,0
+edna0042-Rep2,edna0042,Rep2,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,3,0,edna_wfb_30,depth,10.6,31.64,7.97,,,,5.3,1000,0
+edna0042-Rep3,edna0042,Rep3,biological,WFB,beach_seine,2018-07-13,2018-07-12,2018,depth,3,0,edna_wfb_30,depth,10.6,31.64,7.97,,,,5.3,1000,0
+edna0043-Rep1,edna0043,Rep1,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,1,0,edna_ssp_00,surface,11.3,30.51,8.01,,,,4.7,1000,0
+edna0043-Rep2,edna0043,Rep2,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,1,0,edna_ssp_00,surface,11.3,30.51,8.01,,,,4.7,1000,0
+edna0043-Rep3,edna0043,Rep3,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,1,0,edna_ssp_00,surface,11.3,30.51,8.01,,,,4.7,1000,0
+edna0044-Rep1,edna0044,Rep1,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,1,0,edna_ssp_15,depth,10.8,31.46,8.02,,,,4.7,1000,0
+edna0044-Rep2,edna0044,Rep2,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,1,0,edna_ssp_15,depth,10.8,31.46,8.02,,,,4.7,1000,0
+edna0044-Rep3,edna0044,Rep3,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,1,0,edna_ssp_15,depth,10.8,31.46,8.02,,,,4.7,1000,0
+edna0045-Rep1,edna0045,Rep1,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,2,0,edna_ssp_30,surface,11.5,30.62,8.03,,,,4.5,1000,0
+edna0045-Rep2,edna0045,Rep2,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,2,0,edna_ssp_30,surface,11.5,30.62,8.03,,,,4.5,1000,0
+edna0045-Rep3,edna0045,Rep3,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,2,0,edna_ssp_30,surface,11.5,30.62,8.03,,,,4.5,1000,0
+edna0046-Rep1,edna0046,Rep1,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,2,0,edna_ssp_00,depth,10.8,31.21,8.01,,,,4.3,1000,0
+edna0046-Rep2,edna0046,Rep2,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,2,0,edna_ssp_00,depth,10.8,31.21,8.01,,,,4.3,1000,0
+edna0046-Rep3,edna0046,Rep3,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,2,0,edna_ssp_00,depth,10.8,31.21,8.01,,,,4.3,1000,0
+edna0047-Rep1,edna0047,Rep1,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,3,0,edna_ssp_15,surface,11,31,8.01,,,,4.3,1000,0
+edna0047-Rep2,edna0047,Rep2,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,3,0,edna_ssp_15,surface,11,31,8.01,,,,4.3,1000,0
+edna0047-Rep3,edna0047,Rep3,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,surface,3,0,edna_ssp_15,surface,11,31,8.01,,,,4.3,1000,0
+edna0048-Rep1,edna0048,Rep1,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,3,0,edna_ssp_30,depth,10.8,31.42,8.01,,,,4.3,1000,0
+edna0048-Rep2,edna0048,Rep2,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,3,0,edna_ssp_30,depth,10.8,31.42,8.01,,,,4.3,1000,0
+edna0048-Rep3,edna0048,Rep3,biological,SSP,beach_seine,2018-07-13,2018-07-12,2018,depth,3,0,edna_ssp_30,depth,10.8,31.42,8.01,,,,4.3,1000,0
+edna0049-Rep1,edna0049,Rep1,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,1,0,edna_ppo_00,surface,14.4,28.28,8.31,,,,6.5,1000,0
+edna0049-Rep2,edna0049,Rep2,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,1,0,edna_ppo_00,surface,14.4,28.28,8.31,,,,6.5,1000,0
+edna0049-Rep3,edna0049,Rep3,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,1,0,edna_ppo_00,surface,14.4,28.28,8.31,,,,6.5,1000,0
+edna0050-Rep1,edna0050,Rep1,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,1,0,edna_ppo_15,depth,10.8,30.81,8.03,,,,6.5,1000,0
+edna0050-Rep2,edna0050,Rep2,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,1,0,edna_ppo_15,depth,10.8,30.81,8.03,,,,6.5,1000,0
+edna0050-Rep3,edna0050,Rep3,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,1,0,edna_ppo_15,depth,10.8,30.81,8.03,,,,6.5,1000,0
+edna0051-Rep1,edna0051,Rep1,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,2,0,edna_ppo_30,surface,14.4,28.26,8.23,,,,6.5,1000,0
+edna0051-Rep2,edna0051,Rep2,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,2,0,edna_ppo_30,surface,14.4,28.26,8.23,,,,6.5,1000,0
+edna0051-Rep3,edna0051,Rep3,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,2,0,edna_ppo_30,surface,14.4,28.26,8.23,,,,6.5,1000,0
+edna0052-Rep1,edna0052,Rep1,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,2,0,edna_ppo_00,depth,11.1,30.58,8.08,,,,6.5,1000,0
+edna0052-Rep2,edna0052,Rep2,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,2,0,edna_ppo_00,depth,11.1,30.58,8.08,,,,6.5,1000,0
+edna0052-Rep3,edna0052,Rep3,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,2,0,edna_ppo_00,depth,11.1,30.58,8.08,,,,6.5,1000,0
+edna0053-Rep1,edna0053,Rep1,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,3,0,edna_ppo_15,surface,14.3,28.32,8.32,,,,4.5,1000,0
+edna0053-Rep2,edna0053,Rep2,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,3,0,edna_ppo_15,surface,14.3,28.32,8.32,,,,4.5,1000,0
+edna0053-Rep3,edna0053,Rep3,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,surface,3,0,edna_ppo_15,surface,14.3,28.32,8.32,,,,4.5,1000,0
+edna0054-Rep1,edna0054,Rep1,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,3,0,edna_ppo_30,depth,11.3,30.35,8.1,,,,4.5,1000,0
+edna0054-Rep2,edna0054,Rep2,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,3,0,edna_ppo_30,depth,11.3,30.35,8.1,,,,4.5,1000,0
+edna0054-Rep3,edna0054,Rep3,biological,PPO,beach_seine,2018-07-13,2018-07-11,2018,depth,3,0,edna_ppo_30,depth,11.3,30.35,8.1,,,,4.5,1000,0
+edna0055-Rep1,edna0055,Rep1,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,1,0,edna_hdo_00,surface,15.1,27.77,8.23,,,,4.8,1000,0
+edna0055-Rep2,edna0055,Rep2,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,1,0,edna_hdo_00,surface,15.1,27.77,8.23,,,,4.8,1000,0
+edna0055-Rep3,edna0055,Rep3,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,1,0,edna_hdo_00,surface,15.1,27.77,8.23,,,,4.8,1000,0
+edna0056-Rep1,edna0056,Rep1,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,1,0,edna_hdo_15,depth,10.7,30.95,7.94,,,,4.8,1000,0
+edna0056-Rep2,edna0056,Rep2,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,1,0,edna_hdo_15,depth,10.7,30.95,7.94,,,,4.8,1000,0
+edna0056-Rep3,edna0056,Rep3,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,1,0,edna_hdo_15,depth,10.7,30.95,7.94,,,,4.8,1000,0
+edna0057-Rep1,edna0057,Rep1,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,2,0,edna_hdo_30,surface,13.3,29.97,8.25,,,,6.8,1000,0
+edna0057-Rep2,edna0057,Rep2,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,2,0,edna_hdo_30,surface,13.3,29.97,8.25,,,,6.8,1000,0
+edna0057-Rep3,edna0057,Rep3,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,2,0,edna_hdo_30,surface,13.3,29.97,8.25,,,,6.8,1000,0
+edna0058-Rep1,edna0058,Rep1,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,2,0,edna_hdo_00,depth,10.3,31.22,7.88,,,,6.8,1000,0
+edna0058-Rep2,edna0058,Rep2,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,2,0,edna_hdo_00,depth,10.3,31.22,7.88,,,,6.8,1000,0
+edna0058-Rep3,edna0058,Rep3,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,2,0,edna_hdo_00,depth,10.3,31.22,7.88,,,,6.8,1000,0
+edna0059-Rep1,edna0059,Rep1,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,3,0,edna_hdo_15,surface,14.2,28.64,8.26,,,,5.9,1000,0
+edna0059-Rep2,edna0059,Rep2,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,3,0,edna_hdo_15,surface,14.2,28.64,8.26,,,,5.9,1000,0
+edna0059-Rep3,edna0059,Rep3,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,surface,3,0,edna_hdo_15,surface,14.2,28.64,8.26,,,,5.9,1000,0
+edna0060-Rep1,edna0060,Rep1,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,3,0,edna_hdo_30,depth,10.6,31,7.95,,,,5.9,1000,0
+edna0060-Rep2,edna0060,Rep2,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,3,0,edna_hdo_30,depth,10.6,31,7.95,,,,5.9,1000,0
+edna0060-Rep3,edna0060,Rep3,biological,HDO,beach_seine,2018-07-13,2018-07-11,2018,depth,3,0,edna_hdo_30,depth,10.6,31,7.95,,,,5.9,1000,0
+edna0061-Rep1,edna0061,Rep1,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,1,0,edna_gog1_00,surface,13.4,31.43,8.07,13.4,31.2,8.09,2,1000,0
+edna0061-Rep2,edna0061,Rep2,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,1,0,edna_gog1_00,surface,13.4,31.43,8.07,13.4,31.2,8.09,2,1000,0
+edna0061-Rep3,edna0061,Rep3,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,1,0,edna_gog1_00,surface,13.4,31.43,8.07,13.4,31.2,8.09,2,1000,0
+edna0062-Rep1,edna0062,Rep1,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,2,0,edna_gog1_15,surface,13.5,31.49,8.06,13.4,31.39,8.08,2,1000,0
+edna0062-Rep2,edna0062,Rep2,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,2,0,edna_gog1_15,surface,13.5,31.49,8.06,13.4,31.39,8.08,2,1000,0
+edna0062-Rep3,edna0062,Rep3,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,2,0,edna_gog1_15,surface,13.5,31.49,8.06,13.4,31.39,8.08,2,1000,0
+edna0063-Rep1,edna0063,Rep1,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,3,0,edna_gog1_30,surface,13.4,31.41,8.06,13.3,31.39,8.07,2,1000,0
+edna0063-Rep2,edna0063,Rep2,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,3,0,edna_gog1_30,surface,13.4,31.41,8.06,13.3,31.39,8.07,2,1000,0
+edna0063-Rep3,edna0063,Rep3,biological,GOG1,beach_seine,2018-07-15,2018-07-14,2018,surface,3,0,edna_gog1_30,surface,13.4,31.41,8.06,13.3,31.39,8.07,2,1000,0
+edna0064-Rep1,edna0064,Rep1,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,1,0,edna_gog4_00,surface,13.2,31.43,8.09,12.2,31.46,8.05,3.5,1000,0
+edna0064-Rep2,edna0064,Rep2,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,1,0,edna_gog4_00,surface,13.2,31.43,8.09,12.2,31.46,8.05,3.5,1000,0
+edna0064-Rep3,edna0064,Rep3,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,1,0,edna_gog4_00,surface,13.2,31.43,8.09,12.2,31.46,8.05,3.5,1000,0
+edna0065-Rep1,edna0065,Rep1,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,2,0,edna_gog4_15,surface,13.6,31.39,8.17,12.3,31.39,8.05,3.5,1000,0
+edna0065-Rep2,edna0065,Rep2,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,2,0,edna_gog4_15,surface,13.6,31.39,8.17,12.3,31.39,8.05,3.5,1000,0
+edna0065-Rep3,edna0065,Rep3,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,2,0,edna_gog4_15,surface,13.6,31.39,8.17,12.3,31.39,8.05,3.5,1000,0
+edna0066-Rep1,edna0066,Rep1,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,3,0,edna_gog4_30,surface,13.7,31.43,8.17,12.3,31.42,8.04,3.5,1000,0
+edna0066-Rep2,edna0066,Rep2,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,3,0,edna_gog4_30,surface,13.7,31.43,8.17,12.3,31.42,8.04,3.5,1000,0
+edna0066-Rep3,edna0066,Rep3,biological,GOG4,beach_seine,2018-07-15,2018-07-14,2018,surface,3,0,edna_gog4_30,surface,13.7,31.43,8.17,12.3,31.42,8.04,3.5,1000,0
+edna0067-Rep1,edna0067,Rep1,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,1,0,edna_kis2_00,surface,14,31.12,8.11,13.7,31.11,8.12,4,1000,0
+edna0067-Rep2,edna0067,Rep2,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,1,0,edna_kis2_00,surface,14,31.12,8.11,13.7,31.11,8.12,4,1000,0
+edna0067-Rep3,edna0067,Rep3,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,1,0,edna_kis2_00,surface,14,31.12,8.11,13.7,31.11,8.12,4,1000,0
+edna0068-Rep1,edna0068,Rep1,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,2,0,edna_kis2_15,surface,13.9,31.13,8.12,13.7,31.09,8.14,4,1000,0
+edna0068-Rep2,edna0068,Rep2,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,2,0,edna_kis2_15,surface,13.9,31.13,8.12,13.7,31.09,8.14,4,1000,0
+edna0068-Rep3,edna0068,Rep3,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,2,0,edna_kis2_15,surface,13.9,31.13,8.12,13.7,31.09,8.14,4,1000,0
+edna0069-Rep1,edna0069,Rep1,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,3,0,edna_kis2_30,surface,14.3,31.16,8.12,13.7,31.1,8.12,3.5,1000,0
+edna0069-Rep2,edna0069,Rep2,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,3,0,edna_kis2_30,surface,14.3,31.16,8.12,13.7,31.1,8.12,3.5,1000,0
+edna0069-Rep3,edna0069,Rep3,biological,KIS2,beach_seine,2018-07-15,2018-07-13,2018,surface,3,0,edna_kis2_30,surface,14.3,31.16,8.12,13.7,31.1,8.12,3.5,1000,0
+edna0070-Rep1,edna0070,Rep1,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,1,0,edna_kis1_00,surface,13.8,30.95,8.14,13.4,31.07,8.11,4.5,1000,0
+edna0070-Rep2,edna0070,Rep2,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,1,0,edna_kis1_00,surface,13.8,30.95,8.14,13.4,31.07,8.11,4.5,1000,0
+edna0070-Rep3,edna0070,Rep3,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,1,0,edna_kis1_00,surface,13.8,30.95,8.14,13.4,31.07,8.11,4.5,1000,0
+edna0071-Rep1,edna0071,Rep1,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,2,0,edna_kis1_15,surface,13.8,30.95,8.15,13.5,30.97,8.13,4.5,1000,0
+edna0071-Rep2,edna0071,Rep2,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,2,0,edna_kis1_15,surface,13.8,30.95,8.15,13.5,30.97,8.13,4.5,1000,0
+edna0071-Rep3,edna0071,Rep3,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,2,0,edna_kis1_15,surface,13.8,30.95,8.15,13.5,30.97,8.13,4.5,1000,0
+edna0072-Rep1,edna0072,Rep1,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,3,0,edna_kis1_30,surface,13.6,30.95,8.13,13.3,31.03,8.11,4.5,1000,0
+edna0072-Rep2,edna0072,Rep2,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,3,0,edna_kis1_30,surface,13.6,30.95,8.13,13.3,31.03,8.11,4.5,1000,0
+edna0072-Rep3,edna0072,Rep3,biological,KIS1,beach_seine,2018-07-15,2018-07-13,2018,surface,3,0,edna_kis1_30,surface,13.6,30.95,8.13,13.3,31.03,8.11,4.5,1000,0
+edna0073-Rep1,edna0073,Rep1,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,1,0,edna_hab2_00,surface,12.8,31.38,8.02,11.1,31.68,7.99,4.5,1000,0
+edna0073-Rep2,edna0073,Rep2,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,1,0,edna_hab2_00,surface,12.8,31.38,8.02,11.1,31.68,7.99,4.5,1000,0
+edna0073-Rep3,edna0073,Rep3,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,1,0,edna_hab2_00,surface,12.8,31.38,8.02,11.1,31.68,7.99,4.5,1000,0
+edna0074-Rep1,edna0074,Rep1,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,2,0,edna_hab2_15,surface,12.3,31.38,8.02,11.2,31.69,7.98,5,1000,0
+edna0074-Rep2,edna0074,Rep2,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,2,0,edna_hab2_15,surface,12.3,31.38,8.02,11.2,31.69,7.98,5,1000,0
+edna0074-Rep3,edna0074,Rep3,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,2,0,edna_hab2_15,surface,12.3,31.38,8.02,11.2,31.69,7.98,5,1000,0
+edna0075-Rep1,edna0075,Rep1,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,3,0,edna_hab2_30,surface,12.4,31.4,8.03,11.2,31.69,7.99,5,1000,0
+edna0075-Rep2,edna0075,Rep2,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,3,0,edna_hab2_30,surface,12.4,31.4,8.03,11.2,31.69,7.99,5,1000,0
+edna0075-Rep3,edna0075,Rep3,biological,HAB2,beach_seine,2018-07-15,2018-07-12,2018,surface,3,0,edna_hab2_30,surface,12.4,31.4,8.03,11.2,31.69,7.99,5,1000,0
+edna0076-Rep1,edna0076,Rep1,biological,Triquet,kelp,2018-07-16,,2018,surface,1,0,edna_triquet_00,surface,15,31.08,8.15,,,,5.7,1000,0
+edna0076-Rep2,edna0076,Rep2,biological,Triquet,kelp,2018-07-16,,2018,surface,1,0,edna_triquet_00,surface,15,31.08,8.15,,,,5.7,1000,0
+edna0076-Rep3,edna0076,Rep3,biological,Triquet,kelp,2018-07-16,,2018,surface,1,0,edna_triquet_00,surface,15,31.08,8.15,,,,5.7,1000,0
+edna0077-Rep1,edna0077,Rep1,biological,Triquet,kelp,2018-07-16,,2018,depth,1,0,edna_triquet_15,depth,13.3,31.1,8.15,,,,5.7,1000,0
+edna0077-Rep2,edna0077,Rep2,biological,Triquet,kelp,2018-07-16,,2018,depth,1,0,edna_triquet_15,depth,13.3,31.1,8.15,,,,5.7,1000,0
+edna0077-Rep3,edna0077,Rep3,biological,Triquet,kelp,2018-07-16,,2018,depth,1,0,edna_triquet_15,depth,13.3,31.1,8.15,,,,5.7,1000,0
+edna0078-Rep1,edna0078,Rep1,biological,Triquet,kelp,2018-07-16,,2018,surface,2,0,edna_triquet_30,surface,14.6,30.7,8.15,,,,5,1000,0
+edna0078-Rep2,edna0078,Rep2,biological,Triquet,kelp,2018-07-16,,2018,surface,2,0,edna_triquet_30,surface,14.6,30.7,8.15,,,,5,1000,0
+edna0078-Rep3,edna0078,Rep3,biological,Triquet,kelp,2018-07-16,,2018,surface,2,0,edna_triquet_30,surface,14.6,30.7,8.15,,,,5,1000,0
+edna0079-Rep1,edna0079,Rep1,biological,Triquet,kelp,2018-07-16,,2018,depth,2,0,edna_triquet_00,depth,13.4,31.1,8.14,,,,5,1000,0
+edna0079-Rep2,edna0079,Rep2,biological,Triquet,kelp,2018-07-16,,2018,depth,2,0,edna_triquet_00,depth,13.4,31.1,8.14,,,,5,1000,0
+edna0079-Rep3,edna0079,Rep3,biological,Triquet,kelp,2018-07-16,,2018,depth,2,0,edna_triquet_00,depth,13.4,31.1,8.14,,,,5,1000,0
+edna0080-Rep1,edna0080,Rep1,biological,Triquet,kelp,2018-07-16,,2018,surface,3,0,edna_triquet_15,surface,14.9,30.94,8.15,,,,5.6,1000,0
+edna0080-Rep2,edna0080,Rep2,biological,Triquet,kelp,2018-07-16,,2018,surface,3,0,edna_triquet_15,surface,14.9,30.94,8.15,,,,5.6,1000,0
+edna0080-Rep3,edna0080,Rep3,biological,Triquet,kelp,2018-07-16,,2018,surface,3,0,edna_triquet_15,surface,14.9,30.94,8.15,,,,5.6,1000,0
+edna0081-Rep1,edna0081,Rep1,biological,Triquet,kelp,2018-07-16,,2018,depth,3,0,edna_triquet_30,depth,13.3,31.07,8.14,,,,5.6,1000,0
+edna0081-Rep2,edna0081,Rep2,biological,Triquet,kelp,2018-07-16,,2018,depth,3,0,edna_triquet_30,depth,13.3,31.07,8.14,,,,5.6,1000,0
+edna0081-Rep3,edna0081,Rep3,biological,Triquet,kelp,2018-07-16,,2018,depth,3,0,edna_triquet_30,depth,13.3,31.07,8.14,,,,5.6,1000,0
+edna0082-Rep1,edna0082,Rep1,biological,Manley,kelp,2018-07-16,,2018,surface,1,0,edna_manley_00,surface,13.8,30.69,8.22,11.6,31.19,8.07,7.5,1000,0
+edna0082-Rep2,edna0082,Rep2,biological,Manley,kelp,2018-07-16,,2018,surface,1,0,edna_manley_00,surface,13.8,30.69,8.22,11.6,31.19,8.07,7.5,1000,0
+edna0082-Rep3,edna0082,Rep3,biological,Manley,kelp,2018-07-16,,2018,surface,1,0,edna_manley_00,surface,13.8,30.69,8.22,11.6,31.19,8.07,7.5,1000,0
+edna0083-Rep1,edna0083,Rep1,biological,Manley,kelp,2018-07-16,,2018,surface,2,0,edna_manley_15,surface,14.4,30.5,8.25,11.5,31.15,8.06,5.7,1000,0
+edna0083-Rep2,edna0083,Rep2,biological,Manley,kelp,2018-07-16,,2018,surface,2,0,edna_manley_15,surface,14.4,30.5,8.25,11.5,31.15,8.06,5.7,1000,0
+edna0083-Rep3,edna0083,Rep3,biological,Manley,kelp,2018-07-16,,2018,surface,2,0,edna_manley_15,surface,14.4,30.5,8.25,11.5,31.15,8.06,5.7,1000,0
+edna0084-Rep1,edna0084,Rep1,biological,Manley,kelp,2018-07-16,,2018,surface,3,0,edna_manley_30,surface,14.2,30.63,8.22,12.7,30.95,8.16,5.7,1000,0
+edna0084-Rep2,edna0084,Rep2,biological,Manley,kelp,2018-07-16,,2018,surface,3,0,edna_manley_30,surface,14.2,30.63,8.22,12.7,30.95,8.16,5.7,1000,0
+edna0084-Rep3,edna0084,Rep3,biological,Manley,kelp,2018-07-16,,2018,surface,3,0,edna_manley_30,surface,14.2,30.63,8.22,12.7,30.95,8.16,5.7,1000,0
+edna0085-Rep1,edna0085,Rep1,biological,Womanley,kelp,2018-07-16,,2018,surface,1,0,edna_womanley_00,surface,14.3,29.8,8.23,12.7,30.84,8.17,7.5,1000,0
+edna0085-Rep2,edna0085,Rep2,biological,Womanley,kelp,2018-07-16,,2018,surface,1,0,edna_womanley_00,surface,14.3,29.8,8.23,12.7,30.84,8.17,7.5,1000,0
+edna0085-Rep3,edna0085,Rep3,biological,Womanley,kelp,2018-07-16,,2018,surface,1,0,edna_womanley_00,surface,14.3,29.8,8.23,12.7,30.84,8.17,7.5,1000,0
+edna0086-Rep1,edna0086,Rep1,biological,Womanley,kelp,2018-07-16,,2018,surface,2,0,edna_womanley_15,surface,14.4,30.54,8.23,12.5,31.11,8.1,7.5,1000,0
+edna0086-Rep2,edna0086,Rep2,biological,Womanley,kelp,2018-07-16,,2018,surface,2,0,edna_womanley_15,surface,14.4,30.54,8.23,12.5,31.11,8.1,7.5,1000,0
+edna0086-Rep3,edna0086,Rep3,biological,Womanley,kelp,2018-07-16,,2018,surface,2,0,edna_womanley_15,surface,14.4,30.54,8.23,12.5,31.11,8.1,7.5,1000,0
+edna0087-Rep1,edna0087,Rep1,biological,Womanley,kelp,2018-07-16,,2018,surface,3,0,edna_womanley_30,surface,14.4,30.55,8.24,12.1,31.7,8.1,6.5,1000,0
+edna0087-Rep2,edna0087,Rep2,biological,Womanley,kelp,2018-07-16,,2018,surface,3,0,edna_womanley_30,surface,14.4,30.55,8.24,12.1,31.7,8.1,6.5,1000,0
+edna0087-Rep3,edna0087,Rep3,biological,Womanley,kelp,2018-07-16,,2018,surface,3,0,edna_womanley_30,surface,14.4,30.55,8.24,12.1,31.7,8.1,6.5,1000,0
+edna0088-Rep1,edna0088,Rep1,biological,West,kelp,2018-07-17,,2018,surface,1,0,edna_west_00,surface,12.5,31.77,8.07,,,,4.8,1000,0
+edna0088-Rep2,edna0088,Rep2,biological,West,kelp,2018-07-17,,2018,surface,1,0,edna_west_00,surface,12.5,31.77,8.07,,,,4.8,1000,0
+edna0088-Rep3,edna0088,Rep3,biological,West,kelp,2018-07-17,,2018,surface,1,0,edna_west_00,surface,12.5,31.77,8.07,,,,4.8,1000,0
+edna0089-Rep1,edna0089,Rep1,biological,West,kelp,2018-07-17,,2018,depth,1,0,edna_west_15,depth,11.2,31.88,8.07,,,,4.8,1000,0
+edna0089-Rep2,edna0089,Rep2,biological,West,kelp,2018-07-17,,2018,depth,1,0,edna_west_15,depth,11.2,31.88,8.07,,,,4.8,1000,0
+edna0089-Rep3,edna0089,Rep3,biological,West,kelp,2018-07-17,,2018,depth,1,0,edna_west_15,depth,11.2,31.88,8.07,,,,4.8,1000,0
+edna0090-Rep1,edna0090,Rep1,biological,West,kelp,2018-07-17,,2018,surface,2,0,edna_west_30,surface,13,31.75,8.06,,,,5.4,1000,0
+edna0090-Rep2,edna0090,Rep2,biological,West,kelp,2018-07-17,,2018,surface,2,0,edna_west_30,surface,13,31.75,8.06,,,,5.4,1000,0
+edna0090-Rep3,edna0090,Rep3,biological,West,kelp,2018-07-17,,2018,surface,2,0,edna_west_30,surface,13,31.75,8.06,,,,5.4,1000,0
+edna0091-Rep1,edna0091,Rep1,biological,West,kelp,2018-07-17,,2018,depth,2,0,edna_west_00,depth,11,31.87,8.02,,,,5.4,1000,0
+edna0091-Rep2,edna0091,Rep2,biological,West,kelp,2018-07-17,,2018,depth,2,0,edna_west_00,depth,11,31.87,8.02,,,,5.4,1000,0
+edna0091-Rep3,edna0091,Rep3,biological,West,kelp,2018-07-17,,2018,depth,2,0,edna_west_00,depth,11,31.87,8.02,,,,5.4,1000,0
+edna0092-Rep1,edna0092,Rep1,biological,West,kelp,2018-07-17,,2018,surface,3,0,edna_west_15,surface,12.5,31.58,8.07,,,,5.8,1000,0
+edna0092-Rep2,edna0092,Rep2,biological,West,kelp,2018-07-17,,2018,surface,3,0,edna_west_15,surface,12.5,31.58,8.07,,,,5.8,1000,0
+edna0092-Rep3,edna0092,Rep3,biological,West,kelp,2018-07-17,,2018,surface,3,0,edna_west_15,surface,12.5,31.58,8.07,,,,5.8,1000,0
+edna0093-Rep1,edna0093,Rep1,biological,West,kelp,2018-07-17,,2018,depth,3,0,edna_west_30,depth,10.8,31.92,8.01,,,,5.8,1000,0
+edna0093-Rep2,edna0093,Rep2,biological,West,kelp,2018-07-17,,2018,depth,3,0,edna_west_30,depth,10.8,31.92,8.01,,,,5.8,1000,0
+edna0093-Rep3,edna0093,Rep3,biological,West,kelp,2018-07-17,,2018,depth,3,0,edna_west_30,depth,10.8,31.92,8.01,,,,5.8,1000,0
+edna0094-Rep1,edna0094,Rep1,biological,Second,kelp,2018-07-17,,2018,surface,1,0,edna_second_00,surface,12.5,31.8,8.1,10.7,31.96,8,6.8,1000,0
+edna0094-Rep2,edna0094,Rep2,biological,Second,kelp,2018-07-17,,2018,surface,1,0,edna_second_00,surface,12.5,31.8,8.1,10.7,31.96,8,6.8,1000,0
+edna0094-Rep3,edna0094,Rep3,biological,Second,kelp,2018-07-17,,2018,surface,1,0,edna_second_00,surface,12.5,31.8,8.1,10.7,31.96,8,6.8,1000,0
+edna0095-Rep1,edna0095,Rep1,biological,Second,kelp,2018-07-17,,2018,surface,2,0,edna_second_15,surface,13,30.8,8.1,10.6,32,8.97,7.1,1000,0
+edna0095-Rep2,edna0095,Rep2,biological,Second,kelp,2018-07-17,,2018,surface,2,0,edna_second_15,surface,13,30.8,8.1,10.6,32,8.97,7.1,1000,0
+edna0095-Rep3,edna0095,Rep3,biological,Second,kelp,2018-07-17,,2018,surface,2,0,edna_second_15,surface,13,30.8,8.1,10.6,32,8.97,7.1,1000,0
+edna0096-Rep1,edna0096,Rep1,biological,Second,kelp,2018-07-17,,2018,surface,3,0,edna_second_30,surface,12.9,31.73,8.08,11.4,31.86,8.07,5.2,1000,0
+edna0096-Rep2,edna0096,Rep2,biological,Second,kelp,2018-07-17,,2018,surface,3,0,edna_second_30,surface,12.9,31.73,8.08,11.4,31.86,8.07,5.2,1000,0
+edna0096-Rep3,edna0096,Rep3,biological,Second,kelp,2018-07-17,,2018,surface,3,0,edna_second_30,surface,12.9,31.73,8.08,11.4,31.86,8.07,5.2,1000,0
+edna0097-Rep1,edna0097,Rep1,biological,North,kelp,2018-07-17,,2018,surface,1,0,edna_north_00,surface,11.1,31.73,7.99,10.5,31.93,7.96,7.5,1000,0
+edna0097-Rep2,edna0097,Rep2,biological,North,kelp,2018-07-17,,2018,surface,1,0,edna_north_00,surface,11.1,31.73,7.99,10.5,31.93,7.96,7.5,1000,0
+edna0097-Rep3,edna0097,Rep3,biological,North,kelp,2018-07-17,,2018,surface,1,0,edna_north_00,surface,11.1,31.73,7.99,10.5,31.93,7.96,7.5,1000,0
+edna0098-Rep1,edna0098,Rep1,biological,North,kelp,2018-07-17,,2018,surface,2,0,edna_north_15,surface,11.5,31.8,7.98,10.5,31.93,7.97,5.2,1000,0
+edna0098-Rep3,edna0098,Rep3,biological,North,kelp,2018-07-17,,2018,surface,2,0,edna_north_15,surface,11.5,31.8,7.98,10.5,31.93,7.97,5.2,1000,0
+edna0099-Rep1,edna0099,Rep1,biological,North,kelp,2018-07-17,,2018,surface,3,0,edna_north_30,surface,11,31.8,7.98,10.5,31.89,7.97,4.8,1000,0
+edna0099-Rep2,edna0099,Rep2,biological,North,kelp,2018-07-17,,2018,surface,3,0,edna_north_30,surface,11,31.8,7.98,10.5,31.89,7.97,4.8,1000,0
+edna0099-Rep3,edna0099,Rep3,biological,North,kelp,2018-07-17,,2018,surface,3,0,edna_north_30,surface,11,31.8,7.98,10.5,31.89,7.97,4.8,1000,0
+edna0100-Rep1,edna0100,Rep1,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,1,0,edna_koe3_00,surface,13.6,25.71,7.96,11.2,30.41,7.98,2.2,1000,0
+edna0100-Rep2,edna0100,Rep2,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,1,0,edna_koe3_00,surface,13.6,25.71,7.96,11.2,30.41,7.98,2.2,1000,0
+edna0100-Rep3,edna0100,Rep3,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,1,0,edna_koe3_00,surface,13.6,25.71,7.96,11.2,30.41,7.98,2.2,1000,0
+edna0101-Rep1,edna0101,Rep1,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,2,0,edna_koe3_15,surface,14,34.3,8.06,10.8,30.84,7.99,1.8,1000,0
+edna0101-Rep2,edna0101,Rep2,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,2,0,edna_koe3_15,surface,14,34.3,8.06,10.8,30.84,7.99,1.8,1000,0
+edna0101-Rep3,edna0101,Rep3,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,2,0,edna_koe3_15,surface,14,34.3,8.06,10.8,30.84,7.99,1.8,1000,0
+edna0102-Rep1,edna0102,Rep1,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,3,0,edna_koe3_30,surface,14.3,34.4,8.08,12.9,28.38,8.15,2,1000,0
+edna0102-Rep2,edna0102,Rep2,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,3,0,edna_koe3_30,surface,14.3,34.4,8.08,12.9,28.38,8.15,2,1000,0
+edna0102-Rep3,edna0102,Rep3,biological,KOE3,beach_seine,2018-07-20,2018-07-18,2018,surface,3,0,edna_koe3_30,surface,14.3,34.4,8.08,12.9,28.38,8.15,2,1000,0
+edna0103-Rep1,edna0103,Rep1,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,1,0,edna_koe1_00,surface,14.6,22.86,8.4,11.1,30.49,8.07,2.9,1000,0
+edna0103-Rep2,edna0103,Rep2,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,1,0,edna_koe1_00,surface,14.6,22.86,8.4,11.1,30.49,8.07,2.9,1000,0
+edna0103-Rep3,edna0103,Rep3,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,1,0,edna_koe1_00,surface,14.6,22.86,8.4,11.1,30.49,8.07,2.9,1000,0
+edna0104-Rep1,edna0104,Rep1,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,2,0,edna_koe1_15,surface,14.6,22.81,8.03,11.3,30.52,8.08,2.3,1000,0
+edna0104-Rep2,edna0104,Rep2,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,2,0,edna_koe1_15,surface,14.6,22.81,8.03,11.3,30.52,8.08,2.3,1000,0
+edna0104-Rep3,edna0104,Rep3,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,2,0,edna_koe1_15,surface,14.6,22.81,8.03,11.3,30.52,8.08,2.3,1000,0
+edna0105-Rep1,edna0105,Rep1,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,3,0,edna_koe1_30,surface,14.6,22.64,8.02,12.2,29.48,8.02,2.5,1000,0
+edna0105-Rep2,edna0105,Rep2,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,3,0,edna_koe1_30,surface,14.6,22.64,8.02,12.2,29.48,8.02,2.5,1000,0
+edna0105-Rep3,edna0105,Rep3,biological,KOE1,beach_seine,2018-07-20,2018-07-18,2018,surface,3,0,edna_koe1_30,surface,14.6,22.64,8.02,12.2,29.48,8.02,2.5,1000,0
+edna0106-Rep1,edna0106,Rep1,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,1,0,edna_sni1_00,surface,10.7,30.65,8.08,9,31.4,7.76,6.8,1000,0
+edna0106-Rep2,edna0106,Rep2,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,1,0,edna_sni1_00,surface,10.7,30.65,8.08,9,31.4,7.76,6.8,1000,0
+edna0106-Rep3,edna0106,Rep3,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,1,0,edna_sni1_00,surface,10.7,30.65,8.08,9,31.4,7.76,6.8,1000,0
+edna0107-Rep1,edna0107,Rep1,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,2,0,edna_sni1_15,surface,10.9,29.67,8.06,9.1,31.26,7.77,4.8,1000,0
+edna0107-Rep2,edna0107,Rep2,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,2,0,edna_sni1_15,surface,10.9,29.67,8.06,9.1,31.26,7.77,4.8,1000,0
+edna0107-Rep3,edna0107,Rep3,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,2,0,edna_sni1_15,surface,10.9,29.67,8.06,9.1,31.26,7.77,4.8,1000,0
+edna0108-Rep1,edna0108,Rep1,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,3,0,edna_sni1_30,surface,11.2,29.61,8.1,9.1,3126,7.79,3.6,1000,0
+edna0108-Rep2,edna0108,Rep2,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,3,0,edna_sni1_30,surface,11.2,29.61,8.1,9.1,3126,7.79,3.6,1000,0
+edna0108-Rep3,edna0108,Rep3,biological,SNI1,beach_seine,2018-07-18,2018-07-16,2018,surface,3,0,edna_sni1_30,surface,11.2,29.61,8.1,9.1,3126,7.79,3.6,1000,0
+edna0109-Rep1,edna0109,Rep1,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,1,0,edna_sni2_00,surface,15.1,26.73,8.39,10.6,30.27,8.23,5.8,1000,0
+edna0109-Rep2,edna0109,Rep2,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,1,0,edna_sni2_00,surface,15.1,26.73,8.39,10.6,30.27,8.23,5.8,1000,0
+edna0109-Rep3,edna0109,Rep3,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,1,0,edna_sni2_00,surface,15.1,26.73,8.39,10.6,30.27,8.23,5.8,1000,0
+edna0110-Rep1,edna0110,Rep1,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,2,0,edna_sni2_15,surface,15.3,26.75,8.39,10.5,30.33,8.21,6,1000,0
+edna0110-Rep2,edna0110,Rep2,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,2,0,edna_sni2_15,surface,15.3,26.75,8.39,10.5,30.33,8.21,6,1000,0
+edna0110-Rep3,edna0110,Rep3,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,2,0,edna_sni2_15,surface,15.3,26.75,8.39,10.5,30.33,8.21,6,1000,0
+edna0111-Rep1,edna0111,Rep1,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,3,0,edna_sni2_30,surface,15.1,26.67,8.38,10.5,30.29,8.19,6.5,1000,0
+edna0111-Rep2,edna0111,Rep2,biological,SNI2,beach_seine,2018-07-18,2018-07-16,2018,surface,3,0,edna_sni2_30,surface,15.1,26.67,8.38,10.5,30.29,8.19,6.5,1000,0
+edna0112-Rep1,edna0112,Rep1,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,1,0,edna_ko_e3_00,repeat-surface,,,,,,,3.5,1000,0
+edna0112-Rep2,edna0112,Rep2,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,1,0,edna_ko_e3_00,repeat-surface,,,,,,,3.5,1000,0
+edna0112-Rep3,edna0112,Rep3,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,1,0,edna_ko_e3_00,repeat-surface,,,,,,,3.5,1000,0
+edna0113-Rep1,edna0113,Rep1,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,2,0,edna_ko_e3_15,repeat-surface,14.6,29.62,8.15,14,29.83,8.15,3.6,1000,0
+edna0113-Rep2,edna0113,Rep2,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,2,0,edna_ko_e3_15,repeat-surface,14.6,29.62,8.15,14,29.83,8.15,3.6,1000,0
+edna0113-Rep3,edna0113,Rep3,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,2,0,edna_ko_e3_15,repeat-surface,14.6,29.62,8.15,14,29.83,8.15,3.6,1000,0
+edna0114-Rep1,edna0114,Rep1,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,3,0,edna_ko_e3_30,repeat-surface,,,,,,,3.5,1000,0
+edna0114-Rep2,edna0114,Rep2,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,3,0,edna_ko_e3_30,repeat-surface,,,,,,,3.5,1000,0
+edna0114-Rep3,edna0114,Rep3,biological,Koeye Estuary,seagrass,2018-08-14,,2018,surface,3,0,edna_ko_e3_30,repeat-surface,,,,,,,3.5,1000,0
+edna0115-Rep1,edna0115,Rep1,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,1,0,edna_ch_i3_00,repeat-surface,,,,,,,7.3,1000,0
+edna0115-Rep2,edna0115,Rep2,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,1,0,edna_ch_i3_00,repeat-surface,,,,,,,7.3,1000,0
+edna0115-Rep3,edna0115,Rep3,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,1,0,edna_ch_i3_00,repeat-surface,,,,,,,7.3,1000,0
+edna0116-Rep1,edna0116,Rep1,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,2,0,edna_ch_i3_15,repeat-surface,11.1,31.85,7.9,10.4,31.98,7.9,7.3,1000,0
+edna0116-Rep2,edna0116,Rep2,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,2,0,edna_ch_i3_15,repeat-surface,11.1,31.85,7.9,10.4,31.98,7.9,7.3,1000,0
+edna0116-Rep3,edna0116,Rep3,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,2,0,edna_ch_i3_15,repeat-surface,11.1,31.85,7.9,10.4,31.98,7.9,7.3,1000,0
+edna0117-Rep1,edna0117,Rep1,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,3,0,edna_ch_i3_30,repeat-surface,,,,,,,7.3,1000,0
+edna0117-Rep2,edna0117,Rep2,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,3,0,edna_ch_i3_30,repeat-surface,,,,,,,7.3,1000,0
+edna0117-Rep3,edna0117,Rep3,biological,Choked Pass,seagrass,2018-08-16,,2018,surface,3,0,edna_ch_i3_30,repeat-surface,,,,,,,7.3,1000,0
+edna0118-Rep1,edna0118,Rep1,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,1,0,edna_pr_i3_00,repeat-surface,,,,,,,3,1000,0
+edna0118-Rep2,edna0118,Rep2,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,1,0,edna_pr_i3_00,repeat-surface,,,,,,,3,1000,0
+edna0118-Rep3,edna0118,Rep3,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,1,0,edna_pr_i3_00,repeat-surface,,,,,,,3,1000,0
+edna0119-Rep1,edna0119,Rep1,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,2,0,edna_pr_i3_15,repeat-surface,15,30.05,8.19,14.3,30.45,8.24,3,1000,0
+edna0119-Rep2,edna0119,Rep2,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,2,0,edna_pr_i3_15,repeat-surface,15,30.05,8.19,14.3,30.45,8.24,3,1000,0
+edna0119-Rep3,edna0119,Rep3,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,2,0,edna_pr_i3_15,repeat-surface,15,30.05,8.19,14.3,30.45,8.24,3,1000,0
+edna0120-Rep1,edna0120,Rep1,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,3,0,edna_pr_i3_30,repeat-surface,,,,,,,3,1000,0
+edna0120-Rep2,edna0120,Rep2,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,3,0,edna_pr_i3_30,repeat-surface,,,,,,,3,1000,0
+edna0120-Rep3,edna0120,Rep3,biological,Pruth Bay,seagrass,2018-08-16,,2018,surface,3,0,edna_pr_i3_30,repeat-surface,,,,,,,3,1000,0
+edna0121-Rep1,edna0121,Rep1,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,1,0,edna_hdo_00,repeat-surface,,,,,,,4.2,950,0
+edna0121-Rep2,edna0121,Rep2,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,1,0,edna_hdo_00,repeat-surface,,,,,,,4.2,950,0
+edna0121-Rep3,edna0121,Rep3,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,1,0,edna_hdo_00,repeat-surface,,,,,,,4.2,950,0
+edna0122-Rep1,edna0122,Rep1,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,2,0,edna_hdo_15,repeat-surface,15.3,27.04,8.32,12.9,31.68,8.05,4.4,775,0
+edna0122-Rep2,edna0122,Rep2,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,2,0,edna_hdo_15,repeat-surface,15.3,27.04,8.32,12.9,31.68,8.05,4.4,775,0
+edna0122-Rep3,edna0122,Rep3,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,2,0,edna_hdo_15,repeat-surface,15.3,27.04,8.32,12.9,31.68,8.05,4.4,775,0
+edna0123-Rep1,edna0123,Rep1,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,3,0,edna_hdo_30,repeat-surface,,,,,,,4.8,875,0
+edna0123-Rep2,edna0123,Rep2,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,3,0,edna_hdo_30,repeat-surface,,,,,,,4.8,875,0
+edna0123-Rep3,edna0123,Rep3,biological,HDO,beach_seine,2018-08-23,2018-08-23,2018,surface,3,0,edna_hdo_30,repeat-surface,,,,,,,4.8,875,0
+edna0124-Rep1,edna0124,Rep1,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,1,0,edna_ppo_00,repeat-surface,,,,,,,5.1,725,0
+edna0124-Rep2,edna0124,Rep2,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,1,0,edna_ppo_00,repeat-surface,,,,,,,5.1,725,0
+edna0124-Rep3,edna0124,Rep3,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,1,0,edna_ppo_00,repeat-surface,,,,,,,5.1,725,0
+edna0125-Rep1,edna0125,Rep1,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,2,0,edna_ppo_15,repeat-surface,15.5,26.35,8.4,12.2,31.92,8,6.1,900,0
+edna0125-Rep2,edna0125,Rep2,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,2,0,edna_ppo_15,repeat-surface,15.5,26.35,8.4,12.2,31.92,8,6.1,900,0
+edna0125-Rep3,edna0125,Rep3,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,2,0,edna_ppo_15,repeat-surface,15.5,26.35,8.4,12.2,31.92,8,6.1,900,0
+edna0126-Rep1,edna0126,Rep1,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,3,0,edna_ppo_30,repeat-surface,,,,,,,5.8,1000,0
+edna0126-Rep2,edna0126,Rep2,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,3,0,edna_ppo_30,repeat-surface,,,,,,,5.8,1000,0
+edna0126-Rep3,edna0126,Rep3,biological,PPO,beach_seine,2018-08-23,2018-08-23,2018,surface,3,0,edna_ppo_30,repeat-surface,,,,,,,5.8,1000,0
+edna0127-Rep1,edna0127,Rep1,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,1,0,edna_pba_00,repeat-surface,,,,,,,4.3,675,0
+edna0127-Rep2,edna0127,Rep2,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,1,0,edna_pba_00,repeat-surface,,,,,,,4.3,675,0
+edna0127-Rep3,edna0127,Rep3,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,1,0,edna_pba_00,repeat-surface,,,,,,,4.3,675,0
+edna0128-Rep1,edna0128,Rep1,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,2,0,edna_pba_15,repeat-surface,15.4,26.05,8.4,12.4,32.08,7.99,4.5,900,0
+edna0128-Rep2,edna0128,Rep2,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,2,0,edna_pba_15,repeat-surface,15.4,26.05,8.4,12.4,32.08,7.99,4.5,900,0
+edna0128-Rep3,edna0128,Rep3,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,2,0,edna_pba_15,repeat-surface,15.4,26.05,8.4,12.4,32.08,7.99,4.5,900,0
+edna0129-Rep1,edna0129,Rep1,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,3,0,edna_pba_30,repeat-surface,,,,,,,4.6,820,0
+edna0129-Rep2,edna0129,Rep2,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,3,0,edna_pba_30,repeat-surface,,,,,,,4.6,820,0
+edna0129-Rep3,edna0129,Rep3,biological,PBA,beach_seine,2018-08-23,2018-08-25,2018,surface,3,0,edna_pba_30,repeat-surface,,,,,,,4.6,820,0
+edna0130-Rep1,edna0130,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,1,0,pruth_grid_a1,grid,,,,,,,4.6,675,0
+edna0130-Rep2,edna0130,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,1,0,pruth_grid_a1,grid,,,,,,,4.6,675,0
+edna0130-Rep3,edna0130,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,1,0,pruth_grid_a1,grid,,,,,,,4.6,675,0
+edna0131-Rep1,edna0131,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,2,0,pruth_grid_a2,grid,15.4,26.16,8.42,11.9,32.15,7.96,6.1,955,0
+edna0131-Rep2,edna0131,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,2,0,pruth_grid_a2,grid,15.4,26.16,8.42,11.9,32.15,7.96,6.1,955,0
+edna0131-Rep3,edna0131,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,2,0,pruth_grid_a2,grid,15.4,26.16,8.42,11.9,32.15,7.96,6.1,955,0
+edna0132-Rep1,edna0132,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,3,0,pruth_grid_a3,grid,,,,,,,5.5,840,0
+edna0132-Rep2,edna0132,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,3,0,pruth_grid_a3,grid,,,,,,,5.5,840,0
+edna0132-Rep3,edna0132,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,3,0,pruth_grid_a3,grid,,,,,,,5.5,840,0
+edna0133-Rep1,edna0133,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,4,0,pruth_grid_b1,grid,,,,,,,3.2,1000,0
+edna0133-Rep2,edna0133,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,4,0,pruth_grid_b1,grid,,,,,,,3.2,1000,0
+edna0133-Rep3,edna0133,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,4,0,pruth_grid_b1,grid,,,,,,,3.2,1000,0
+edna0134-Rep1,edna0134,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,5,0,pruth_grid_b2,grid,15.4,25.96,8.44,13.5,31.65,8.06,3.2,775,0
+edna0134-Rep2,edna0134,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,5,0,pruth_grid_b2,grid,15.4,25.96,8.44,13.5,31.65,8.06,3.2,775,0
+edna0134-Rep3,edna0134,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,5,0,pruth_grid_b2,grid,15.4,25.96,8.44,13.5,31.65,8.06,3.2,775,0
+edna0135-Rep1,edna0135,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,6,0,pruth_grid_b3,grid,,,,,,,3.2,875,0
+edna0135-Rep2,edna0135,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,6,0,pruth_grid_b3,grid,,,,,,,3.2,875,0
+edna0135-Rep3,edna0135,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,6,0,pruth_grid_b3,grid,,,,,,,3.2,875,0
+edna0136-Rep1,edna0136,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,7,0,pruth_grid_c1,grid,,,,,,,2.6,600,0
+edna0136-Rep2,edna0136,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,7,0,pruth_grid_c1,grid,,,,,,,2.6,600,0
+edna0136-Rep3,edna0136,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,7,0,pruth_grid_c1,grid,,,,,,,2.6,600,0
+edna0137-Rep1,edna0137,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,8,0,pruth_grid_c2,grid,15.5,25.99,8.42,14.7,30.24,8.13,2.6,855,0
+edna0137-Rep2,edna0137,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,8,0,pruth_grid_c2,grid,15.5,25.99,8.42,14.7,30.24,8.13,2.6,855,0
+edna0137-Rep3,edna0137,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,8,0,pruth_grid_c2,grid,15.5,25.99,8.42,14.7,30.24,8.13,2.6,855,0
+edna0138-Rep1,edna0138,Rep1,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,9,0,pruth_grid_c3,grid,,,,,,,2.7,955,0
+edna0138-Rep2,edna0138,Rep2,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,9,0,pruth_grid_c3,grid,,,,,,,2.7,955,0
+edna0138-Rep3,edna0138,Rep3,biological,Pruth Grid,seagrass_grid,2018-08-23,,2018,surface,9,0,pruth_grid_c3,grid,,,,,,,2.7,955,0
+edna0139-Rep1,edna0139,Rep1,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,1,0,edna_wfb_00,repeat-surface,,,,,,,5,1000,0
+edna0139-Rep2,edna0139,Rep2,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,1,0,edna_wfb_00,repeat-surface,,,,,,,5,1000,0
+edna0139-Rep3,edna0139,Rep3,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,1,0,edna_wfb_00,repeat-surface,,,,,,,5,1000,0
+edna0140-Rep1,edna0140,Rep1,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,2,0,edna_wfb_15,repeat-surface,11.8,32.57,7.97,10.7,32.76,7.85,5,1000,0
+edna0140-Rep2,edna0140,Rep2,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,2,0,edna_wfb_15,repeat-surface,11.8,32.57,7.97,10.7,32.76,7.85,5,1000,0
+edna0140-Rep3,edna0140,Rep3,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,2,0,edna_wfb_15,repeat-surface,11.8,32.57,7.97,10.7,32.76,7.85,5,1000,0
+edna0141-Rep1,edna0141,Rep1,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,3,0,edna_wfb_30,repeat-surface,,,,,,,4.9,1000,0
+edna0141-Rep2,edna0141,Rep2,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,3,0,edna_wfb_30,repeat-surface,,,,,,,4.9,1000,0
+edna0141-Rep3,edna0141,Rep3,biological,WFB,beach_seine,2018-08-24,2018-08-24,2018,surface,3,0,edna_wfb_30,repeat-surface,,,,,,,4.9,1000,0
+edna0142-Rep1,edna0142,Rep1,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,1,0,edna_chp_00,repeat-surface,,,,,,,4.2,1000,0
+edna0142-Rep2,edna0142,Rep2,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,1,0,edna_chp_00,repeat-surface,,,,,,,4.2,1000,0
+edna0142-Rep3,edna0142,Rep3,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,1,0,edna_chp_00,repeat-surface,,,,,,,4.2,1000,0
+edna0143-Rep1,edna0143,Rep1,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,2,0,edna_chp_15,repeat-surface,11.5,31.82,7.97,10.8,32.41,7.97,3.5,1000,0
+edna0143-Rep2,edna0143,Rep2,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,2,0,edna_chp_15,repeat-surface,11.5,31.82,7.97,10.8,32.41,7.97,3.5,1000,0
+edna0143-Rep3,edna0143,Rep3,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,2,0,edna_chp_15,repeat-surface,11.5,31.82,7.97,10.8,32.41,7.97,3.5,1000,0
+edna0144-Rep1,edna0144,Rep1,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,3,0,edna_chp_30,repeat-surface,,,,,,,3.5,1000,0
+edna0144-Rep2,edna0144,Rep2,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,3,0,edna_chp_30,repeat-surface,,,,,,,3.5,1000,0
+edna0144-Rep3,edna0144,Rep3,biological,CHP,beach_seine,2018-08-24,2018-08-25,2018,surface,3,0,edna_chp_30,repeat-surface,,,,,,,3.5,1000,0
+edna0145-Rep1,edna0145,Rep1,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,1,0,edna_ssp_00,repeat-surface,,,,,,,3.9,1000,0
+edna0145-Rep2,edna0145,Rep2,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,1,0,edna_ssp_00,repeat-surface,,,,,,,3.9,1000,0
+edna0145-Rep3,edna0145,Rep3,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,1,0,edna_ssp_00,repeat-surface,,,,,,,3.9,1000,0
+edna0146-Rep1,edna0146,Rep1,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,2,0,edna_ssp_15,repeat-surface,10.9,32.09,7.93,10.5,32.7,7.92,3.8,1000,0
+edna0146-Rep2,edna0146,Rep2,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,2,0,edna_ssp_15,repeat-surface,10.9,32.09,7.93,10.5,32.7,7.92,3.8,1000,0
+edna0146-Rep3,edna0146,Rep3,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,2,0,edna_ssp_15,repeat-surface,10.9,32.09,7.93,10.5,32.7,7.92,3.8,1000,0
+edna0147-Rep1,edna0147,Rep1,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,3,0,edna_ssp_30,repeat-surface,,,,,,,3.9,1000,0
+edna0147-Rep2,edna0147,Rep2,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,3,0,edna_ssp_30,repeat-surface,,,,,,,3.9,1000,0
+edna0147-Rep3,edna0147,Rep3,biological,SSP,beach_seine,2018-08-24,2018-08-24,2018,surface,3,0,edna_ssp_30,repeat-surface,,,,,,,3.9,1000,0
+edna0148-Rep1,edna0148,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,1,0,choked_grid_a1,grid,,,,,,,7,1000,0
+edna0148-Rep2,edna0148,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,1,0,choked_grid_a1,grid,,,,,,,7,1000,0
+edna0148-Rep3,edna0148,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,1,0,choked_grid_a1,grid,,,,,,,7,1000,0
+edna0149-Rep1,edna0149,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,2,0,choked_grid_a2,grid,11.5,31.84,7.96,10.1,32.49,7.87,7,1000,0
+edna0149-Rep2,edna0149,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,2,0,choked_grid_a2,grid,11.5,31.84,7.96,10.1,32.49,7.87,7,1000,0
+edna0149-Rep3,edna0149,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,2,0,choked_grid_a2,grid,11.5,31.84,7.96,10.1,32.49,7.87,7,1000,0
+edna0150-Rep1,edna0150,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,3,0,choked_grid_a3,grid,,,,,,,6.8,1000,0
+edna0150-Rep2,edna0150,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,3,0,choked_grid_a3,grid,,,,,,,6.8,1000,0
+edna0150-Rep3,edna0150,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,3,0,choked_grid_a3,grid,,,,,,,6.8,1000,0
+edna0151-Rep1,edna0151,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,4,0,choked_grid_b1,grid,,,,,,,6.9,1000,0
+edna0151-Rep2,edna0151,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,4,0,choked_grid_b1,grid,,,,,,,6.9,1000,0
+edna0151-Rep3,edna0151,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,4,0,choked_grid_b1,grid,,,,,,,6.9,1000,0
+edna0152-Rep1,edna0152,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,5,0,choked_grid_b2,grid,12.1,31.15,7.97,10.1,33,7.87,7.8,1000,0
+edna0152-Rep2,edna0152,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,5,0,choked_grid_b2,grid,12.1,31.15,7.97,10.1,33,7.87,7.8,1000,0
+edna0152-Rep3,edna0152,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,5,0,choked_grid_b2,grid,12.1,31.15,7.97,10.1,33,7.87,7.8,1000,0
+edna0153-Rep1,edna0153,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,6,0,choked_grid_b3,grid,,,,,,,7.6,1000,0
+edna0153-Rep2,edna0153,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,6,0,choked_grid_b3,grid,,,,,,,7.6,1000,0
+edna0153-Rep3,edna0153,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,6,0,choked_grid_b3,grid,,,,,,,7.6,1000,0
+edna0154-Rep1,edna0154,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,7,0,choked_grid_c1,grid,,,,,,,7.3,1000,0
+edna0154-Rep2,edna0154,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,7,0,choked_grid_c1,grid,,,,,,,7.3,1000,0
+edna0154-Rep3,edna0154,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,7,0,choked_grid_c1,grid,,,,,,,7.3,1000,0
+edna0155-Rep1,edna0155,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,8,0,choked_grid_c2,grid,11.9,31.57,7.97,10.1,32.97,7.87,7.2,1000,0
+edna0155-Rep2,edna0155,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,8,0,choked_grid_c2,grid,11.9,31.57,7.97,10.1,32.97,7.87,7.2,1000,0
+edna0155-Rep3,edna0155,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,8,0,choked_grid_c2,grid,11.9,31.57,7.97,10.1,32.97,7.87,7.2,1000,0
+edna0156-Rep1,edna0156,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,9,0,choked_grid_c3,grid,,,,,,,7.4,1000,0
+edna0156-Rep2,edna0156,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,9,0,choked_grid_c3,grid,,,,,,,7.4,1000,0
+edna0156-Rep3,edna0156,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,9,0,choked_grid_c3,grid,,,,,,,7.4,1000,0
+edna0157-Rep1,edna0157,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,10,0,choked_grid_d1,grid,,,,,,,7.8,1000,0
+edna0157-Rep2,edna0157,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,10,0,choked_grid_d1,grid,,,,,,,7.8,1000,0
+edna0157-Rep3,edna0157,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,10,0,choked_grid_d1,grid,,,,,,,7.8,1000,0
+edna0158-Rep1,edna0158,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,11,0,choked_grid_d2,grid,11.2,32.02,7.93,10.1,32.95,7.87,7.7,1000,0
+edna0158-Rep2,edna0158,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,11,0,choked_grid_d2,grid,11.2,32.02,7.93,10.1,32.95,7.87,7.7,1000,0
+edna0158-Rep3,edna0158,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,11,0,choked_grid_d2,grid,11.2,32.02,7.93,10.1,32.95,7.87,7.7,1000,0
+edna0159-Rep1,edna0159,Rep1,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,12,0,choked_grid_d3,grid,,,,,,,7.6,1000,0
+edna0159-Rep2,edna0159,Rep2,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,12,0,choked_grid_d3,grid,,,,,,,7.6,1000,0
+edna0159-Rep3,edna0159,Rep3,biological,Choked Grid,seagrass_grid,2018-08-24,,2018,surface,12,0,choked_grid_d3,grid,,,,,,,7.6,1000,0
+edna0206,edna0206,pooled,biological,HDO,beach_seine,2019-09-02,2019-07-29,2019,2.2,1,0,edna_hdo_00,surface,,,,,,,0,1000,0
+edna0207,edna0207,pooled,biological,HDO,beach_seine,2019-09-02,2019-07-29,2019,3.9,2,0,edna_hdo_15,surface,15.3,27.64,8.15,14.5,27.82,8.13,3.9,1000,0
+edna0208,edna0208,pooled,biological,HDO,beach_seine,2019-09-02,2019-07-29,2019,3.9,3,0,edna_hdo_30,surface,,,,,,,0,1000,0
+edna0209,edna0209,pooled,biological,PPO,beach_seine,2019-09-02,2019-07-31,2019,1.8,1,0,edna_ppo_00,surface,,,,,,,0,1000,0
+edna0210,edna0210,pooled,biological,PPO,beach_seine,2019-09-02,2019-07-31,2019,4.6,2,0,edna_ppo_15,surface,14.5,27.74,8.12,14.3,27.99,8.15,5,1000,0
+edna0211,edna0211,pooled,biological,PPO,beach_seine,2019-09-02,2019-07-31,2019,4.3,3,0,edna_ppo_30,surface,,,,,,,0,1000,0
+edna0212,edna0212,pooled,biological,PBA,beach_seine,2019-09-02,2019-07-31,2019,3.1,1,0,edna_pba_00,surface,,,,,,,0,1000,0
+edna0213,edna0213,pooled,biological,PBA,beach_seine,2019-09-02,2019-07-31,2019,1.1,2,0,edna_pba_15,surface,15.1,27.64,8.04,14.7,28.13,8.01,2.3,1000,0
+edna0214,edna0214,pooled,biological,PBA,beach_seine,2019-09-02,2019-07-31,2019,1.4,3,0,edna_pba_30,surface,,,,,,,0,1000,0
+edna0215,edna0215,pooled,biological,HAB4,beach_seine,2019-09-02,,2019,6,1,0,edna_hab4_00,surface,,,,,,,0,1000,0
+edna0216,edna0216,pooled,biological,HAB4,beach_seine,2019-09-02,,2019,6,2,0,edna_hab4_15,surface,13.5,28.61,7.63,13,27.59,7.85,6,1000,0
+edna0217,edna0217,pooled,biological,HAB4,beach_seine,2019-09-02,,2019,3.9,3,0,edna_hab4_30,surface,,,,,,,0,1000,0
+edna0218,edna0218,pooled,biological,KIS2,beach_seine,2019-09-03,2019-08-01,2019,1.6,1,0,edna_kis2_00,surface,,,,,,,0,1000,0
+edna0219,edna0219,pooled,biological,KIS2,beach_seine,2019-09-03,2019-08-01,2019,1,2,0,edna_kis2_15,surface,15.1,33.4,8.03,15,33.49,8.03,3.5,1000,0
+edna0220,edna0220,pooled,biological,KIS2,beach_seine,2019-09-03,2019-08-01,2019,2.4,3,0,edna_kis2_30,surface,,,,,,,0,1000,0
+edna0221,edna0221,pooled,biological,KIS1,beach_seine,2019-09-03,2019-08-01,2019,3.6,1,0,edna_kis1_00,surface,,,,,,,0,1000,0
+edna0222,edna0222,pooled,biological,KIS1,beach_seine,2019-09-03,2019-08-01,2019,4.5,2,0,edna_kis1_15,surface,14.6,33.02,8,14.7,33.61,7.99,7.9,1000,0
+edna0223,edna0223,pooled,biological,KIS1,beach_seine,2019-09-03,2019-08-01,2019,4.4,3,0,edna_kis1_30,surface,,,,,,,0,1000,0
+edna0224,edna0224,pooled,biological,Triquet,kelp,2019-09-03,,2019,4.5,1,0,edna_triquet_00,surface,,,,,,,0,1000,0
+edna0225,edna0225,pooled,biological,Triquet,kelp,2019-09-03,,2019,4.7,2,0,edna_triquet_15,surface,14.6,33.49,7.93,14.5,33.56,7.97,4.6,1000,0
+edna0226,edna0226,pooled,biological,Triquet,kelp,2019-09-03,,2019,4.3,3,0,edna_triquet_30,surface,,,,,,,0,1000,0
+edna0227,edna0227,pooled,biological,Manley,kelp,2019-09-03,,2019,4.4,1,0,edna_manley_00,surface,,,,,,,0,1000,0
+edna0228,edna0228,pooled,biological,Manley,kelp,2019-09-03,,2019,3.4,2,0,edna_manley_15,surface,14.8,32.42,7.57,14.8,32.53,7.92,4,1000,0
+edna0229,edna0229,pooled,biological,Manley,kelp,2019-09-03,,2019,6.9,3,0,edna_manley_30,surface,,,,,,,0,1000,0
+edna0230,edna0230,pooled,biological,Womanley,kelp,2019-09-03,,2019,4.8,1,0,edna_womanley_00,surface,,,,,,,0,1000,0
+edna0231,edna0231,pooled,biological,Womanley,kelp,2019-09-03,,2019,5.8,2,0,edna_womanley_15,surface,14.8,32.53,8,14.8,32.75,7.99,5.7,1000,0
+edna0232,edna0232,pooled,biological,Womanley,kelp,2019-09-03,,2019,5.6,3,0,edna_womanley_30,surface,,,,,,,0,1000,0
+edna0233,edna0233,pooled,biological,SNI1,beach_seine,2019-09-04,,2019,5.5,1,0,edna_sni1_00,surface,,,,,,,0,1000,0
+edna0234,edna0234,pooled,biological,SNI1,beach_seine,2019-09-04,,2019,4.4,2,0,edna_sni1_15,surface,13.1,28.53,7.71,11.8,30.62,7.71,4.2,1000,0
+edna0235,edna0235,pooled,biological,SNI2,beach_seine,2019-09-04,,2019,4.8,1,0,edna_sni2_00,surface,,,,,,,0,1000,0
+edna0236,edna0236,pooled,biological,SNI2,beach_seine,2019-09-04,,2019,4.3,2,0,edna_sni2_15,surface,14.2,27.77,7.91,11.9,31.05,7.79,4.4,1000,0
+edna0237,edna0237,pooled,biological,SNI2,beach_seine,2019-09-04,,2019,2.8,3,0,edna_sni2_30,surface,,,,,,,0,1000,0
+edna0238,edna0238,pooled,biological,KOE3,beach_seine,2019-09-04,2019-08-04,2019,3.5,1,0,edna_koe3_00,surface,,,,,,,0,1000,0
+edna0239,edna0239,pooled,biological,KOE3,beach_seine,2019-09-04,2019-08-04,2019,3.1,2,0,edna_koe3_15,surface,14.7,19.45,7.72,12.2,30.19,7.7,2.7,1000,0
+edna0240,edna0240,pooled,biological,KOE3,beach_seine,2019-09-04,2019-08-04,2019,2.5,3,0,edna_koe3_30,surface,,,,,,,0,1000,0
+edna0241,edna0241,pooled,biological,KOE1,beach_seine,2019-09-04,2019-08-04,2019,3.4,1,0,edna_koe1_00,surface,,,,,,,0,1000,0
+edna0242,edna0242,pooled,biological,KOE1,beach_seine,2019-09-04,2019-08-04,2019,2.4,2,0,edna_koe1_15,surface,14.5,21.39,7.55,13.9,26.15,7.7,2.2,1000,0
+edna0243,edna0243,pooled,biological,KOE1,beach_seine,2019-09-04,2019-08-04,2019,2,3,0,edna_koe1_30,surface,,,,,,,0,1000,0
+edna0244,edna0244,pooled,biological,Koeye,seagrass,2019-09-04,,2019,2,1,0,edna_ko_e3_00,surface,,,,,,,0,1000,0
+edna0245,edna0245,pooled,biological,Koeye,seagrass,2019-09-04,,2019,2,2,0,edna_ko_e3_15,surface,14.9,17.88,6.66,14.8,17.99,7.12,2.3,1000,0
+edna0246,edna0246,pooled,biological,Koeye,seagrass,2019-09-04,,2019,2.4,3,0,edna_ko_e3_30,surface,,,,,,,0,1000,0
+edna0247,edna0247,pooled,biological,SNI1,beach_seine,2019-09-04,,2019,5.9,3,0,edna_sni1_30,surface,,,,,,,0,1000,0
+edna0248,edna0248,pooled,biological,Pruth Bay,seagrass,2019-09-04,,2019,1.5,1,0,edna_pr_i3_00,surface,,,,,,,0,1000,0
+edna0249,edna0249,pooled,biological,Pruth Bay,seagrass,2019-09-04,,2019,1.8,2,0,edna_pr_i3_15,surface,14.9,30.12,7.92,14.3,30.39,8.04,1.7,1000,0
+edna0250,edna0250,pooled,biological,Pruth Bay,seagrass,2019-09-04,,2019,1.8,3,0,edna_pr_i3_30,surface,,,,,,,0,1000,0
+edna0251,edna0251,pooled,biological,West Beach,kelp,2019-09-05,,2019,5.5,1,0,enda_west_00,surface,,,,,,,0,1000,0
+edna0252,edna0252,pooled,biological,West Beach,kelp,2019-09-05,,2019,5.3,2,0,edna_west_15,surface,14.5,26.04,7.28,14.2,26.61,7.77,5.7,1000,0
+edna0253,edna0253,pooled,biological,West Beach,kelp,2019-09-05,,2019,5.6,3,0,edna_west_30,surface,,,,,,,0,1000,0
+edna0254,edna0254,pooled,biological,Second Beach,kelp,2019-09-05,,2019,7,1,0,edna_second_00,surface,,,,,,,0,1000,0
+edna0255,edna0255,pooled,biological,Second Beach,kelp,2019-09-05,,2019,6.7,2,0,edna_second_15,surface,14.3,26.6,7.97,14.2,26.64,8.02,6.4,1000,0
+edna0256,edna0256,pooled,biological,Second Beach,kelp,2019-09-05,,2019,5.6,3,0,edna_second_30,surface,,,,,,,0,1000,0
+edna0257,edna0257,pooled,biological,North Beach,kelp,2019-09-05,,2019,5.4,1,0,edna_north_00,surface,,,,,,,0,1000,0
+edna0258,edna0258,pooled,biological,North Beach,kelp,2019-09-05,,2019,4.5,2,0,edna_north_15,surface,14.2,26.83,8,13.8,26.94,8,4.5,1000,0
+edna0259,edna0259,pooled,biological,North Beach,kelp,2019-09-05,,2019,3.8,3,0,edna_north_30,surface,,,,,,,0,1000,0
+edna0260,edna0260,pooled,biological,HAB2,beach_seine,2019-09-05,,2019,2.6,1,0,edna_hab2_00,surface,,,,,,,0,1000,0
+edna0261,edna0261,pooled,biological,HAB2,beach_seine,2019-09-05,,2019,3,2,0,edna_hab2_15,surface,14.4,26.5,8.03,14.2,26.77,8.04,2.5,1000,0
+edna0262,edna0262,pooled,biological,HAB2,beach_seine,2019-09-05,,2019,3,3,0,edna_hab2_30,surface,,,,,,,0,1000,0
+edna0263,edna0263,pooled,biological,Choked Pass ,seagrass,2019-09-05,,2019,5.9,1,0,edna_ch_i3_00,surface,,,,,,,0,1000,0
+edna0264,edna0264,pooled,biological,Choked Pass ,seagrass,2019-09-05,,2019,5.2,2,0,edna_ch_i3_15,surface,13,25.38,7.96,12.3,27.37,7.94,5.3,1000,0
+edna0265,edna0265,pooled,biological,Choked Pass ,seagrass,2019-09-05,,2019,5.1,3,0,edna_ch_i3_30,surface,,,,,,,0,1000,0
+edna0266,edna0266,pooled,biological,WFB,beach_seine,2019-09-05,2019-07-30,2019,3.6,1,0,edna_wfb_00,surface,,,,,,,0,1000,0
+edna0267,edna0267,pooled,biological,WFB,beach_seine,2019-09-05,2019-07-30,2019,3.6,2,0,edna_wfb_15,surface,14,26.57,7.99,13.5,27.04,8,3.6,1000,0
+edna0268,edna0268,pooled,biological,WFB,beach_seine,2019-09-05,2019-07-30,2019,3.4,3,0,edna_wfb_30,surface,,,,,,,0,1000,0
+edna0269,edna0269,pooled,biological,CHP,beach_seine,2019-09-05,2019-07-29,2019,2.5,1,0,edna_chp_00,surface,,,,,,,0,1000,0
+edna0270,edna0270,pooled,biological,CHP,beach_seine,2019-09-05,2019-07-29,2019,2.6,2,0,edna_chp_15,surface,13.5,25.6,7.96,13.1,27.12,7.99,1.6,1000,0
+edna0271,edna0271,pooled,biological,CHP,beach_seine,2019-09-05,2019-07-29,2019,1.8,3,0,edna_chp_30,surface,,,,,,,0,1000,0
+edna0272,edna0272,pooled,biological,SSP,beach_seine,2019-09-05,2019-07-30,2019,2.4,1,0,edna_ssp_00,surface,,,,,,,0,1000,0
+edna0273,edna0273,pooled,biological,SSP,beach_seine,2019-09-05,2019-07-30,2019,2.5,2,0,edna_ssp_15,surface,13.5,26.68,7.97,13.3,27.11,7.99,2.4,1000,0
+edna0274,edna0274,pooled,biological,SSP,beach_seine,2019-09-05,2019-07-30,2019,2.6,3,0,edna_ssp_30,surface,,,,,,,0,1000,0
+edna0275,edna0275,pooled,biological,HDO,beach_seine,2020-07-19,2020-07-19,2020,0.5,1,0,enda_hdo_00,0,,,,,,,2.7,1000,all samples were filtered in Darby lab
+edna0276,edna0276,pooled,biological,HDO,beach_seine,2020-07-19,2020-07-19,2020,0.5,2,0,edna_hdo_15,0,14.8,26.68,8.15,14.4,24.47,8.15,4.5,1000,0
+edna0277,edna0277,pooled,biological,HDO,beach_seine,2020-07-19,2020-07-19,2020,0.5,3,0,edna_hdo_30,0,,,,,,,3.2,1000,0
+edna0278,edna0278,pooled,biological,CHP,beach_seine,2020-07-19,2020-07-19,2020,0.5,1,0,edna_chp_00,0,,,,,,,2,1000,0
+edna0279,edna0279,pooled,biological,CHP,beach_seine,2020-07-19,2020-07-19,2020,0.5,2,0,edna_chp_15,0,12.8,29.48,8.08,12.4,29.83,8.04,2,1000,0
+edna0280,edna0280,pooled,biological,CHP,beach_seine,2020-07-19,2020-07-19,2020,0.5,3,0,edna_chp_30,0,,,,,,,1.2,1000,0
+edna0281,edna0281,pooled,negative_control,NA,NA,2020-07-19,,2020,NA,NA,0,na,0,,,,,,,na,1000,0
+edna0282,edna0282,pooled,biological,SSP,beach_seine,2020-07-20,2020-07-20,2020,0.5,1,0,edna_ssp_00,0,,,,,,,2.1,1000,0
+edna0283,edna0283,pooled,biological,SSP,beach_seine,2020-07-20,2020-07-20,2020,0.5,2,0,edna_ssp_15,0,12.7,29.34,7.96,12.5,29.52,7.99,1.8,1000,0
+edna0284,edna0284,pooled,biological,SSP,beach_seine,2020-07-20,2020-07-20,2020,0.5,3,0,edna_ssp_30,0,,,,,,,1.7,1000,0
+edna0285,edna0285,pooled,biological,WFB,beach_seine,2020-07-20,2020-07-20,2020,0.5,1,0,edna_wfb_00,0,,,,,,,2.4,1000,0
+edna0286,edna0286,pooled,biological,WFB,beach_seine,2020-07-20,2020-07-20,2020,0.5,2,0,edna_wfb_15,0,13.2,29.17,8.05,12.7,29.53,8.05,2.3,1000,0
+edna0287,edna0287,pooled,biological,WFB,beach_seine,2020-07-20,2020-07-20,2020,0.5,3,0,edna_wfb_30,0,,,,,,,2.3,1000,0
+edna0288,edna0288,pooled,negative_control,NA,NA,2020-07-20,,2020,0.5,NA,0,na,0,,,,,,,na,1000,0
+edna0289,edna0289,pooled,biological,PPO,beach_seine,2020-07-21,2020-07-21,2020,0.5,1,0,edna_ppo_00,0,,,,,,,4.2,1000,0
+edna0290,edna0290,pooled,biological,PPO,beach_seine,2020-07-21,2020-07-21,2020,0.5,2,0,edna_ppo_15,0,15.5,23.59,8.76,15.5,23.72,8.73,3.3,1000,0
+edna0291,edna0291,pooled,biological,PPO,beach_seine,2020-07-21,2020-07-21,2020,0.5,3,0,edna_ppo_30,0,,,,,,,3.8,1000,0
+edna0292,edna0292,pooled,biological,PBA,beach_seine,2020-07-21,2020-07-21,2020,0.5,1,0,edna_pba_00,0,,,,,,,3.1,1000,0
+edna0293,edna0293,pooled,biological,PBA,beach_seine,2020-07-21,2020-07-21,2020,0.5,2,0,edna_pba_15,0,15.8,24.78,7.94,15.9,26.4,8.08,1.6,1000,0
+edna0294,edna0294,pooled,biological,PBA,beach_seine,2020-07-21,2020-07-21,2020,0.5,3,0,edna_pba_30,0,,,,,,,1.3,1000,0
+edna0295,edna0295,pooled,negative_control,NA,NA,2020-07-21,,2020,0.5,NA,0,na,0,,,,,,,na,1000,0
+edna0296,edna0296,pooled,biological,KOE3,beach_seine,2020-07-23,2020-07-23,2020,0.5,1,0,edna_koe3_00,0,,,,,,,2.5,1000,Slow to filter (45 mins to 1 hr per sample)
+edna0297,edna0297,pooled,biological,KOE3,beach_seine,2020-07-23,2020-07-23,2020,0.5,2,0,edna_koe3_15,0,15.7,8.43,8.15,15.2,14.05,8.5,2.2,1000,Slow to filter (45 mins to 1 hr per sample)
+edna0298,edna0298,pooled,biological,KOE3,beach_seine,2020-07-23,2020-07-23,2020,0.5,3,0,edna_koe3_30,0,,,,,,,1.3,900,Slow to filter (45 mins to 1 hr per sample)
+edna0299,edna0299,pooled,biological,KOE1,beach_seine,2020-07-23,2020-07-23,2020,0.5,1,0,edna_koe1_00,0,,,,,,,2,900,Slow to filter (45 mins to 1 hr per sample)
+edna0300,edna0300,pooled,biological,KOE1,beach_seine,2020-07-23,2020-07-23,2020,0.5,2,0,edna_koe1_15,0,15.6,10.45,8.5,15.6,11.46,8.63,1.3,1000,Slow to filter (45 mins to 1 hr per sample)
+edna0301,edna0301,pooled,biological,KOE1,beach_seine,2020-07-23,2020-07-23,2020,0.5,3,0,edna_koe1_30,0,,,,,,,0.9,1000,Slow to filter (45 mins to 1 hr per sample)
+edna0302,edna0302,pooled,negative_control,NA,NA,2020-07-23,,2020,0.5,NA,0,na,0,,,,,,,na,1000,0
+edna0303,edna0303,pooled,biological,KIS2,beach_seine,2020-07-24,2020-07-24,2020,0.5,1,0,edna_kis2_00,0,,,,,,,2.9,1000,0
+edna0304,edna0304,pooled,biological,KIS2,beach_seine,2020-07-24,2020-07-24,2020,0.5,2,0,edna_kis2_15,0,14.6,27.48,7.83,14.6,27.48,8.36,3.6,1000,0
+edna0305,edna0305,pooled,biological,KIS2,beach_seine,2020-07-24,2020-07-24,2020,0.5,3,0,edna_kis2_30,0,,,,,,,3.4,1000,0
+edna0306,edna0306,pooled,biological,KIS1,beach_seine,2020-07-24,2020-07-24,2020,0.5,1,0,edna_kis1_00,0,,,,,,,1.9,1000,0
+edna0307,edna0307,pooled,biological,KIS1,beach_seine,2020-07-24,2020-07-24,2020,0.5,2,0,edna_kis1_15,0,14.4,27.15,8.5,14.3,27.36,9.4,1.8,1000,0
+edna0308,edna0308,pooled,biological,KIS1,beach_seine,2020-07-24,2020-07-24,2020,0.5,3,0,edna_kis1_30,0,,,,,,,3.6,1000,0
+edna0309,edna0309,pooled,negative_control,NA,NA,2020-07-24,,2020,0.5,NA,0,na,0,,,,,,,NA,1000,0
+edna0310,edna0310,pooled,biological,FAN3,beach_seine,2020-07-25,2020-07-25,2020,0.5,1,0,edna_fan3_00,0,,,,,,,2.2,1000,0
+edna0311,edna0311,pooled,biological,FAN3,beach_seine,2020-07-25,2020-07-25,2020,0.5,2,0,edna_fan3_15,0,14.1,26.38,na,13.9,26.44,na,2.2,1000,0
+edna0312,edna0312,pooled,biological,FAN3,beach_seine,2020-07-25,2020-07-25,2020,0.5,3,0,edna_fan3_30,0,,,,,,,2.2,1000,0
+edna0313,edna0313,pooled,biological,FAN1,beach_seine,2020-07-25,2020-07-25,2020,0.5,1,0,edna_fan1_00,0,,,,,,,1.8,1000,0
+edna0314,edna0314,pooled,biological,FAN1,beach_seine,2020-07-25,2020-07-25,2020,0.5,2,0,edna_fan1_15,0,14.2,26.42,na,13.8,26.51,na,2,1000,0
+edna0315,edna0315,pooled,biological,FAN1,beach_seine,2020-07-25,2020-07-25,2020,0.5,3,0,edna_fan1_30,0,,,,,,,3,1000,0
+edna0316,edna0316,pooled,negative_control,NA,NA,2020-07-25,,2020,0.5,NA,0,na,0,,,,,,,na,1000,0
+edna0317,edna0317,pooled,biological,GOG1,beach_seine,2020-07-26,2020-07-26,2020,0.5,1,0,enda_gog1_00,0,,,,,,,1.4,1000,0
+edna0318,edna0318,pooled,biological,GOG1,beach_seine,2020-07-26,2020-07-26,2020,0.5,2,0,edna_gog1_15,0,15.9,27.41,na,15.4,27.45,na,1.2,1000,0
+edna0319,edna0319,pooled,biological,GOG1,beach_seine,2020-07-26,2020-07-26,2020,0.5,3,0,edna_gog1_30,0,,,,,,,1.5,1000,0
+edna0320,edna0320,pooled,biological,GOG4,beach_seine,2020-07-26,2020-07-26,2020,0.5,1,0,edna_gog4_00,0,,,,,,,3.1,1000,0
+edna0321,edna0321,pooled,biological,GOG4,beach_seine,2020-07-26,2020-07-26,2020,0.5,2,0,edna_gog4_15,0,15.4,27.16,na,14.9,27.13,na,2.5,1000,0
+edna0322,edna0322,pooled,biological,GOG4,beach_seine,2020-07-26,2020-07-26,2020,0.5,3,0,edna_gog4_30,0,,,,,,,2,1000,0
+edna0323,edna0323,pooled,negative_control,GOG4,beach_seine,2020-07-26,2020-07-26,2020,0.5,NA,0,na,0,,,,,,,-,1000,0
+edna0324,edna0324,pooled,biological,GOG1,beach_seine,2020-08-04,2020-08-04,2020,0.5,1,0,enda_gog1_00,0,,,,,,,0.7,1000,"lots of particulate matter, filters quite brown"
+edna0325,edna0325,pooled,biological,GOG1,beach_seine,2020-08-04,2020-08-04,2020,0.5,2,0,edna_gog1_15,0,14.8,28.82,7.88,14.9,28.82,7.88,0.6,950,"lots of particulate matter, filters quite brown"
+edna0326,edna0326,pooled,biological,GOG1,beach_seine,2020-08-04,2020-08-04,2020,0.5,3,0,edna_gog1_30,0,,,,,,,0.6,1000,"lots of particulate matter, filters quite brown"
+edna0327,edna0327,pooled,negative_control,GOG1,beach_seine,2020-08-04,2020-08-04,2020,0.5,NA,0,na,0,,,,,,,na,1000,0
+NEG1-Rep1-2018,NEG1-Rep1-2018,,PCR_Negative_2018,,,,,,,,,,,,,,,,,,,
+NEG1-Rep2-2018,NEG1-Rep2-2018,,PCR_Negative_2018,,,,,,,,,,,,,,,,,,,
+NEG2-Rep1-2018,NEG2-Rep1-2018,,PCR_Negative_2018,,,,,,,,,,,,,,,,,,,
+NEG3-Rep1-2018,NEG3-Rep1-2018,,PCR_Negative_2018,,,,,,,,,,,,,,,,,,,
+Negative-PCR_2019-1stRUN,Negative-PCR_2019-1stRUN,,PCR_Negative_2019_2020,,,,,,,,,,,,,,,,,,,
+Negative-PCR_2019-RERUN,Negative-PCR_2019-RERUN,,PCR_Negative_2019_2020,,,,,,,,,,,,,,,,,,,
+Blank001_1stRUN,Blank001_1stRUN,,Extraction_blank,,,,,,,,,,,,,,,,,,,
+Blank001_RERUN,Blank001_RERUN,,Extraction_blank,,,,,,,,,,,,,,,,,,,
+Blank002_1stRUN,Blank002_1stRUN,,Extraction_blank,,,,,,,,,,,,,,,,,,,
+Blank002_RERUN,Blank002_RERUN,,Extraction_blank,,,,,,,,,,,,,,,,,,,

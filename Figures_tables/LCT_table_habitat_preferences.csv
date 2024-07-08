@@ -1,0 +1,83 @@
+,Taxa,gamma_error,all_species,common_names,method_of_detection,mean_biodensBS,max_biodensBS,max_prop_biodensBS,mean_read_eDNA,max_read_eDNA,prev_bs,prev_eDNA,grp,prefered_habitat,prefered_depth,expected
+3,Anarrhichthys ocellatus,eDNA only,Anarrhichthys ocellatus,Wolf eel,eDNA,0,0,0,58.15217391,874,0,7,NA,rocky,all depths,n
+13,Clevelandia ios,eDNA only,Clevelandia ios,Arrow goby,eDNA,0,0,0,12.80434783,282,0,3,NA,soft sediments,shallow,y
+15,Clinocottus globiceps,eDNA only,Clinocottus globiceps,Mosshead sculpin,eDNA,0,0,0,38.65217391,848,0,6,NA,rocky,shallow,n
+17,Cottus asper,eDNA only,Cottus asper,Prickly sculpin,eDNA,0,0,0,702.2608696,9383,0,12,NA,freshwater/estuarine,shallow,n
+18,Cottus1,eDNA only,"Cottus aleuticus, Cottus cognatus",Coastrange and slimy sculpin,eDNA,0,0,0,71,1400,0,5,NA,freshwater/estuarine,shallow,n
+21,Engraulis mordax,eDNA only,Engraulis mordax,Northern anchovy,eDNA,0,0,0,67.7826087,963,0,11,NA,open water,all sepths,n
+27,Gibbonsia montereyensis,eDNA only,Gibbonsia montereyensis,Crevice kelpfish,eDNA,0,0,0,44.45652174,767,0,5,NA,rocky,shallow,n
+33,Hippoglossus stenolepis,eDNA only,Hippoglossus stenolepis,Pacific halibut,eDNA,0,0,0,134.826087,5655,0,4,NA,soft sediments,deep,n
+34,Hydrolagus colliei,eDNA only,Hydrolagus colliei,Spotted ratfish,eDNA,0,0,0,14.17391304,292,0,6,NA,generalist,all depths,y
+36,Icosteus aenigmaticus,eDNA only,Icosteus aenigmaticus,Ragfish,eDNA,0,0,0,6.826086957,314,0,1,NA,soft sediments,deep,n
+41,Liparis cyclopus,eDNA only,Liparis cyclopus,Ribbon snailfish,eDNA,0,0,0,60.39130435,1459,0,7,NA,rocky,all depths,n
+42,Liparis florae,eDNA only,Liparis florae,Tidepool snailfish,eDNA,0,0,0,68.65217391,517,0,9,NA,rocky,shallow,n
+43,Liparis mucosus,eDNA only,Liparis mucosus,Slimy snailfish,eDNA,0,0,0,3.043478261,140,0,1,NA,rocky,shallow,n
+45,Merluccius productus,eDNA only,Merluccius productus,North Pacific hake,eDNA,0,0,0,0.956521739,44,0,1,NA,generalist,deep,n
+47,Microstomus pacificus,eDNA only,Microstomus pacificus,Pacific dover sole,eDNA,0,0,0,24.17391304,482,0,3,NA,soft sediments,deep,n
+48,Mola mola,eDNA only,Mola mola,Ocean sunfish,eDNA,0,0,0,4.47826087,206,0,1,NA,pelagic,all depths,n
+50,Nautichthys oculofasciatus,eDNA only,Nautichthys oculofasciatus,Sailfin Sculpin,eDNA,0,0,0,8.804347826,405,0,1,NA,rocky,all depths,n
+54,Oncorhynchus clarkii,eDNA only,Oncorhynchus clarkii,Cutthroat trout,eDNA,0,0,0,3.282608696,138,0,2,NA,freshwater/estuarine,shallow,n
+55,Oncorhynchus gorbuscha,eDNA only,Oncorhynchus gorbuscha,Pink salmon,eDNA,0,0,0,2473.173913,45987,0,40,NA,open water,all depths,n
+56,Oncorhynchus keta,eDNA only,Oncorhynchus keta,Chum salmon,eDNA,0,0,0,150.9347826,2476,0,6,NA,open water,all depths,n
+58,Oncorhynchus mykiss,eDNA only,Oncorhynchus mykiss,Rainbow trout,eDNA,0,0,0,0.673913043,31,0,1,NA,open water,all depths,n
+64,Phytichthys chirus,eDNA only,Phytichthys chirus,Ribbon prickleback,eDNA,0,0,0,3.673913043,169,0,1,NA,rocky,shallow,n
+68,Polypera greeni,eDNA only,Polypera greeni,Lobefin snailfish,eDNA,0,0,0,44.34782609,2040,0,1,NA,rocky,shallow,n
+74,Sebastes entomelas,eDNA only,Sebastes entomelas,Widow rockfish,eDNA,0,0,0,83.23913043,1162,0,6,NA,rocky,all depths,n
+75,Sebastes nebulosus,eDNA only,Sebastes nebulosus,China rockfish,eDNA,0,0,0,34.80434783,959,0,3,NA,rocky,all depths,n
+82,Xiphister1,eDNA only,"Xiphister atropurpureus, Xiphister mucosus",Black and rock prickleback,eDNA,0,0,0,882.5869565,6240,0,27,NA,rocky,shallow,n
+76,Sebastes paucispinis,BS only,Sebastes paucispinis,Bocaccio rockfish,seine,1.20E-07,5.53E-06,1.02E-06,0,0,1,0,NA,vegetated (juvenile),shallow (juvenile),y
+37,Jordania zonope,both,Jordania zonope,Longfin sculpin,both,3.88E-06,0.000178271,4.38E-05,40.08695652,1100,1,5,eDNA_m,rocky,nearshore,n
+26,Gibbonsia metzi,BS only,Gibbonsia metzi,Striped kelpfish,seine,9.57E-06,0.000231401,0.000125511,0,0,2,0,NA,vegetated/rocky,shallow,y
+61,Oxylebius pictus,both,Oxylebius pictus,Painted greenling,both,2.03E-05,0.000932873,0.00041876,48.23913043,938,1,5,eDNA_m,vegetated/rocky,shallow,y
+14,Clinocottus acuticeps,BS only,Clinocottus acuticeps,Sharpnose sculpin,seine,4.46E-05,0.001186127,5.75E-05,0,0,2,0,NA,generalist,shallow,y
+28,Gobiesox maeandricus,both,Gobiesox maeandricus,Northern clingfish,both,5.02E-05,0.000784723,0.000484306,239.6304348,2315,5,22,eDNA_m,vegetated,nearshore,y
+52,Oligocottus rimensis,BS only,Oligocottus rimensis,Saddleback sculpin,seine,7.83E-05,0.002166658,0.001114724,0,0,2,0,NA,rocky,all depths,n
+23,Gadus chalcogrammus,both,Gadus chalcogrammus,Walleyed pollock,both,9.89E-05,0.004548701,0.000841375,7.434782609,180,1,2,eDNA_m,vegetated (juvenile),shallow (juvenile),y
+38,Lepidogobius lepidus,BS only,Lepidogobius lepidus,Bay goby,seine,0.000118843,0.005466787,0.000536798,0,0,1,0,NA,soft sediments,all depths,y
+51,Odontopyxis trispinosa,BS only,Odontopyxis trispinosa,Pygmy poacher,seine,0.000130292,0.005993429,0.00068216,0,0,1,0,NA,soft sediments,all depths,y
+81,Trichodon trichodon,both,Trichodon trichodon,Pacific sandfish,both,0.000148661,0.006838391,0.001088985,63.67391304,2929,1,1,NP,soft sediments,all depths,y
+39,Lepidopsetta1,both,"Lepidopsetta bilineata, Lepidopsetta polyxystra",Rock and northern rock sole,both,0.000193479,0.005306519,0.003461165,4.456521739,164,2,2,NP,soft sediments,all depths,y
+4,Anoplarchus1,both,"Anoplarchus insignis, Anoplarchus purpurescens",Slender and high coxcomb,both,0.000382989,0.011138614,0.0043926,1461.434783,9235,4,43,eDNA_m,vegetated/rocky,shallow,y
+71,Rimicola muscarum,both,Rimicola muscarum,Kelp clingfish,both,0.000432597,0.011396776,0.001428935,16.84782609,543,3,3,NP,vegetation,shallow,y
+62,Pallasina barbata,BS only,Pallasina barbata,Tubenose poacher,seine,0.000717283,0.021633021,0.004001466,0,0,3,0,NA,vegetated/rocky,shallow,y
+24,Gadus macrocephalus,BS only,Gadus macrocephalus,Pacific cod,seine,0.000772147,0.031472642,0.001648952,0,0,2,0,NA,vegetated (juvenile),shallow (juvenile),y
+46,Microgadus proximus,both,Microgadus proximus,Pacific tomcod,both,0.000823408,0.030986489,0.001400666,7.086956522,326,2,1,BS_m,vegetated (juvenile),shallow (juvenile),y
+10,Brachyistius frenatus,both,Brachyistius frenatus,Kelp perch,both,0.000940705,0.019371187,0.00419576,64.86956522,833,5,10,eDNA_m,vegetated/rocky,shallow,y
+79,Synchirus gilli,both,Synchirus gilli,Manacled sculpin,both,0.001275879,0.020298389,0.002934401,50.17391304,900,10,5,BS_m,vegetated,shallow,y
+70,Rhinogobiops nicholsii,BS only,Rhinogobiops nicholsii,Blackeye goby,seine,0.002824164,0.042996421,0.059042089,0,0,7,0,NA,generalist,shallow,y
+11,Chitonotus pugetensis,BS only,Chitonotus pugetensis,Striped kelpfish,seine,0.003352432,0.071080669,0.046362213,0,0,7,0,NA,soft sediments,all depths,y
+35,Hypomesus pretiosus,BS only,Hypomesus pretiosus,Surf smelt,seine,0.006615688,0.162488929,0.04618982,0,0,6,0,NA,generalist,all depths,y
+31,Hexagrammos stelleri,BS only,Hexagrammos stelleri,Whitespotted greenling,seine,0.009958722,0.118590793,0.023803485,0,0,8,0,NA,vegetated/rocky,shallow (juvenile),y
+59,Oncorhynchus tshawytscha,both,Oncorhynchus tshawytscha,Chinook salmon,both,0.010601252,0.48765761,0.169229231,747.9347826,10984,1,38,eDNA_m,open water,all depths,n
+6,Artedius1,both,"Artedius fenestralis, Artedius harringtoni, Artedius lateralis","Padded, scaleyhead, and smooth sculpin",both,0.010701923,0.21163697,0.012413766,848.3913043,3450,10,41,eDNA_m,generalist,shallow,y
+44,Lumpenus sagitta,both,Lumpenus sagitta,Snake prickleback,both,0.011312102,0.436466122,0.151464521,37.60869565,1194,5,2,BS_m,soft sediments,all depths,y
+5,Apodichthys flavidus,both,Apodichthys flavidus,penpoint gunnel,both,0.012448261,0.170631275,0.02906492,1278.326087,20479,25,25,both_m,vegetated,shallow,y
+22,Enophrys bison,both,Enophrys bison,Buffalo Sculpin,both,0.01587301,0.195380806,0.047980319,339.4130435,2699,20,30,NP,generalist,shallow (juvenile),y
+7,Ascelichthys rhodorus,both,Ascelichthys rhodorus,Rosylip sculpin,both,0.018219508,0.838097387,0.155023116,131.7173913,2010,1,8,eDNA_m,rocky,shallow,n
+73,Scorpaenichthys marmoratus,both,Scorpaenichthys marmoratus,Cabezon,both,0.019914417,0.326153068,0.073177486,94.36956522,1168,18,10,BS_m,generalist,shallow (juvenile),y
+29,Hemilepidotus hemilepidotus,both,Hemilepidotus hemilepidotus,Red Irish lord,both,0.020238638,0.60097754,0.03649398,404.173913,3376,11,35,eDNA_m,rocky,all depths,n
+8,Aulorhynchus flavidus,both,Aulorhynchus flavidus,Tubesnout,both,0.024876261,0.879085712,0.104257424,307.5217391,3680,24,15,BS_m,vegetated,shallow,y
+57,Oncorhynchus kisutch,both,Oncorhynchus kisutch,Coho salmon,both,0.030317474,1.07587488,0.072530553,1071.043478,26021,4,24,eDNA_m,open water,all depths,n
+9,Blepsias cirrhosus,both,Blepsias cirrhosus,Sinverspotted sculpin,both,0.030883244,0.650826422,0.074075792,14.5,461,18,2,BS_m,vegetated,shallow,y
+2,Amphistichus rhodoterus,both,Amphistichus rhodoterus,Red-tailed surfperch,both,0.042374863,1.949243717,0.335193088,1.326086957,61,1,1,both_m,exposed beaches,shallow,y
+67,Pleuronichthys coenosus,both,Pleuronichthys coenosus,C-O sole,both,0.04384152,0.866355342,0.147970751,125.3478261,1498,11,13,NP,soft sediments,shallow (juvenile),y
+49,Myoxocephalus1,both,"Myoxocephalus polyacanthocephalus, Myoxocephalus stelleri",Great and Stellar's sculpin,both,0.049980722,1.251372512,0.198365124,134.9347826,3434,11,9,NP,generalist,shallow (juvenile),y
+63,Pholis1,both,"Pholis clemensi, Pholis laeta",Longfin and crescent gunnel,both,0.052528773,0.399981608,0.153816065,1699.217391,8410,22,33,both_m,vegetated,shallow,y
+69,Rhacochilus vacca,both,Rhacochilus vacca,Pile Perch,both,0.063758769,2.817804133,0.140586983,260.3913043,4279,2,15,eDNA_m,vegetated/rocky,shallow,y
+72,Salvelinus malma,both,Salvelinus malma,Dolly Varden,both,0.06849865,2.934528952,0.055608415,65.54347826,1044,4,7,both_m,freshwater/estuarine,shallow,n
+20,Embiotoca lateralis,both,Embiotoca lateralis,striped surfperch,both,0.07680731,1.39818378,0.465537962,907.9782609,27819,14,24,eDNA_m,vegetated/rocky,shallow,y
+32,Hexagrammos1,both,"Hexagrammos lagocephalus, Hexagrammos octogrammus",Rock and masked greenling,both,0.086390505,2.829039878,0.163879749,323.0652174,3737,5,20,eDNA_m,vegetated/rocky,shallow (juvenile),y
+78,Sebastes2,both,"Sebastes - alutianus, alutus, elongatus, flavidus, melanistictus, melanops,  ruberrimus",see discussion,both,0.096735073,2.004301138,0.461501484,2629.869565,10402,7,44,eDNA_m,na,na,na
+80,Syngnathus leptorhynchus,both,Syngnathus leptorhynchus,Bay pipefish,both,0.102967209,0.776999149,0.150689471,25.73913043,399,33,6,BS_m,vegetated/seagrass,shallow,y
+53,Oligocottus1,both,"Oligocottus maculosus, Oligocottus snyderi",Tidepool and fluffy sculpin,both,0.120037275,2.810765458,0.466119659,395.1086957,3366,29,30,both_m,nearshore,shallow,y
+60,Ophiodon elongatus,both,Ophiodon elongatus,Lingcod,both,0.129396229,4.099351643,0.466580199,452.326087,3587,19,19,NP,generalist,shallow (juvenile),y
+30,Hexagrammos decagrammus,both,Hexagrammos decagrammus,Kelp greenling,both,0.146959296,1.692239286,0.213535818,1844.195652,15178,19,35,NP,generalist,shallow (juvenile),y
+77,Sebastes1,both,"Sebastes caurinus, Sebastes maliger",Copper and quillback rockfish,both,0.196262316,8.052279822,0.463750336,668.673913,3213,9,25,eDNA_m,vegetated,shallow (juvenile),y
+12,Citharichthys1,both,"Citharichthys sordidus, Citharichthys stigmaeus",Pacific and speckled sanddab,both,0.24869482,1.306984952,0.256798383,624.1521739,6679,41,38,both_m,soft sediments,shallow (juvenile),y
+25,Gasterosteus aculeatus,both,Gasterosteus aculeatus,Three-spined stickleback,both,0.283717414,8.80149047,0.19559485,3328.978261,34247,16,24,both_m,nearshore generalist,shallow,y
+16,Clupea pallasii,both,Clupea pallasii,Pacific Herring,both,0.304235868,12.29285483,0.644062003,17704.19565,64493,12,46,eDNA_m,generalist,shallow (juvenile),y
+66,Pleuronectidae1,both,"Isopsetta isolepis, Parophrys vetulus, Psettichthys melanostictus","Butter, english, and sand sole",both,0.366951644,1.676500992,0.623373256,1336.565217,9132,41,34,both_m,soft sediments,shallow (juvenile),y
+65,Platichthys stellatus,both,Platichthys stellatus,Starry flounder,both,0.741509167,21.56598144,0.779315665,562.5869565,3377,16,36,eDNA_m,soft sediments,shallow (juvenile),y
+40,Leptocottus armatus,both,Leptocottus armatus,Staghorn sculpin,both,1.264200882,7.584136332,0.769910602,1825.565217,10664,34,30,both_m,soft substrates,shallow,y
+19,Cymatogaster aggregata,both,Cymatogaster aggregata,shiner surfperch,both,3.927315632,40.26254075,0.969080818,14224.86957,49727,36,46,both_m,nearshore generalist,shallow,y
+1,Ammodytes1,both,"Ammodytes hexapterus, Ammodytes personatus",Pacific sandlance,both,6.046777484,214.9449399,0.97272008,5427.934783,36936,23,34,both_m,soft substrates,shallow (juvenile),y

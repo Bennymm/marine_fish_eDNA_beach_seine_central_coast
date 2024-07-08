@@ -1,0 +1,116 @@
+file,variable_name,units,description
+Habitat,site,categorical,Unique identity of each site
+Habitat,lat,decimal degree,Latitude coordinates (NAD83)
+Habitat,long,decimal degree,Longitude coordinates (NAD83)
+Habitat,aspect,degrees north,averaged bearing of site’s exposure (degrees)
+Habitat,slope_intertidal,degrees,average of site's intertidal slope (degrees)
+Habitat,slope_subtidal,degrees,average of site's subtidal slope (degrees)
+Habitat,freshwater_input,categorical,presence of freshwater outflow: Yes(y) or no(n)
+Habitat,intertidal_primary_macroveg,categorical,"primary intertidal vegetation identification (code). See ""vegetationcodes.csv"" for identification codes"
+Habitat,intertidal_primary_cover,percent,"primary intertidal vegetation percent cover (percent). See ""vegetationcodes.csv"" for identification codes"
+Habitat,intertidal_secondary_macroveg,categorical,"secondary intertidal vegetation identification (code). See ""vegetationcodes.csv"" for identification codes"
+Habitat,intertidal_secondary_cover,percent,"secondary intertidal vegetation percent cover (percent). See ""vegetationcodes.csv for identification codes"
+Habitat,subtidal_primary_macroveg,categorical,"primary subtidal vegetation identification (code). See ""vegetationcodes.csv"" for identification codes"
+Habitat,subtidal_primary_macroveg_simple,categorical,"simplified primary subtidal vegetation identification (code). See ""vegetationcodes.csv"" for identification codes"
+Habitat,subtidal_primary_cover,percent,"primary subtidal vegetation percent cover (percent). See ""vegetationcodes.csv"" for identification codes"
+Habitat,subtidal_secondary_macroveg,categorical,"secondary subtidal vegetation identification (code). See ""vegetationcodes.csv"" for identification codes"
+Habitat,subtidal_secondary_cover,percent,"secondary subtidal vegetation percent cover (percent). See ""vegetationcodes.csv"" for identification codes"
+Habitat,intertidal_primary_substrate,categorical,"primary intertidal substrate identification (mud, sand, gravel, shellhash, cobble, bolder)"
+Habitat,intertidal_secondary_substate,categorical,"secondary intertidal substate identification (mud, sand, gravel, shellhash, cobble, bolder)"
+Habitat,subtidal_primary_substrate,categorical,"primary subtidal substrate identification (mud, sand, gravel, shellhash, cobble, bolder)"
+Habitat,subtidal_secondary_substrate,categorical,"secondary subtidal substrate identification (mud, sand, gravel, shellhash, cobble, bolder)"
+Habitat,beach_length,meters,length of beach/habitat (meters)
+Habitat,exposure,categorical,"""observed exposure"" metric developed by Alaska ShoreZone
+Coastal Habitat Mapping Protocol (2014). Values derived by Hakai Geospatial team."
+Habitat,notes,text,notes on habitat data collection
+Speciesabundance,site,categorical,Unique identity of each site
+Speciesabundance,year,year,year (20xx)
+Speciesabundance,month,month,month (1-12)
+Speciesabundance,day,day,day (1-31)
+Speciesabundance,replicate,categorical,seine sample replicate at each site visit (1 or 2)
+Speciesabundance,location,categorical,distance along beach where replicate seine took place (meters)
+Speciesabundance,time,time,time of sample replicate. Of format: hhmm
+Speciesabundance,net_size,categorical,net size in meters (11 or 22)
+Speciesabundance,success,categorical,"categorical score for seine success. 1: seine deployed properly, no fouling, seine reached full depth throughout seine set; 2: diversity and abundance data suspect, length data usable, seine deployed improperly, seine partially fouled on debris, seine did not reach full depth for part of seine set; 3: all data suspect, very poor deployment, seine completely fouled, seine did not reach full depth"
+Speciesabundance,species,categorical,"identification of fish species or group (code). See ""fishcodes.csv"" for identification codes"
+Speciesabundance,stage,categorical,"categorical lifestage of fish. 0: larvae, 1: juvenile, 2: adult, 3: mixed"
+Speciesabundance,abundance,count,count or estimate of fish (numerical)
+Speciesabundance,estimated,estimate,"number estimated from ""abundance"" (numerical)"
+Speciesabundance,notes,text,notes on species abundance data
+Speciesabundance,entered,categorical,name of person who entered data
+Speciesabundance,checked,categorical,name of person who checked data
+Specieslength,site,categorical,Unique identity of each site
+Specieslength,year,year,year (20xx)
+Specieslength,month,month,month (1-12)
+Specieslength,day,day,day (1-31)
+Specieslength,replicate,categorical,seine sample replicate at each site visit (1 or 2)
+Specieslength,species,categorical,"identification of fish species or group (code). See ""fishcodes.csv"" for identification codes"
+Specieslength,stage,categorical,"categorical lifestage of fish. 0: larvae, 1: juvenile (<1 year), 2: adult, 3: mixed"
+Specieslength,length,milimeters,fork length
+Specieslength,comments,text,comments on species length data
+Specieslength,entered,categorical,name of person who entered data
+Specieslength,checked,categorical,name of person who checked data
+Environmental,site,categorical,Unique identity of each site
+Environmental,year,year,year (20xx)
+Environmental,month,month,month (1-12)
+Environmental,day,day,day (1-31)
+Environmental,location,categorical,"Alphanumerical codes describing site-relative distance from shore and target depth of temperature, salinity and pH readings. A-D(distance from shore): A = depth of 0.5 meters, B = centre of seine, C = extent of seine, and D = 10 meters depth or 100m from shore (whichever is closer to shore), respectively. Numerical part indicates target depth of readings."
+Environmental,depth,meters,actual depth achieved (meters)
+Environmental,temp,celcius,temperature (Celcius)
+Environmental,salinity,parts per thousand,Salinity (parts per thousand)
+Environmental,ph,pH,pH
+Environmental,secchi,meters,secchi depth (meters)
+netdimensions,site,categorical,Unique identity of each site
+netdimensions,year,year,year (20xx)
+netdimensions,month,month,month (1-12)
+netdimensions,day,day,day (1-31)
+netdimensions,net_extent_set_1,meters,distance from shore that the net reached for set 1. (meters)
+netdimensions,net_width_set_1,meters,width of seine net upon retrieval for set 1. (meters)
+netdimensions,depth_extent_set_1,meters,depth at the net extent for set 1. (meters)
+netdimensions,net_extent_set_2,meters,distance from shore that the net reached for set 2. (meters)
+netdimensions,net_width_set_2,meters,width of seine net upon retrieval for set 2. (meters)
+netdimensions,depth_extent_set_2,meters,depth at the net extent for set 2. (meters)
+netdimensions,notes,text,notes on set dimensions
+netdimensions,area_set1,meters^2,area of set 1. calculated as: A= (net_extent - 1/2(net_width))netwidth + 1/2(?1/2(net_width²)
+netdimensions,vol_set1,meters^3,volume of set 1. calculated as: V = area_set(depth_extent/2)
+netdimensions,area_set2,meters^2,area of set 2. calculated as: A= (net_extent - 1/2(net_width))netwidth + 1/2(?1/2(net_width²)
+netdimensions,vol_set2,meters^3,volume of set 2. calculated as: V = area_set(depth_extent/2)
+sediment,site,categorical,Unique identity of each site
+sediment,year,year,year (20xx)
+sediment,month,month,month (1-12)
+sediment,day,day,day (1-31)
+sediment,replicate,categorical,seine sample replicate at each site visit (1 or 2). Many sites only had one sample taken (replicate = na)
+sediment,frac8000um,grams,weight of 8000 micrometer grain size fraction. (grams)
+sediment,frac4000um,grams,weight of 4000 micrometer grain size fraction. (grams)
+sediment,frac2000um,grams,weight of 2000 micrometer grain size fraction. (grams)
+sediment,frac1000um,grams,weight of 1000 micrometer grain size fraction. (grams)
+sediment,frac500um,grams,weight of 500 micrometer grain size fraction. (grams)
+sediment,frac250um,grams,weight of 250 micrometer grain size fraction. (grams)
+sediment,frac125um,grams,weight of 125 micrometer grain size fraction. (grams)
+sediment,frac63um,grams,weight of 63 micrometer grain size fraction. (grams)
+sediment,frac32um,grams,weight of 32 micrometer grain size fraction. (grams)
+sediment,frac20um,grams,weight of 20 micrometer grain size fraction. (grams)
+sediment,fracless20um,grams,weight of grain size fraction less than 20 micrometer. (grams)
+sediment,sum,grams,sum of size fraction weights. (grams)
+sediment,notes,text,notes on sediment data
+bycatch,id,categorical,Unique identity of each site
+bycatch,year,year,year (20xx)
+bycatch,month,month,month (1-12)
+bycatch,day,day,day (1-31)
+bycatch,replicate,categorical,seine sample replicate at each site visit (1 or 2). Many sites only had one sample taken (replicate = na)
+bycatch,species,categorical,"identification of species or group (code). See ""bicatchcodes.csv"" for identification codes"
+bycatch,estimate,estimate (count),estimate number of species or group
+bycatch,avg_size,milimeters,average size(milimeters)
+bycatch,stage,categorical,"categorical lifestage: A=adult, J=juvenile"
+bycatch,notes,text,notes on bycatch data
+bycatchcodes,code,categorical,unique identifier (code) used within bycatch data for each level of classification of bycatch
+bycatchcodes,common_name,categorical,common name used for classification of bycatch
+bycatchcodes,genus_species,categorical,"genus and species of bycatch. If species could not be ascertained, ""spp"" will follow the genus."
+bycatchcodes,higher_classification,categorical,"higher level classification of bycatch. Level of classification (Family, Order, etc.) is given followed by its designation. Higher level of classification is only given if genus was not ascertained."
+fishcodes,code,categorical,unique identifier (code) used within abundance and length data for each level of classification of fishes
+fishcodes,common_name,categorical,common name used for classification of fishes
+fishcodes,genus_species,categorical,"genus and species of fishes. If species could not be ascertained, ""spp"" will follow the genus ."
+fishcodes,higher_classification,categorical,"higher level classification of fishes. Level of classification (Family, Order, etc.) is given followed by its designation. Higher level of classification is only given if genus was not ascertained."
+fishcodes,complex_components,categorical,"list of species in species complex. Format: ""genus1_species1 genus2_species2 genus3_species3""."
+vegetationcodes,code,categorical,unique identifier (code) used within abundance and length data for each level of classification of fishes
+vegetationcodes,species_or_category,,genus and species or categorical classification of vegetation

@@ -1,0 +1,107 @@
+#Format environmental data, calculate temperature gradients and date difference, PCA of seawater mixing
+
+#packages
+library("tidyverse")
+library("dplyr")
+library("lubridate")
+
+#site survey dates
+survey_dates <- read_rds("Data/2022_10_31/derived_data/eDNA_long.rds") %>%
+  select(c("dat_site", "site", "date", "hakai_link_date")) %>%
+  distinct() %>%
+  mutate(dat_diff = abs(time_length(difftime(date, hakai_link_date), "days")))
+
+unique(survey_dates$site)
+
+#YSI data
+ysi <- read_csv("Data/2022_10_31/bs_data/bs_YSI.csv")
+ysi_clean <- ysi %>%
+  select(c("site", "year", "month", "day", "location", "temp")) %>%
+  distinct() %>%                                                    #remove duplicate columns
+  pivot_wider(., names_from = location, values_from = temp)  %>%     #make wide
+  mutate(a1 = as.numeric(a1)) %>%                                   #make numeric 
+  mutate(b1 = as.numeric(b1)) %>%
+  mutate(b2 = as.numeric(b2)) %>%
+  mutate(c1 = as.numeric(c1)) %>%
+  mutate(c2 = as.numeric(c2)) %>%
+  mutate(c3 = as.numeric(c3)) %>%
+  mutate(d1 = as.numeric(d1)) %>%
+  mutate(d2 = as.numeric(d2)) %>%
+  mutate(d3 = as.numeric(d3)) %>%
+  mutate(d4 = as.numeric(d4)) %>%
+  mutate_all(~ifelse(is.na(.x), mean(.x, na.rm = TRUE), .x)) %>%    #replace NA's with mean values
+  mutate(temp.diff.b = abs(b1 - b2)) %>%                            #calculate temperature differences
+  mutate(temp.diff.c = abs(c1 - c3)) %>%
+  mutate(temp.diff.d = abs(d1 - d4)) %>%
+  mutate(site = tolower(site)) %>%
+  mutate(dat_site = paste(site, year, month, day, sep =  " "))
+
+#write_rds(ysi_clean, "Data/2022_10_31/bs_data/ysi.rds")
+#ysi_clean <- readRDS("Data/2022_10_31/bs_data/ysi.rds")
+
+#read in habitat and habitat distances
+habitat <- read_csv("Data/2022_10_31/bs_data/bs_habitat.csv")
+habitat $exposure_num <- as.integer(factor(habitat $exposure, 
+                                      levels = c("vp", "p", "sp", "se", "e", "ve"), 
+                                      labels = c(1,2,3,4,5,6)))
+
+habitat$intertidal_primary_substrate_num <- as.integer(factor(habitat $intertidal_primary_substrate, 
+                                                          levels = c("mud", "sand", "gravel", "cobble"), 
+                                                          labels = c(1,2,3,4)))
+
+habitat $subtidal_primary_substrate_num <- as.integer(factor(habitat $subtidal_primary_substrate, 
+                                                        levels = c("mud", "sand", "gravel", "cobble"), 
+                                                        labels = c(1,2,3,4)))
+
+hab_dist1 <- read_csv("Data/2022_10_31/bs_data/bs_habitatdistance.csv")
+
+h1 <- hab_dist1[c("site", "kelp", "seagrass", "water25m", "freshwater", "rockyshore")] %>%
+  column_to_rownames("site")
+h2 <- as.data.frame(ifelse(h1 >100, 0,1)) %>%
+  mutate(h100m = rowSums(across(where(is.numeric)))) %>%
+  select(h100m)
+h3 <- as.data.frame(ifelse(h1 >200, 0,1)) %>%
+  mutate(h200m = rowSums(across(where(is.numeric)))) %>%
+  select(h200m)
+h4 <- as.data.frame(ifelse(h1 >300, 0,1)) %>%
+  mutate(h300m = rowSums(across(where(is.numeric)))) %>%
+  select(h300m)
+h5 <- as.data.frame(ifelse(h1 >400, 0,1)) %>%
+  mutate(h400m = rowSums(across(where(is.numeric)))) %>%
+  select(h400m)
+h6 <- as.data.frame(ifelse(h1 >500, 0,1)) %>%
+  mutate(h500m = rowSums(across(where(is.numeric)))) %>%
+  select(h500m)
+h7 <- as.data.frame(ifelse(h1 >1000, 0,1)) %>%
+  mutate(h1000m = rowSums(across(where(is.numeric)))) %>%
+  select(h1000m)
+h8 <- as.data.frame(ifelse(h1 >2000, 0,1)) %>%
+  mutate(h2000m = rowSums(across(where(is.numeric)))) %>%
+  select(h2000m)
+
+h9 <- cbind(h2, h3, h4, h5, h6, h7, h8) %>%
+  rownames_to_column("site")
+hab_dist <- merge( hab_dist1, h9, by = "site")  
+
+
+#sediment data
+sed <- read_csv("Data/2022_10_31/bs_data/bs_sediment.csv")
+
+sed$silt <- sed$frac63um + sed$frac32um + sed$frac20um + sed$fracless20um
+sed$silt_perc <- sed$silt/sed$sum
+sed <- sed[c("site", "silt_perc")]
+sed <- sed %>%
+  group_by(site) %>%
+  summarise(silt_percent = mean(silt_perc))
+
+#merge datasets
+# YSI - habitat - hab_rich - hab_dist - survey_dates - sed
+#merge
+m1 <- merge(ysi_clean, habitat, by = "site")
+m2 <- merge(m1, hab_dist, by = "site") %>%
+  select(-c("site"))
+m3 <- merge(survey_dates, m2, by = "dat_site", all.x = T)
+m4 <- merge(m3,sed, by = "site")
+
+write_rds(m4, "Data/2022_10_31/derived_data/environmental.rds")
+

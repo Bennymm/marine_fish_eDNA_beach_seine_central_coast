@@ -1,0 +1,158 @@
+kingdom,phylum,order,family,genus,species,kingdom_id,phylum_id,order_id,family_id,genus_id,species_id,class,class_id,gbif_query,query,taxo_query_level,higher_taxo_source
+Animalia,Chordata,Scorpaeniformes,Cottidae,Cottus,Cottus aleuticus,1,44,590,8621,2334066,2334078,Actinopterygii,NA,2334078,alsc,species,gbif
+Animalia,Chordata,Perciformes,Gobiidae,Clevelandia,Clevelandia ios,1,44,587,4274,2379262,5209085,Actinopterygii,NA,5209085,argo,species,gbif
+Animalia,Chordata,Perciformes,Gobiidae,Lepidogobius,Lepidogobius lepidus,1,44,587,4274,2379181,2379182,Actinopterygii,NA,2379182,bago,species,gbif
+Animalia,Chordata,Clupeiformes,Clupeidae,Alosa,Alosa sapidissima,1,44,538,7332,2412615,2412661,Actinopterygii,NA,2412661,amsh,species,gbif
+Animalia,Chordata,Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus leptorhynchus,1,44,773,5901,2332887,2332938,Actinopterygii,NA,2332938,bapi,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Bathyagonus,Bathyagonus pentacanthus,1,44,590,8617,2337084,2337095,Actinopterygii,NA,2337095,bipo,species,gbif
+Animalia,Chordata,Rajiformes,Rajidae,Beringraja,Beringraja binoculata,1,44,884,5877,7554168,7913005,Actinopterygii,121,5216043,bisk,species,gbif
+Animalia,Chordata,Perciformes,Gobiidae,Rhinogobiops,Rhinogobiops nicholsii,1,44,587,4274,2376635,2376636,Actinopterygii,NA,2376637,blgo,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Embiotoca,Embiotoca jacksoni,1,44,587,4269,2389281,2389282,Actinopterygii,NA,2389282,blpe,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Xeneretmus,Xeneretmus latifrons,1,44,590,8617,2337120,2337122,Actinopterygii,NA,2337122,blpo,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Xiphister,Xiphister atropurpureus,1,44,587,8598,2394808,2394813,Actinopterygii,NA,2394813,blpr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes melanops,1,44,590,8633,2333712,2335569,Actinopterygii,NA,2335569,blro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,NA,1,44,590,8633,2333712,NA,Actinopterygii,NA,2333712,byro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,NA,1,44,590,8633,2333712,NA,Actinopterygii,NA,2333712,cqbr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,NA,1,44,590,8633,2333712,NA,Actinopterygii,NA,2333712,unro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes paucispinis,1,44,590,8633,2333712,2335466,Actinopterygii,NA,2335466,boro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Hemilepidotus,Hemilepidotus spinosus,1,44,590,8621,2333943,2333952,Actinopterygii,NA,2333952,bril,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes maliger,1,44,590,8633,2333712,2335438,Actinopterygii,NA,2335438,brro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes maliger,1,44,590,8633,2333712,2335438,Actinopterygii,NA,2335438,qbro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Enophrys,Enophrys bison,1,44,590,8621,2333763,5201188,Actinopterygii,NA,5201188,busc,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Isopsetta,Isopsetta isolepis,1,44,588,8611,2409201,2409202,Actinopterygii,NA,2409202,buso,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Scorpaenichthys,Scorpaenichthys marmoratus,1,44,590,8621,2334338,5201222,Actinopterygii,NA,5201222,cabe,species,gbif
+Animalia,Chordata,Osmeriformes,Osmeridae,Mallotus,Mallotus villosus,1,44,1068,8480,2410910,5214420,Actinopterygii,NA,5214420,cape,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes pinniger,1,44,590,8633,2333712,2335525,Actinopterygii,NA,2335525,caro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Clinocottus,Clinocottus embryum,1,44,590,8621,2333865,2333877,Actinopterygii,NA,2333877,casc,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus tshawytscha,1,44,1313,8615,2351426,5204024,Actinopterygii,NA,5204024,chin,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes nebulosus,1,44,590,8633,2333712,2335508,Actinopterygii,NA,2335508,chro,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus keta,1,44,1313,8615,2351426,5204014,Actinopterygii,NA,5204014,chum,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus kisutch,1,44,1313,8615,2351426,5204034,Actinopterygii,NA,5204034,coho,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes caurinus,1,44,590,8633,2333712,2335455,Actinopterygii,NA,2335455,coro,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Pleuronichthys,Pleuronichthys coenosus,1,44,588,8611,2409240,2409249,Actinopterygii,NA,2409249,coso,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Pleuronichthys,Pleuronichthys decurrens,1,44,588,8611,2409240,2409246,Actinopterygii,NA,2409246,cuso,species,gbif
+Animalia,Chordata,Perciformes,Pholidae,Pholis,Pholis laeta,1,44,587,8576,2390397,5210424,Actinopterygii,NA,5210424,crgu,species,gbif
+Animalia,Chordata,Perciformes,Clinidae,Gibbonsia,Gibbonsia montereyensis,1,44,587,4261,2380263,5209308,Actinopterygii,NA,5209308,crke,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus clarkii,1,44,1313,8615,2351426,5711980,Actinopterygii,NA,5711980,cutt,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Microstomus,Microstomus pacificus,1,44,588,8611,2409352,5214028,Actinopterygii,NA,5214028,doso,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Salvelinus,Salvelinus malma,1,44,1313,8615,2351241,4284020,Actinopterygii,NA,4284020,dova,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Parophrys,Parophrys vetulus,1,44,588,8611,2409369,2409370,Actinopterygii,NA,2409370,enso,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Oligocottus,Oligocottus snyderi,1,44,590,8621,2333736,2333742,Actinopterygii,NA,2333742,flsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus polyacanthocephalus,1,44,590,8621,2333775,2333818,Actinopterygii,NA,2333818,grsc,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Hippoglossus,Hippoglossus stenolepis,1,44,588,8611,2408796,2409216,Actinopterygii,NA,2409216,hali,species,gbif
+Animalia,Chordata,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,1,44,538,7332,2346676,4284072,Actinopterygii,NA,4284072,herr,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Anoplarchus,Anoplarchus purpurescens,1,44,587,8598,2394913,2394914,Actinopterygii,NA,2394914,hico,species,gbif
+Animalia,Chordata,Gobiesociformes,Gobiesocidae,Rimicola,Rimicola muscarum,1,44,1163,7668,2411603,5214482,Actinopterygii,NA,5214482,kecl,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,Hexagrammos,Hexagrammos decagrammus,1,44,590,8626,2336463,2336472,Actinopterygii,NA,2336472,kegr,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Brachyistius,Brachyistius frenatus,1,44,587,4269,2389274,2389277,Actinopterygii,NA,2389277,kepe,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,Ophiodon,Ophiodon elongatus,1,44,590,8626,2336520,2336521,Actinopterygii,NA,2336521,ling,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Lumpenella,Lumpenella longirostris,1,44,587,8598,2394844,2394845,Actinopterygii,NA,2394845,lopr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Jordania,Jordania zonope,1,44,590,8621,2333883,2333884,Actinopterygii,NA,2333884,losc,species,gbif
+Animalia,Chordata,Osmeriformes,Osmeridae,Spirinchus,Spirinchus thaleichthys,1,44,1068,8480,2410894,2410897,Actinopterygii,NA,2410897,losm,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Polypera,Polypera greeni,1,44,590,8627,2336110,5201440,Actinopterygii,NA,5201438,losn,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis florae,1,44,590,8627,2335959,5201520,Actinopterygii,NA,5201520,tisn,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,Hexagrammos,Hexagrammos octogrammus,1,44,590,8626,2336463,2336486,Actinopterygii,NA,2336486,magr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Synchirus,Synchirus gilli,1,44,590,8621,2334297,2334298,Actinopterygii,NA,2334298,masc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis dennyi,1,44,590,8627,2335959,5201415,Actinopterygii,NA,5201415,masn,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Clinocottus,Clinocottus globiceps,1,44,590,8621,2333865,2333870,Actinopterygii,NA,2333870,mosc,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Chirolophis,Chirolophis nugator,1,44,587,8598,2394935,2394956,Actinopterygii,NA,2394956,mowa,species,gbif
+Animalia,Chordata,Clupeiformes,Engraulidae,Engraulis,Engraulis mordax,1,44,538,7334,2352080,2414024,Actinopterygii,NA,2414024,noan,species,gbif
+Animalia,Chordata,Gobiesociformes,Gobiesocidae,Gobiesox,Gobiesox maeandricus,1,44,1163,7668,2411258,2411287,Actinopterygii,NA,2411287,nocl,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Icelinus,Icelinus borealis,1,44,590,8621,2334346,2334359,Actinopterygii,NA,2334359,nosc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Agonopsis,Agonopsis vulsa,1,44,590,8617,2337232,5201655,Actinopterygii,NA,5201655,nspo,species,gbif
+Animalia,Chordata,Gadiformes,Gadidae,Gadus,Gadus macrocephalus,1,44,549,3701,2335052,2415853,Actinopterygii,NA,2415853,paco,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,Oxylebius,Oxylebius pictus,1,44,590,8626,2336509,2336510,Actinopterygii,NA,2336510,pagr,species,gbif
+Animalia,Chordata,Pleuronectiformes,Paralichthyidae,Citharichthys,Citharichthys sordidus,1,44,588,5082,2408301,2408726,Actinopterygii,NA,2408726,pasa,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Artedius,Artedius fenestralis,1,44,590,8621,2333960,2333969,Actinopterygii,NA,2333969,pasc,species,gbif
+Animalia,Chordata,Perciformes,Trichodontidae,Trichodon,Trichodon trichodon,1,44,587,5075,7598749,5210437,Actinopterygii,NA,5210437,pasf,species,gbif
+Animalia,Chordata,Cypriniformes,Cyprinidae,Mylocheilus,Mylocheilus caurinus,1,44,1153,7336,2360912,2360913,Actinopterygii,NA,2360913,pech,species,gbif
+Animalia,Chordata,Perciformes,Pholidae,Apodichthys,Apodichthys flavidus,1,44,587,8576,2390387,2390392,Actinopterygii,NA,2390392,pegu,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Eopsetta,Eopsetta jordani,1,44,588,8611,2409233,2409237,Actinopterygii,NA,2409237,peso,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Rhacochilus,Rhacochilus vacca,1,44,587,4269,2389312,2389313,Actinopterygii,NA,2389313,pipe,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus gorbuscha,1,44,1313,8615,2351426,5204037,Actinopterygii,NA,5204037,pink,species,gbif
+Animalia,Chordata,Batrachoidiformes,Batrachoididae,Porichthys,Porichthys notatus,1,44,1106,7187,2350811,2350817,Actinopterygii,NA,2350817,plmi,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Cottus,Cottus asper,1,44,590,8621,2334066,2334177,Actinopterygii,NA,2334177,prsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes emphaeus,1,44,590,8633,2333712,2335372,Actinopterygii,NA,2335372,psro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Odontopyxis,Odontopyxis trispinosa,1,44,590,8617,2337271,2337272,Actinopterygii,NA,2337272,pypo,species,gbif
+Animalia,Chordata,Perciformes,Ptilichthyidae,Ptilichthys,Ptilichthys goodei,1,44,587,4503,2390024,2390025,Actinopterygii,NA,2390025,qufi,species,gbif
+Animalia,Chordata,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus colliei,1,44,880,2181,2417351,5215461,Actinopterygii,120,5215461,ratf,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Chitonotus,Chitonotus pugetensis,1,44,590,8621,2333760,2333761,Actinopterygii,NA,2333761,rbsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Hemilepidotus,Hemilepidotus hemilepidotus,1,44,590,8621,2333943,2333949,Actinopterygii,NA,2333949,reil,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Amphistichus,Amphistichus rhodoterus,1,44,587,4269,2389247,2389252,Actinopterygii,NA,2389252,repe,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Phytichthys,Phytichthys chirus,1,44,587,8598,2394820,2394821,Actinopterygii,NA,2394821,ripr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis cyclopus,1,44,590,8627,2335959,5201449,Actinopterygii,NA,5201449,risn,species,gbif
+Animalia,Chordata,Perciformes,Pholidae,Apodichthys,Apodichthys fucorum,1,44,587,8576,2390387,2390390,Actinopterygii,NA,2390391,rogu,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,Hexagrammos,Hexagrammos lagocephalus,1,44,590,8626,2336463,2336464,Actinopterygii,NA,2336464,rogr,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Xiphister,Xiphister mucosus,1,44,587,8598,2394808,2394809,Actinopterygii,NA,2394809,ropr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Ascelichthys,Ascelichthys rhodorus,1,44,590,8621,2334020,2334021,Actinopterygii,NA,2334021,rosc,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Lepidopsetta,Lepidopsetta bilineata,1,44,588,8611,5213905,5213939,Actinopterygii,NA,5213939,roso,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis rutteri,1,44,590,8627,2335959,5201491,Actinopterygii,NA,5201491,rtsn,species,gbif
+Animalia,Chordata,Perciformes,Pholidae,Pholis,Pholis ornata,1,44,587,8576,2390397,5210410,Actinopterygii,NA,5210410,sagu,species,gbif
+Animalia,Chordata,Perciformes,Ammodytidae,Ammodytes,Ammodytes hexapterus,1,44,587,8487,2389989,2389995,Actinopterygii,NA,2389995,sand,species,gbif
+Animalia,Chordata,Clupeiformes,Clupeidae,Sardinops,Sardinops sagax,1,44,538,7332,2412582,2412583,Actinopterygii,NA,2412583,sard,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Oligocottus,Oligocottus rimensis,1,44,590,8621,2333736,2333744,Actinopterygii,NA,2333744,sasc,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Psettichthys,Psettichthys melanostictus,1,44,588,8611,2408960,2409051,Actinopterygii,NA,2409051,saso,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Artedius,Artedius harringtoni,1,44,590,8621,2333960,2333963,Actinopterygii,NA,2333963,scsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hemitripteridae,Nautichthys,Nautichthys oculofasciatus,1,44,590,5097,2335120,2335124,Actinopterygii,NA,2335124,sfsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes brevispinis,1,44,590,8633,2333712,2335560,Actinopterygii,NA,2335561,sgro,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Cymatogaster,Cymatogaster aggregata,1,44,587,4269,2389233,2389234,Actinopterygii,NA,2389234,shpe,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Clinocottus,Clinocottus acuticeps,1,44,590,8621,2333865,2333873,Actinopterygii,NA,2333873,shsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis pulchellus,1,44,590,8627,2335959,5201510,Actinopterygii,NA,5201510,shsn,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Hyperprosopon,Hyperprosopon ellipticum,1,44,587,4269,2389296,2389301,Actinopterygii,NA,2389301,sipe,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hemitripteridae,Blepsias,Blepsias cirrhosus,1,44,590,5097,2335094,2335095,Actinopterygii,NA,2335095,sisc,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Anoplarchus,Anoplarchus insignis,1,44,587,8598,2394913,2394916,Actinopterygii,NA,2394916,slco,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis mucosus,1,44,590,8627,2335959,5201509,Actinopterygii,NA,5201509,slsn,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Artedius,Artedius lateralis,1,44,590,8621,2333960,2333966,Actinopterygii,NA,2333966,smsc,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Lumpenus,Lumpenus sagitta,1,44,587,8598,5211320,5211330,Actinopterygii,NA,5211330,snpr,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus nerka,1,44,1313,8615,2351426,5204039,Actinopterygii,NA,5204039,sock,species,gbif
+Animalia,Chordata,Squaliformes,Squalidae,Squalus,Squalus acanthias,1,44,883,5872,2420869,5216368,Actinopterygii,121,5216368,spdo,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cyclopteridae,Eumicrotremus,Eumicrotremus orbis,1,44,590,8623,2336845,2336849,Actinopterygii,NA,2336849,splu,species,gbif
+Animalia,Chordata,Pleuronectiformes,Paralichthyidae,Citharichthys,Citharichthys stigmaeus,1,44,588,5082,2408301,2408737,Actinopterygii,NA,2408737,spsa,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Asemichthys,Asemichthys taylori,1,44,590,8621,2333989,2333756,Actinopterygii,NA,2333755,spsc,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,Liparis,Liparis callyodon,1,44,590,8627,2335959,5201419,Actinopterygii,NA,5201419,spsn,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes diploproa,1,44,590,8633,2333712,2335406,Actinopterygii,NA,2335406,spso,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus mykiss,1,44,1313,8615,2351426,5204019,Actinopterygii,NA,5204019,stee,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Platichthys,Platichthys stellatus,1,44,588,8611,2409326,2409327,Actinopterygii,NA,2409327,stfl,species,gbif
+Animalia,Chordata,Perciformes,Clinidae,Gibbonsia,Gibbonsia metzi,1,44,587,4261,2380263,5209312,Actinopterygii,NA,5209312,stke,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,Embiotoca,Embiotoca lateralis,1,44,587,4269,2389281,2389287,Actinopterygii,NA,2389287,stpe,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Podothecus,Podothecus accipenserinus,1,44,590,8617,2337127,2337129,Actinopterygii,NA,2337129,stop,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Leptocottus,Leptocottus armatus,1,44,590,8621,2333922,2333923,Actinopterygii,NA,2333923,stsc,species,gbif
+Animalia,Chordata,Rajiformes,Rajidae,Raja,Raja stellulata,1,44,884,5877,2342057,5216036,Actinopterygii,121,5216036,stsk,species,gbif
+Animalia,Chordata,Osmeriformes,Osmeridae,Hypomesus,Hypomesus pretiosus,1,44,1068,8480,2410868,2410871,Actinopterygii,NA,2410871,susm,species,gbif
+Animalia,Chordata,Scorpaeniformes,Psychrolutidae,Psychrolutes,Psychrolutes paradoxus,1,44,590,8631,2334899,2334904,Actinopterygii,NA,2334904,tasc,species,gbif
+Animalia,Chordata,Gasterosteiformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus,1,44,550,7666,2333602,4286327,Actinopterygii,NA,4286327,thst,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes nigrocinctus,1,44,590,8633,2333712,2335492,Actinopterygii,NA,2335492,tiro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Oligocottus,Oligocottus maculosus,1,44,590,8621,2333736,2333746,Actinopterygii,NA,2333746,tisc,species,gbif
+Animalia,Chordata,Gadiformes,Gadidae,Microgadus,Microgadus proximus,1,44,549,3701,2415887,2415888,Actinopterygii,NA,2415888,tomc,species,gbif
+Animalia,Chordata,Gasterosteiformes,Aulorhynchidae,Aulorhynchus,Aulorhynchus flavidus,1,44,550,3705,2356480,2356481,Actinopterygii,NA,2356481,tube,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Pallasina,Pallasina barbata,1,44,590,8617,2337225,5201645,Actinopterygii,NA,5201645,tupo,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Artedius,NA,1,44,590,8621,2333960,NA,Actinopterygii,NA,2333960,unar,species,gbif
+Animalia,Chordata,Perciformes,Stichaeidae,Anoplarchus,NA,1,44,587,8598,2394913,NA,Actinopterygii,NA,2394913,uncc,species,gbif
+Animalia,Chordata,Gadiformes,Gadidae,NA,NA,1,44,549,3701,NA,NA,Actinopterygii,NA,3701,unco,species,gbif
+Animalia,Chordata,Pleuronectiformes,NA,NA,NA,1,44,588,NA,NA,NA,Actinopterygii,NA,588,unfl,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,NA,NA,1,44,590,8626,NA,NA,Actinopterygii,NA,8626,ungr,species,gbif
+Animalia,Chordata,Perciformes,Pholidae,NA,NA,1,44,587,8576,NA,NA,Actinopterygii,NA,4841193,ungu,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Hemilepidotus,NA,1,44,590,8621,2333943,NA,Actinopterygii,NA,2333943,unil,species,gbif
+Animalia,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,Actinopterygii,NA,1,unke,species,gbif
+Animalia,Chordata,Perciformes,Embiotocidae,NA,NA,1,44,587,4269,NA,NA,Actinopterygii,NA,4269,unpe,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,NA,NA,1,44,590,8617,NA,NA,Actinopterygii,NA,8617,unpo,species,gbif
+Animalia,Chordata,Perciformes,Bathymasteridae,NA,NA,1,44,587,8507,NA,NA,Actinopterygii,NA,8507,unrn,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,NA,1,44,1313,8615,2351426,NA,Actinopterygii,NA,2351426,unsa,species,gbif
+Animalia,Chordata,Salmoniformes,Salmonidae,Oncorhynchus,NA,1,44,1313,8615,2351426,NA,Actinopterygii,NA,2351426,untr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,NA,NA,1,44,590,8621,NA,NA,Actinopterygii,NA,8621,unsc,species,gbif
+Animalia,Chordata,Pleuronectiformes,Paralichthyidae,NA,NA,1,44,588,5082,NA,NA,Actinopterygii,NA,5082,unsd,species,gbif
+Animalia,Chordata,Osmeriformes,Osmeridae,NA,NA,1,44,1068,8480,NA,NA,Actinopterygii,NA,8480,unsm,species,gbif
+Animalia,Chordata,Scorpaeniformes,Liparidae,NA,NA,1,44,590,8627,NA,NA,Actinopterygii,NA,8627,unsn,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes miniatus,1,44,590,8633,2333712,2335381,Actinopterygii,NA,2335381,vero,species,gbif
+Animalia,Chordata,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,1,44,549,3701,2335052,2415769,Actinopterygii,NA,2415762,wall,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Chesnonia,Chesnonia verrucosa,1,44,590,8617,2337174,2337175,Actinopterygii,NA,2337175,wapo,species,gbif
+Animalia,Chordata,Scorpaeniformes,Hexagrammidae,Hexagrammos,Hexagrammos stelleri,1,44,590,8626,2336463,2336480,Actinopterygii,NA,2336480,whgr,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes entomelas,1,44,590,8633,2333712,2335516,Actinopterygii,NA,2335516,wiro,species,gbif
+Animalia,Chordata,Scorpaeniformes,Sebastidae,Sebastes,Sebastes flavidus,1,44,590,8633,2333712,2335500,Actinopterygii,NA,2335500,yero,species,gbif
+Animalia,Chordata,Pleuronectiformes,Pleuronectidae,Limanda,Limanda aspera,1,44,588,8611,5213949,5213950,Actinopterygii,NA,5213950,yeso,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Cottus,NA,1,44,590,8621,2334066,NA,Actinopterygii,NA,2334066,uncs,species,gbif
+Animalia,Chordata,Beloniformes,Scomberesocidae,Cololabis,Cololabis saira,1,44,498,7192,2369260,2369261,Actinopterygii,NA,2369261,pasr,species,gbif
+Animalia,Chordata,Perciformes,Gobiidae,NA,NA,1,44,587,4274,NA,NA,Actinopterygii,NA,4274,ungo,species,gbif
+Animalia,Chordata,Scorpaeniformes,Agonidae,Bathyagonus,NA,1,44,590,8617,2337084,NA,Actinopterygii,NA,2337084,unba,species,gbif
+Animalia,Chordata,Scorpaeniformes,Cottidae,Orthonopias,Orthonopias triacis,1,44,590,8621,2333855,2333856,Actinopterygii,NA,2333856,snsc,species,gbif
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unla,species,gbif

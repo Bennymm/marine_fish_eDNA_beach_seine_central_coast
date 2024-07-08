@@ -1,0 +1,19 @@
+﻿site,lat,long,long_neg,aspect,slope_intertidal,slope_subtidal,freshwater_input,intertidal_primary_macroveg,intertidal_primary_cover,intertidal_secondary_macroveg,intertidal_secondary_cover,subtidal_primary_macroveg,subtidal_primary_macroveg_simple,subtidal_primary_cover,subtidal_secondary_macroveg,subtidal_secondary_cover,intertidal_primary_substrate,intertidal_secondary_substate,subtidal_primary_substrate,subtidal_secondary_substrate,beach_length,veg_subst,exposure,notes
+chp,51.67636,128.12405,-128.12405,64,3,2,n,fucus,20,none,0,zostera,zostera,70,egregia,10,sand,gravel,sand,gravel,35,zostera.sand,e,on the edge of zostera beds which we might seine at lower tides
+fan1,52.0607,128.41402,-128.41402,354,2,1,n,fucus,10,zostera,5,zostera,zostera,99,a2,1,sand,gravel,sand,gravel,150,zostera.sand,p,
+fan3,52.05347,128.40262,-128.40262,164,1,1,n,fucus,5,none,0,zostera,zostera,75,macro,5,sand,sand,sand,sand,700,zostera.sand,sp,margot's seagrass sites
+gog1,51.92505,128.46851,-128.46851,110,1,1,n,zostera,5,none,0,zostera,zostera,95,none,0,sand,sand,sand,sand,200,zostera.sand,se,margot's seagrass sites
+gog4,51.90397,128.43958,-128.43958,168,2,2,n,fucus,20,ulva,15,zostera,zostera,10,surfgrass,1,sand,cobble,sand,cobble,150,sand,se,
+hab2,51.66382,128.1368,-128.1368,5,3,3,n,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,1000,sand,se,
+hab4,51.66529667,128.0789633,-128.0789633,256,2,2,y,ulva,20,fucus,5,unal,unal,40,none,0,mud,gravel,mud,mud,200,unal.mud,sp,o
+hdo,51.65456,128.13007,-128.13007,58,5,10,n,zostera,10,fucus,5,zostera,zostera,20,ab2,1,cobble,mud,mud,sand,320,zostera.mud,p,
+kis1,51.810975,128.22937,-128.22937,358,2,2,n,fucus,30,zostera,10,zostera,zostera,50,macro,10,sand,gravel,sand,gravel,25,zostera.sand,sp,
+kis2,51.83706,128.23918,-128.23918,173,4,7,n,fucus,50,none,0,unal,unal,50,none,0,cobble,pebble,cobble,pebble,50,unal.cobble,sp,
+koe1,51.77404,127.87433,-127.87433,240,7,4,y,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,500,sand,p,
+koe3,51.7756,127.87876,-127.87876,180,6,10,n,fucus,10,none,0,nereo,nereo,2,zostera,10,sand,cobble,sand,cobble,90,sand,p,
+pba,51.64581,128.11928,-128.11928,349,0,0,y,zostera,20,ab3,15,zostera,zostera,99,ab3,10,mud,sand,mud,sand,180,zostera.mud,p,
+ppo,51.65768,128.11253,-128.11253,225,6,3,n,fucus,75,ag1,10,zostera,zostera,15,ab2,10,mud,sand,mud,cobble,100,zostera.mud,p,broken by rock outcrops
+sni1,51.83842,128.05959,-128.05959,358,5,20,n,zostera,20,fucus,15,zostera,zostera,80,ab2,5,mud,cobble,mud,cobble,80,zostera.mud,p,
+sni2,51.81764,128.03004,-128.03004,183,13,7,n,fucus,30,ulva,10,ab2,unal,75,ag3,10,cobble,sand,cobble,sand,70,unal.cobble,p,
+ssp,51.680508,128.115208,-128.115208,290,8,5,y,none,0,none,0,zostera,zostera,2,none,0,sand,sand,sand,sand,455,sand,se,
+wfb,51.66825,128.11855,-128.11855,294,5,2,y,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,350,sand,se,

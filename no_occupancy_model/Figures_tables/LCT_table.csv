@@ -1,0 +1,104 @@
+"","LCT_shared","gamma_error","all_species","mean_biodensBS","max_biodensBS","max_prop_biodensBS","mean_read_eDNA","max_read_eDNA","prev_bs","prev_eDNA","grp"
+"1","Ammodytes1","both","Ammodytes hexapterus, Ammodytes personatus",6.04677748385415,214.944939903233,0.972720079969343,5595.10869565217,36887,23,42,"both_m"
+"2","Amphistichus rhodoterus","both","Amphistichus rhodoterus",0.0423748634183619,1.94924371724465,0.335193088403387,1.15217391304348,53,1,1,"both_m"
+"3","Anarrhichthys ocellatus","eDNA only","Anarrhichthys ocellatus",0,0,0,145.239130434783,1908,0,19,NA
+"4","Anoplarchus1","both","Anoplarchus insignis, Anoplarchus purpurescens",0.000382989238718513,0.0111386143407881,0.00439260047722006,1606.41304347826,9403,4,43,"eDNA_m"
+"5","Anoplopoma fimbria","eDNA only","Anoplopoma fimbria",0,0,0,22.8260869565217,984,0,3,NA
+"6","Apodichthys flavidus","both","Apodichthys flavidus",0.0124482611092829,0.170631274833644,0.02906491981101,1425.17391304348,21240,25,35,"both_m"
+"7","Artedius1","both","Artedius fenestralis, Artedius harringtoni, Artedius lateralis",0.0107019233313832,0.211636969842293,0.0124137659243608,946.630434782609,3468,10,44,"eDNA_m"
+"8","Ascelichthys rhodorus","both","Ascelichthys rhodorus",0.0182195084223498,0.838097387428091,0.155023115957917,181.695652173913,2065,1,15,"eDNA_m"
+"9","Aulorhynchus flavidus","both","Aulorhynchus flavidus",0.0248762614664139,0.879085712455807,0.1042574239111,345.869565217391,3668,24,26,"NP"
+"10","Blepsias cirrhosus","both","Blepsias cirrhosus",0.0308832439128315,0.650826422076,0.0740757923931279,28.6086956521739,500,18,6,"BS_m"
+"11","Brachyistius frenatus","both","Brachyistius frenatus",0.000940704783552241,0.0193711871197873,0.00419575989027027,123.45652173913,854,5,22,"eDNA_m"
+"12","Brosmophycis marginata","eDNA only","Brosmophycis marginata",0,0,0,6.1304347826087,138,0,4,NA
+"13","Chitonotus pugetensis","both","Chitonotus pugetensis",0.00335243187989465,0.0710806686494948,0.0463622125859909,52.8913043478261,463,7,11,"eDNA_m"
+"14","Citharichthys1","both","Citharichthys sordidus, Citharichthys stigmaeus",0.248694819543773,1.30698495207094,0.256798383307851,749.739130434783,6957,41,41,"both_m"
+"15","Clevelandia ios","eDNA only","Clevelandia ios",0,0,0,21.5,260,0,8,NA
+"16","Clinocottus acuticeps","both","Clinocottus acuticeps",4.45813870447687e-05,0.00118612710911537,5.74575405427984e-05,15.3478260869565,199,2,8,"eDNA_m"
+"17","Clinocottus globiceps","eDNA only","Clinocottus globiceps",0,0,0,82.8695652173913,863,0,20,NA
+"18","Clupea pallasii","both","Clupea pallasii",0.304235867841904,12.2928548319295,0.644062002852009,18405.6086956522,65198,12,46,"eDNA_m"
+"19","Cottus asper","eDNA only","Cottus asper",0,0,0,807.95652173913,9829,0,29,NA
+"20","Cottus perplexus","eDNA only","Cottus perplexus",0,0,0,0.239130434782609,11,0,1,NA
+"21","Cottus1","eDNA only","Cottus aleuticus, Cottus cognatus",0,0,0,85.2608695652174,1288,0,10,NA
+"22","Cryptacanthodes giganteus","eDNA only","Cryptacanthodes giganteus",0,0,0,0.195652173913043,9,0,1,NA
+"23","Cymatogaster aggregata","both","Cymatogaster aggregata",3.92731563245153,40.2625407478852,0.969080817930511,14557.4130434783,49926,36,46,"both_m"
+"24","Embiotoca lateralis","both","Embiotoca lateralis",0.0768073097045283,1.39818377995803,0.465537961967055,951.239130434783,28025,14,34,"eDNA_m"
+"25","Engraulis mordax","eDNA only","Engraulis mordax",0,0,0,165.782608695652,1409,0,27,NA
+"26","Enophrys bison","both","Enophrys bison",0.0158730099353026,0.195380805531005,0.0479803192165526,373.978260869565,2772,20,32,"NP"
+"27","Eopsetta jordani","eDNA only","Eopsetta jordani",0,0,0,1.65217391304348,76,0,1,NA
+"28","Gadus chalcogrammus","both","Gadus chalcogrammus",9.88848080624946e-05,0.00454870117087475,0.000841374570125278,53.5,635,1,13,"eDNA_m"
+"29","Gadus macrocephalus","both","Gadus macrocephalus",0.000772146886581566,0.0314726419017263,0.00164895242442949,5.32608695652174,186,2,2,"NP"
+"30","Gasterosteus aculeatus","both","Gasterosteus aculeatus",0.28371741393827,8.80149047007949,0.195594849944997,3471.58695652174,34390,16,39,"eDNA_m"
+"31","Gibbonsia metzi","BS only","Gibbonsia metzi",9.57056033325103e-06,0.000231400695637649,0.000125511237406781,0,0,2,0,NA
+"32","Gibbonsia montereyensis","eDNA only","Gibbonsia montereyensis",0,0,0,53.4130434782609,794,0,9,NA
+"33","Glyptocephalus zachirus","eDNA only","Glyptocephalus zachirus",0,0,0,1.78260869565217,82,0,1,NA
+"34","Gobiesox maeandricus","both","Gobiesox maeandricus",5.02348949428516e-05,0.000784722931897421,0.000484305644543003,271.45652173913,2313,5,31,"eDNA_m"
+"35","Hemilepidotus hemilepidotus","both","Hemilepidotus hemilepidotus",0.0202386377146528,0.600977539704069,0.0364939796126348,417.739130434783,3490,11,35,"eDNA_m"
+"36","Hemilepidotus spinosus","eDNA only","Hemilepidotus spinosus",0,0,0,21.7608695652174,473,0,6,NA
+"37","Hexagrammos decagrammus","both","Hexagrammos decagrammus",0.146959295930938,1.69223928624743,0.213535818116527,1909.54347826087,15188,19,40,"eDNA_m"
+"38","Hexagrammos stelleri","BS only","Hexagrammos stelleri",0.00995872181610196,0.118590793013178,0.0238034852271891,0,0,8,0,NA
+"39","Hexagrammos1","both","Hexagrammos lagocephalus, Hexagrammos octogrammus",0.0863905052756485,2.82903987805768,0.163879749284375,421.804347826087,4040,5,37,"eDNA_m"
+"40","Hippoglossoides elassodon","eDNA only","Hippoglossoides elassodon",0,0,0,4.76086956521739,130,0,3,NA
+"41","Hippoglossus stenolepis","eDNA only","Hippoglossus stenolepis",0,0,0,142.673913043478,5681,0,5,NA
+"42","Hydrolagus colliei","eDNA only","Hydrolagus colliei",0,0,0,16.4347826086957,259,0,15,NA
+"43","Hypomesus pretiosus","both","Hypomesus pretiosus",0.00661568780506876,0.162488928658758,0.0461898199327198,0.521739130434783,24,6,1,"BS_m"
+"44","Icelinus borealis","eDNA only","Icelinus borealis",0,0,0,3.80434782608696,137,0,2,NA
+"45","Icichthys lockingtoni","eDNA only","Icichthys lockingtoni",0,0,0,10.2173913043478,378,0,2,NA
+"46","Icosteus aenigmaticus","eDNA only","Icosteus aenigmaticus",0,0,0,23.3478260869565,453,0,7,NA
+"47","Jordania zonope","both","Jordania zonope",3.87545863783559e-06,0.000178271097340437,4.37786308344497e-05,94.7826086956522,1179,1,16,"eDNA_m"
+"48","Lepidogobius lepidus","both","Lepidogobius lepidus",0.000118843185018151,0.00546678651083495,0.000536798250254722,14,274,1,4,"eDNA_m"
+"49","Lepidopsetta1","both","Lepidopsetta bilineata, Lepidopsetta polyxystra",0.00019347854121935,0.00530651879191068,0.00346116541946553,37.3913043478261,277,2,17,"eDNA_m"
+"50","Leptocottus armatus","both","Leptocottus armatus",1.26420088167095,7.58413633152062,0.769910602366733,1935.60869565217,10863,34,38,"both_m"
+"51","Liparis cyclopus","eDNA only","Liparis cyclopus",0,0,0,60.8260869565217,1449,0,7,NA
+"52","Liparis florae","eDNA only","Liparis florae",0,0,0,115.130434782609,766,0,17,NA
+"53","Liparis fucensis","eDNA only","Liparis fucensis",0,0,0,0.934782608695652,35,0,2,NA
+"54","Liparis mucosus","eDNA only","Liparis mucosus",0,0,0,21.804347826087,186,0,11,NA
+"55","Liparis pulchellus","eDNA only","Liparis pulchellus",0,0,0,105.891304347826,4871,0,1,NA
+"56","Lumpenus sagitta","both","Lumpenus sagitta",0.0113121017944245,0.436466122227656,0.151464521142428,44,1314,5,4,"NP"
+"57","Lyopsetta exilis","eDNA only","Lyopsetta exilis",0,0,0,9.84782608695652,422,0,2,NA
+"58","Merluccius productus","eDNA only","Merluccius productus",0,0,0,2.3695652173913,46,0,11,NA
+"59","Microgadus proximus","both","Microgadus proximus",0.000823407554173496,0.0309864891301248,0.00140066562773145,20.5652173913043,339,2,6,"eDNA_m"
+"60","Microstomus pacificus","eDNA only","Microstomus pacificus",0,0,0,41.3478260869565,479,0,9,NA
+"61","Mola mola","eDNA only","Mola mola",0,0,0,18.6521739130435,307,0,5,NA
+"62","Myoxocephalus1","both","Myoxocephalus polyacanthocephalus, Myoxocephalus stelleri",0.0499807220351675,1.25137251244839,0.198365124469033,235.478260869565,3515,11,20,"NP"
+"63","Nautichthys oculofasciatus","eDNA only","Nautichthys oculofasciatus",0,0,0,9.47826086956522,399,0,2,NA
+"64","Odontopyxis trispinosa","both","Odontopyxis trispinosa",0.000130291932950753,0.00599342891573463,0.000682160374910353,41.0869565217391,1538,1,5,"eDNA_m"
+"65","Oligocottus rimensis","BS only","Oligocottus rimensis",7.83142082734878e-05,0.00216665786691575,0.00111472424016538,0,0,2,0,NA
+"66","Oligocottus1","both","Oligocottus maculosus, Oligocottus snyderi",0.120037274923518,2.81076545750615,0.466119659281947,439.086956521739,3419,29,38,"both_m"
+"67","Oncorhynchus clarkii","eDNA only","Oncorhynchus clarkii",0,0,0,40.3478260869565,849,0,11,NA
+"68","Oncorhynchus gorbuscha","eDNA only","Oncorhynchus gorbuscha",0,0,0,2506.52173913043,46153,0,41,NA
+"69","Oncorhynchus keta","eDNA only","Oncorhynchus keta",0,0,0,186.304347826087,2607,0,19,NA
+"70","Oncorhynchus kisutch","both","Oncorhynchus kisutch",0.0303174743547145,1.0758748795984,0.0725305525440963,1112.80434782609,26018,4,34,"eDNA_m"
+"71","Oncorhynchus mykiss","eDNA only","Oncorhynchus mykiss",0,0,0,4.32608695652174,90,0,5,NA
+"72","Oncorhynchus nerka","eDNA only","Oncorhynchus nerka",0,0,0,16.2826086956522,340,0,4,NA
+"73","Oncorhynchus tshawytscha","both","Oncorhynchus tshawytscha",0.010601252391075,0.487657609989451,0.169229231358275,769.108695652174,10999,1,39,"eDNA_m"
+"74","Ophiodon elongatus","both","Ophiodon elongatus",0.129396228765878,4.09935164306601,0.466580198587459,484.45652173913,3437,19,30,"NP"
+"75","Orthonopias triacis","eDNA only","Orthonopias triacis",0,0,0,6.10869565217391,152,0,6,NA
+"76","Oxylebius pictus","both","Oxylebius pictus",2.02798433061062e-05,0.000932872792080887,0.000418759945736991,76.195652173913,926,1,16,"eDNA_m"
+"77","Pallasina barbata","BS only","Pallasina barbata",0.000717283095014577,0.0216330208567988,0.00400146611970114,0,0,3,0,NA
+"78","Pholis1","both","Pholis clemensi, Pholis ornata",0.0525287731847738,0.399981608364294,0.153816064699135,1839.80434782609,8321,22,41,"NP"
+"79","Phytichthys chirus","eDNA only","Phytichthys chirus",0,0,0,79.5434782608696,816,0,14,NA
+"80","Platichthys stellatus","both","Platichthys stellatus",0.741509166991903,21.5659814387185,0.779315664608717,580.217391304348,3456,16,37,"eDNA_m"
+"81","Pleuronectidae1","both","Isopsetta isolepis, Parophrys vetulus, Psettichthys melanostictus",0.366951643756513,1.6765009921893,0.623373256155145,1426.76086956522,9333,41,45,"both_m"
+"82","Pleuronichthys coenosus","both","Pleuronichthys coenosus",0.0438415204181267,0.866355342338106,0.147970750986227,140.45652173913,1479,11,21,"eDNA_m"
+"83","Polypera greeni","eDNA only","Polypera greeni",0,0,0,47.4782608695652,2121,0,2,NA
+"84","Prosopium williamsoni","eDNA only","Prosopium williamsoni",0,0,0,5.5,143,0,2,NA
+"85","Rhacochilus vacca","both","Rhacochilus vacca",0.0637587687635222,2.81780413318303,0.140586982689365,349.086956521739,4275,2,29,"eDNA_m"
+"86","Rhamphocottus richardsonii","eDNA only","Rhamphocottus richardsonii",0,0,0,12.2173913043478,304,0,3,NA
+"87","Rhinogobiops nicholsii","BS only","Rhinogobiops nicholsii",0.0028241636533583,0.0429964213083648,0.0590420893842778,0,0,7,0,NA
+"88","Rimicola muscarum","both","Rimicola muscarum",0.000432597007150183,0.0113967758363631,0.00142893459734495,37.8260869565217,645,3,10,"eDNA_m"
+"89","Ronquilus jordani","eDNA only","Ronquilus jordani",0,0,0,3.80434782608696,175,0,1,NA
+"90","Salvelinus malma","both","Salvelinus malma",0.0684986503905791,2.93452895162882,0.0556084149276755,76.5,1008,4,8,"NP"
+"91","Scomber japonicus","eDNA only","Scomber japonicus",0,0,0,11.4347826086957,526,0,1,NA
+"92","Scorpaenichthys marmoratus","both","Scorpaenichthys marmoratus",0.0199144169527566,0.326153068369774,0.0731774862435016,172.630434782609,1999,18,26,"NP"
+"93","Sebastes entomelas","eDNA only","Sebastes entomelas",0,0,0,125.739130434783,1236,0,15,NA
+"94","Sebastes mystinus","eDNA only","Sebastes mystinus",0,0,0,0.347826086956522,16,0,1,NA
+"95","Sebastes nebulosus","eDNA only","Sebastes nebulosus",0,0,0,75.7608695652174,961,0,14,NA
+"96","Sebastes nigrocinctus","eDNA only","Sebastes nigrocinctus",0,0,0,2.78260869565217,128,0,1,NA
+"97","Sebastes paucispinis","BS only","Sebastes paucispinis",1.20142042498231e-07,5.52653395491862e-06,1.02224458277794e-06,0,0,1,0,NA
+"98","Sebastes1","both","Sebastes caurinus, Sebastes maliger",0.196262315677204,8.0522798220433,0.463750335784299,684.086956521739,3274,9,33,"eDNA_m"
+"99","Sebastes2","both","Sebastes - alutianus, alutus, elongatus, flavidus, melanistictus, melanops,  ruberrimus",0.0967350733780795,2.00430113840016,0.461501484421545,2675.26086956522,10264,7,46,"eDNA_m"
+"100","Synchirus gilli","both","Synchirus gilli",0.00127587900884582,0.020298389069425,0.00293440091319193,98.8913043478261,938,10,15,"NP"
+"101","Syngnathus leptorhynchus","both","Syngnathus leptorhynchus",0.102967208741129,0.776999149449291,0.150689471311435,60.0217391304348,391,33,21,"NP"
+"102","Trichodon trichodon","both","Trichodon trichodon",0.000148660675433657,0.0068383910699482,0.00108898529170349,72.7391304347826,3210,1,3,"eDNA_m"
+"103","Xiphister1","eDNA only","Xiphister atropurpureus, Xiphister mucosus",0,0,0,1015.15217391304,6411,0,39,NA

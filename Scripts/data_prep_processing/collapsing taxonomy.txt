@@ -1,0 +1,76 @@
+Process for cleaning eDNA data - eDNA taxonomy
+
+Notes: some species have multiple ASVs varying in frequency. the infrequent ones are often removed by the occupancy model.
+We wanted to explore how these errors occur and what species/observations may be retained if we cluster ASVs on species before 
+we run the occupancy models.
+
+
+Steps:
+
+1: Identify taxa that mifish can uniquely identify.
+2: list all ASVs for those taxa and their frequency
+Think about this for a while
+
+2: Collapse 
+
+ASSIGNMENTS FOR MULTIPLE HITS
+multiple hits within Families 
+	d1: ASVs with multiple hits, but only one species assignment in range 
+		-add to ASVs with single hits, maybe group by clusters found in genera
+	d2: ASVs with multiple genera within families, assign grouping manually
+		-Use these groups on ASVs with single hits (in the case that only
+		a single hit was found for some ASVs that were previously assigned to 
+		groups)
+		-when grouping, all species that are nested subsets are grouped together
+		i.e.) when there are 4 top hit species for one ASV and 3 of those species for 
+		another, they are assigned the same group ID.
+Multiple hits within Genera
+	d3: ASVs with multiple hits, but only one species assignment in range
+		-add to ASVs with single hits
+	d4: ASVs with multiple species within genera, assign grouping manually	
+		-when grouping, all species that are nested subsets are grouped together
+		i.e.) when there are 4 top hit species for one ASV and 3 of those species for 
+		another, they are assigned the same group ID.
+Single species hits
+	d5: ASVs assigned to species outside of range
+		-assign taxa by next best hit if possible or remove (label "unknown")
+	d6: ASVs assigned to species inside of range
+	
+Next steps	
+	d7: merge d1, d3, d5, and d6 (all ASVs with single species assignment)
+	- assign groups for these ASVs if the species assigned was grouped in
+	d2 or d4
+	
+identify groups containing all the taxa in a family or genera detected. In most cases,
+within Family or Genus there are groups of indistinguishable taxa and one or more species
+that are.
+	
+drop ASV 905, 414, 119, 1484 - too many top hits in range - coarsens other groups
+...ok, maybe not. let's give it an unknown_name
+
+do in family what you did in genera when assigning groups
+
+
+in the end we want:
+
+1) table of groups and the species within each
+
+2) new ASV assignments - need to keep ASVs throughout because in a few cases species can 
+be in groups or uniquely id'd. probably remove these later, but we can keep for now
+
+
+A few snags:
+Oncorhynchus	- nerka and keta are usually delineanted, but not for one ASV
+				- this would probably be removed by occupancy models (it's a singleton)
+
+what do we do here
+
+let's look at some examples of ASV frequencies
+
+ASV905 -  Pleuronectidae 	prevalence 1		(5 species) - these are usually recognized as two groups (PLeuronectidae1 and Lepidopsetta1)
+ASV411 -  Oncorhynchus		prevalence 1		(2 species) - these are usually recognized as two species (O. nerka and O. keta)
+ASV119 -  Pholis			prevalence 9 		(2 species) - only time one of the species shows (P. clemensi), the other is recognized uniquely (P. laeta)
+ASV1484 - Pholis			prevalence 1		(2 species) - only time one of the species shows (P. clemensi), the other is recognized uniquely (P. ornata)
+
+If we don't run the occupancy model first, we let through ASVs with poor assignments (e.g. 905, 411, 1484)
+this will collapse species to groups that were otherwise uniquely

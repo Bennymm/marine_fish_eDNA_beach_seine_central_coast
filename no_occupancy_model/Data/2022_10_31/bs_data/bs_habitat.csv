@@ -1,0 +1,72 @@
+﻿site,lat,long,aspect,slope_intertidal,slope_subtidal,freshwater_input,intertidal_primary_macroveg,intertidal_primary_cover,intertidal_secondary_macroveg,intertidal_secondary_cover,subtidal_primary_macroveg,subtidal_primary_macroveg_simple,subtidal_primary_cover,subtidal_secondary_macroveg,subtidal_secondary_cover,intertidal_primary_substrate,intertidal_secondary_substate,subtidal_primary_substrate,subtidal_secondary_substrate,beach_length,veg_subst,exposure,notes
+cas1,51.42298,127.91028,195,2,2,n,ulva,50,fucus,50,zostera,zostera,5,none,0,sand,cobble,sand,cobble,200,sand,se,
+cas2,51.52919,127.93262,66,2,2,n,zostera,90,none,0,zostera,zostera,90,none,0,mud,cobble,mud,cobble,300,zostera.mud,sp,
+chp,51.67636,128.12405,64,3,2,n,fucus,20,none,0,zostera,zostera,70,egregia,10,sand,gravel,sand,gravel,35,zostera.sand,e,on the edge of zostera beds which we might seine at lower tides
+fan1,52.0607,128.41402,354,2,1,n,fucus,10,zostera,5,zostera,zostera,99,a2,1,sand,gravel,sand,gravel,150,zostera.sand,p,
+fan2,52.07108,128.40424,348,5,5,n,fucus,60,codium,15,zostera,zostera,20,macro,10,sand,cobble,sand,cobble,20,zostera.sand,se,
+fan3,52.05347,128.40262,164,1,1,n,fucus,5,none,0,zostera,zostera,75,macro,5,sand,sand,sand,sand,700,zostera.sand,sp,margot's seagrass sites
+fei1,51.60141,127.67641,331,14,5,y,fucus,50,ag3,25,zostera,zostera,50,ag3,25,mud,sand,mud,sand,170,zostera.mud,vp,centered on creek output
+fei10,51.57476,127.79446,270,5,6,n,fucus,20,zostera,5,zostera,zostera,40,zostera,5,gravel,sand,gravel,sand,50,zostera.gravel,p,
+fei11,51.53254,127.79809,310,4,6,n,fucus,1,none,0,zostera,zostera,60,none,0,sand,gravel,sand,gravel,50,zostera.sand,sp,
+fei12,51.62478,127.69541,184,10,1,y,fucus,10,zostera,1,zostera,zostera,15,none,0,mud,cobble,mud,cobble,5,mud,vp,
+fei13,51.565812,127.79362,210,5,2,n,fucus,20,unal,1,zostera,zostera,65,ulva,10,cobble,sand,sand,gravel,50,zostera.sand,sp,
+fei2,51.61966,127.69118,160,8,2,n,fucus,70,none,0,zostera,zostera,70,none,0,sand,pebble,mud,cobble,80,zostera.mud,p,broken by rock outcrops
+fei3,51.71321,127.87064,115,3,3,n,fucus,20,unal,5,zostera,zostera,80,unal,1,mud,mud,mud,mud,150,zostera.mud,sp,
+fei4,51.70667,127.8847,144,7,2,n,fucus,30,unal,15,zostera,zostera,80,unal,5,sand,mud,sand,mud,130,zostera.sand,sp,
+fei5,51.651281,127.853603,169,1,1,n,fucus,30,ulva,3,zostera,zostera,90,ulva,2,mud,cobble,mud,sand,30,zostera.mud,p,
+fei6,51.6337,127.68705,190,4,2,y,fucus,10,none,0,zostera,zostera,40,none,0,cobble,gravel,mud,cobble,75,zostera.mud,p,"river input at m, water felt pretty warm here, maybe a hotspring in the area?"
+fei7,51.6291,127.75097,148,5,4,n,fucus,25,none,0,zostera,zostera,10,fucus,5,sand,cobble,sand,gravel,20,sand,p,
+fei8,51.62294,127.69376,186,3,4,n,fucus,50,unal,50,zostera,zostera,50,none,0,cobble,pebble,mud,cobble,25,zostera.mud,p,
+fei9,51.60461,127.71237,0,10,2,n,fucus,50,unal,50,zostera,zostera,50,none,0,mud,gravel,mud,cobble,20,zostera.mud,vp,
+gog1,51.92505,128.46851,110,1,1,n,zostera,5,none,0,zostera,zostera,95,none,0,sand,sand,sand,sand,200,zostera.sand,se,margot's seagrass sites
+gog2,51.99169,128.43129,244,3,2,y,fucus,5,none,0,zostera,zostera,75,egregia,5,sand,gravel,sand,sand,690,zostera.sand,se,
+gog3,52.001785,128.42786,8,3,4,n,fucus,1,none,0,zostera,zostera,30,macro,20,sand,gravel,sand,sand,350,zostera.sand,se,
+gog4,51.90397,128.43958,168,2,2,n,fucus,20,ulva,15,zostera,zostera,10,surfgrass,1,sand,cobble,sand,cobble,150,sand,se,
+hab1,51.65182,128.11832,334,4,6,n,unal,15,ulva,2,zostera,zostera,80,none,0,gravel,cobble,gravel,cobble,35,zostera.gravel,p,
+hab2,51.66382,128.1368,5,3,3,n,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,1000,sand,se,
+hab3,51.6594,128.11681,145,2,4,n,ulva,10,zostera,2,zostera,zostera,50,ulva,10,sand,mud,sand,mud,220,zostera.sand,p,
+hab4,51.66529667,128.0789633,256,2,2,y,ulva,20,fucus,5,unal,unal,40,none,0,mud,gravel,mud,mud,200,unal.mud,sp,o
+hab5,51.65778,127.96572,0,3,3,n,ulva,20,zostera,10,zostera,zostera,70,a2,10,sand,cobble,sand,cobble,20,zostera.sand,sp,aspect missing
+hab6,51.64249,128.086863,330,1,1,y,ulva,90,zostera,2,zostera,zostera,50,ulva,5,sand,mud,sand,mud,100,zostera.sand,p,
+hab7,51.7258,128.00725,60,8,10,n,ulva,5,fucus,3,ulva,ulva,90,fucus,10,sand,gravel,sand,gravel,50,ulva.sand,sp,
+hdo,51.65456,128.13007,58,5,10,n,zostera,10,fucus,5,zostera,zostera,20,ab2,1,cobble,mud,mud,sand,320,zostera.mud,p,
+kis1,51.810975,128.22937,358,2,2,n,fucus,30,zostera,10,zostera,zostera,50,macro,10,sand,gravel,sand,gravel,25,zostera.sand,sp,
+kis10,51.81974,128.22237,336,3,3,n,fucus,10,zostera,10,macro,macro,40,zostera,10,sand,cobble,sand,cobble,45,macro.sand,sp,
+kis2,51.83706,128.23918,173,4,7,n,fucus,50,none,0,unal,unal,50,none,0,cobble,pebble,cobble,pebble,50,unal.cobble,sp,
+kis3,51.895733,128.123197,19,13,2,y,fucus,35,ag6,25,zostera,zostera,70,6,10,mud,cobble,mud,cobble,60,zostera.mud,p,seine to lookers left of creek
+kis4,51.88071,128.16101,140,19,3,n,fucus,30,zostera,20,zostera,zostera,99,a3,1,cobble,sand,sand,cobble,60,zostera.sand,p,probably need a .3 tide or less
+kis5,51.93423,128.18935,210,3,4,n,fucus,35,ulva,5,zostera,zostera,20,kb6,60,sand,gravel,sand,gravel,50,zostera.sand,sp,
+kis6,51.89449,128.23875,328,4,2,n,fucus,20,ag1,5,zostera,zostera,90,ab3,3,sand,gravel,sand,mud,50,zostera.sand,p,
+kis7,51.84126,128.2527,182,4,1,n,zostera,99,none,0,zostera,zostera,50,zostera,10,mud,cobble,mud,cobble,30,zostera.mud,sp,
+kis8,51.86114,128.19994,172,6,1,n,fucus,45,zostera,45,zostera,zostera,95,zostera,10,sand,cobble,mud,cobble,40,zostera.mud,p,
+koe1,51.77404,127.87433,240,7,4,y,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,500,sand,p,
+koe2,51.7781,127.87262,274,15,15,y,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,290,sand,p,
+koe3,51.7756,127.87876,180,6,10,n,fucus,10,none,0,nereo,nereo,2,zostera,10,sand,cobble,sand,cobble,90,sand,p,
+nam1,51.83896,127.88849,156,4,4,n,ulva,10,zostera,5,unal,unal,90,zostera,10,sand,cobble,cobble,sand,70,unal.cobble,sp,
+nam2,51.83924,127.87563,96,1,1,n,ulva,10,zostera,2,zostera,zostera,90,none,0,sand,gravel,mud,sand,50,zostera.mud,sp,
+pba,51.64581,128.11928,349,0,0,y,zostera,20,ab3,15,zostera,zostera,99,ab3,10,mud,sand,mud,sand,180,zostera.mud,p,
+ppo,51.65768,128.11253,225,6,3,n,fucus,75,ag1,10,zostera,zostera,15,ab2,10,mud,sand,mud,cobble,100,zostera.mud,p,broken by rock outcrops
+rie1,51.70882,127.56435,160,5,2,y,fucus,60,ab3,1,ab3,unal,20,zostera,5,pebble,gravel,pebble,gravel,350,unal.gravel,p,two sets of environmental data because beach had high variation
+rie2,51.69951,127.35406,144,1,1,y,fucus,5,unal,2,unal,unal,2,unal,1,mud,sand,mud,sand,900,mud,p,big estuary
+rie3,51.67146,127.26577,258,1,1,y,none,0,none,0,none,none,0,none,0,mud,mud,mud,mud,50,mud,sp,small sandbar in big estuary at head of rivers inlet
+ris1,51.45568,127.69102,62,3,5,n,fucus,15,ag1,5,zostera,zostera,60,6,2,sand,sand,sand,mud,100,zostera.sand,se,
+ris2,51.5104,127.5227,252,3,5,y,fucus,60,ab6,5,ulva,ulva,5,ab6,5,sand,gravel,sand,gravel,800,sand,sp,
+ris3,51.48631,127.76165,32,4,10,n,ulva,3,unal,1,zostera,zostera,70,ulva,10,sand,gravel,sand,gravel,300,zostera.sand,p,
+ris4,51.53117,127.56535,96,4,3,n,fucus,40,none,0,zostera,zostera,20,nereo,10,sand,cobble,sand,cobble,50,zostera.sand,p,
+ris5,51.63381,127.55273,140,2,1,y,fucus,50,unal,1,ab3,unal,30,ulva,2,cobble,pebble,gravel,sand,100,unal.gravel,p,
+ris6,51.36692,127.76829,32,6,2,y,ulva,5,fucus,3,ulva,ulva,2,nereo,1,sand,cobble,sand,cobble,680,sand,se,
+ris7,51.39653,127.72215,32,7,2,n,fucus,50,ulva,50,zostera,zostera,20,none,0,cobble,sand,sand,gravel,50,zostera.sand,p,
+sni1,51.83842,128.05959,358,5,20,n,zostera,20,fucus,15,zostera,zostera,80,ab2,5,mud,cobble,mud,cobble,80,zostera.mud,p,
+sni10,51.77679,128.07205,356,3,3,n,fucus,15,ab1,10,zostera,zostera,55,ab2,20,mud,cobble,mud,cobble,45,zostera.mud,sp,
+sni11,51.84512,128.02744,122,3,2,y,fucus,30,ulva,1,zostera,zostera,50,none,0,cobble,sand,sand,cobble,45,zostera.sand,p,
+sni12,51.81873,128.05721,85,2,1,y,zostera,10,fucus,10,zostera,zostera,90,none,0,mud,cobble,mud,shellhash,100,zostera.mud,p,
+sni2,51.81764,128.03004,183,13,7,n,fucus,30,ulva,10,ab2,unal,75,ag3,10,cobble,sand,cobble,sand,70,unal.cobble,p,
+sni3,51.83101,128.0273,30,5,4,y,fucus,40,none,0,zostera,zostera,80,a2,1,pebble,gravel,mud,pebble,20,zostera.mud,p,
+sni4,51.81474,128.12874,188,3,2,n,fucus,45,unal,1,zostera,zostera,30,none,0,sand,cobble,sand,sand,65,zostera.sand,se,site is actually in kildit sound
+sni5,51.8051,128.09277,304,10,2,n,fucus,20,unal,7,zostera,zostera,80,unal,5,cobble,pebble,mud,pebble,30,zostera.mud,vp,
+sni6,51.83914,128.11191,166,4,10,n,fucus,65,unal,5,zostera,zostera,25,none,0,gravel,cobble,gravel,cobble,25,zostera.gravel,p,
+sni7,51.75478,128.08487,8,6,4,n,zostera,1,none,0,zostera,zostera,40,ulva,2,gravel,sand,sand,gravel,45,zostera.sand,p,
+sni8,51.78665,128.01708,350,5,5,n,fucus,50,ulva,50,unal,unal,20,zostera,10,sand,cobble,sand,cobble,15,unal.sand,p,
+sni9,51.79058,128.08199,146,5,7,n,fucus,20,unal,2,ab2,unal,40,zostera,15,cobble,pebble,cobble,gravel,40,unal.cobble,sp,
+ssp,51.680508,128.115208,290,8,5,y,none,0,none,0,zostera,zostera,2,none,0,sand,sand,sand,sand,455,sand,se,
+wfb,51.66825,128.11855,294,5,2,y,none,0,none,0,none,none,0,none,0,sand,sand,sand,sand,350,sand,se,

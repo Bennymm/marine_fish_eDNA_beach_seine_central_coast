@@ -1,0 +1,104 @@
+,LCT_shared,gamma_error,all_species,mean_biodensBS,max_biodensBS,max_prop_biodensBS,mean_read_eDNA,max_read_eDNA,prev_bs,prev_eDNA,grp,prefered habitat,prefered depth,expected
+1,Ammodytes1,both,"Ammodytes hexapterus, Ammodytes personatus",6.046777484,214.9449399,0.97272008,5595.108696,36887,23,42,both_m,soft substrates,shallow (juvenile),y
+2,Amphistichus rhodoterus,both,Amphistichus rhodoterus,0.042374863,1.949243717,0.335193088,1.152173913,53,1,1,both_m,exposed beaches,shallow,y
+3,Anarrhichthys ocellatus,eDNA only,Anarrhichthys ocellatus,0,0,0,145.2391304,1908,0,19,NA,rocky,all depths,n
+4,Anoplarchus1,both,"Anoplarchus insignis, Anoplarchus purpurescens",0.000382989,0.011138614,0.0043926,1606.413043,9403,4,43,eDNA_m,vegetated/rocky,shallow,y
+5,Anoplopoma fimbria,eDNA only,Anoplopoma fimbria,0,0,0,22.82608696,984,0,3,NA,soft sediments,shallow (juvenile),y
+6,Apodichthys flavidus,both,Apodichthys flavidus,0.012448261,0.170631275,0.02906492,1425.173913,21240,25,35,both_m,vegetated,shallow,y
+7,Artedius1,both,"Artedius fenestralis, Artedius harringtoni, Artedius lateralis",0.010701923,0.21163697,0.012413766,946.6304348,3468,10,44,eDNA_m,generalist,shallow,y
+8,Ascelichthys rhodorus,both,Ascelichthys rhodorus,0.018219508,0.838097387,0.155023116,181.6956522,2065,1,15,eDNA_m,rocky,shallow,n
+9,Aulorhynchus flavidus,both,Aulorhynchus flavidus,0.024876261,0.879085712,0.104257424,345.8695652,3668,24,26,NP,vegetated,shallow,y
+10,Blepsias cirrhosus,both,Blepsias cirrhosus,0.030883244,0.650826422,0.074075792,28.60869565,500,18,6,BS_m,vegetated,shallow,y
+11,Brachyistius frenatus,both,Brachyistius frenatus,0.000940705,0.019371187,0.00419576,123.4565217,854,5,22,eDNA_m,vegetated/rocky,shallow,y
+12,Brosmophycis marginata,eDNA only,Brosmophycis marginata,0,0,0,6.130434783,138,0,4,NA,rocky,shallow,n
+13,Chitonotus pugetensis,both,Chitonotus pugetensis,0.003352432,0.071080669,0.046362213,52.89130435,463,7,11,eDNA_m,soft sediments,all depths,y
+14,Citharichthys1,both,"Citharichthys sordidus, Citharichthys stigmaeus",0.24869482,1.306984952,0.256798383,749.7391304,6957,41,41,both_m,soft sediments,shallow (juvenile),y
+15,Clevelandia ios,eDNA only,Clevelandia ios,0,0,0,21.5,260,0,8,NA,soft sediments,shallow,y
+16,Clinocottus acuticeps,both,Clinocottus acuticeps,4.45813870447687e-05,0.001186127,5.74575405427984e-05,15.34782609,199,2,8,eDNA_m,generalist,shallow,y
+17,Clinocottus globiceps,eDNA only,Clinocottus globiceps,0,0,0,82.86956522,863,0,20,NA,rocky,shallow,n
+18,Clupea pallasii,both,Clupea pallasii,0.304235868,12.29285483,0.644062003,18405.6087,65198,12,46,eDNA_m,generalist,shallow (juvenile),y
+19,Cottus asper,eDNA only,Cottus asper,0,0,0,807.9565217,9829,0,29,NA,freshwater/estuarine,shallow,n
+20,Cottus perplexus,eDNA only,Cottus perplexus,0,0,0,0.239130435,11,0,1,NA,freshwater,shallow,n
+21,Cottus1,eDNA only,"Cottus aleuticus, Cottus cognatus",0,0,0,85.26086957,1288,0,10,NA,freshwater/estuarine,shallow,n
+22,Cryptacanthodes giganteus,eDNA only,Cryptacanthodes giganteus,0,0,0,0.195652174,9,0,1,NA,soft sediments,shallow (juvenile),y
+23,Cymatogaster aggregata,both,Cymatogaster aggregata,3.927315632,40.26254075,0.969080818,14557.41304,49926,36,46,both_m,nearshore generalist,shallow,y
+24,Embiotoca lateralis,both,Embiotoca lateralis,0.07680731,1.39818378,0.465537962,951.2391304,28025,14,34,eDNA_m,vegetated/rocky,shallow,y
+25,Engraulis mordax,eDNA only,Engraulis mordax,0,0,0,165.7826087,1409,0,27,NA,open water,all sepths,n
+26,Enophrys bison,both,Enophrys bison,0.01587301,0.195380806,0.047980319,373.9782609,2772,20,32,NP,generalist,shallow (juvenile),y
+27,Eopsetta jordani,eDNA only,Eopsetta jordani,0,0,0,1.652173913,76,0,1,NA,soft sediments,shallow (juvenile),y
+28,Gadus chalcogrammus,both,Gadus chalcogrammus,9.88848080624946e-05,0.004548701,0.000841375,53.5,635,1,13,eDNA_m,vegetated (juvenile),shallow (juvenile),y
+29,Gadus macrocephalus,both,Gadus macrocephalus,0.000772147,0.031472642,0.001648952,5.326086957,186,2,2,NP,vegetated (juvenile),shallow (juvenile),y
+30,Gasterosteus aculeatus,both,Gasterosteus aculeatus,0.283717414,8.80149047,0.19559485,3471.586957,34390,16,39,eDNA_m,nearshore generalist,shallow,y
+31,Gibbonsia metzi,BS only,Gibbonsia metzi,9.57056033325103e-06,0.000231401,0.000125511,0,0,2,0,NA,vegetated/rocky,shallow,y
+32,Gibbonsia montereyensis,eDNA only,Gibbonsia montereyensis,0,0,0,53.41304348,794,0,9,NA,rocky,shallow,n
+33,Glyptocephalus zachirus,eDNA only,Glyptocephalus zachirus,0,0,0,1.782608696,82,0,1,NA,soft sediments,shallow (juvenile),y
+34,Gobiesox maeandricus,both,Gobiesox maeandricus,5.02348949428516e-05,0.000784723,0.000484306,271.4565217,2313,5,31,eDNA_m,vegetated,nearshore,y
+35,Hemilepidotus hemilepidotus,both,Hemilepidotus hemilepidotus,0.020238638,0.60097754,0.03649398,417.7391304,3490,11,35,eDNA_m,rocky,all depths,n
+36,Hemilepidotus spinosus,eDNA only,Hemilepidotus spinosus,0,0,0,21.76086957,473,0,6,NA,rocky,all depths,n
+37,Hexagrammos decagrammus,both,Hexagrammos decagrammus,0.146959296,1.692239286,0.213535818,1909.543478,15188,19,40,eDNA_m,generalist,shallow (juvenile),y
+38,Hexagrammos stelleri,BS only,Hexagrammos stelleri,0.009958722,0.118590793,0.023803485,0,0,8,0,NA,vegetated/rocky,shallow (juvenile),y
+39,Hexagrammos1,both,"Hexagrammos lagocephalus, Hexagrammos octogrammus",0.086390505,2.829039878,0.163879749,421.8043478,4040,5,37,eDNA_m,vegetated/rocky,shallow (juvenile),y
+40,Hippoglossoides elassodon,eDNA only,Hippoglossoides elassodon,0,0,0,4.760869565,130,0,3,NA,vegetated/rocky,shallow (juvenile),y
+41,Hippoglossus stenolepis,eDNA only,Hippoglossus stenolepis,0,0,0,142.673913,5681,0,5,NA,soft sediments,deep,n
+42,Hydrolagus colliei,eDNA only,Hydrolagus colliei,0,0,0,16.43478261,259,0,15,NA,generalist,all depths,y
+43,Hypomesus pretiosus,both,Hypomesus pretiosus,0.006615688,0.162488929,0.04618982,0.52173913,24,6,1,BS_m,generalist,all depths,y
+44,Icelinus borealis,eDNA only,Icelinus borealis,0,0,0,3.804347826,137,0,2,NA,soft sediments,shallow,y
+45,Icichthys lockingtoni,eDNA only,Icichthys lockingtoni,0,0,0,10.2173913,378,0,2,NA,open water,all depths,n
+46,Icosteus aenigmaticus,eDNA only,Icosteus aenigmaticus,0,0,0,23.34782609,453,0,7,NA,soft sediments,deep,n
+47,Jordania zonope,both,Jordania zonope,3.87545863783559e-06,0.000178271,4.37786308344497e-05,94.7826087,1179,1,16,eDNA_m,rocky,nearshore,n
+48,Lepidogobius lepidus,both,Lepidogobius lepidus,0.000118843,0.005466787,0.000536798,14,274,1,4,eDNA_m,soft sediments,all depths,y
+49,Lepidopsetta1,both,"Lepidopsetta bilineata, Lepidopsetta polyxystra",0.000193479,0.005306519,0.003461165,37.39130435,277,2,17,eDNA_m,soft sediments,all depths,y
+50,Leptocottus armatus,both,Leptocottus armatus,1.264200882,7.584136332,0.769910602,1935.608696,10863,34,38,both_m,soft substrates,shallow,y
+51,Liparis cyclopus,eDNA only,Liparis cyclopus,0,0,0,60.82608696,1449,0,7,NA,rocky,all depths,n
+52,Liparis florae,eDNA only,Liparis florae,0,0,0,115.1304348,766,0,17,NA,rocky,shallow,n
+53,Liparis fucensis,eDNA only,Liparis fucensis,0,0,0,0.934782609,35,0,2,NA,soft sediments,all depths,y
+54,Liparis mucosus,eDNA only,Liparis mucosus,0,0,0,21.80434783,186,0,11,NA,rocky,shallow,n
+55,Liparis pulchellus,eDNA only,Liparis pulchellus,0,0,0,105.8913043,4871,0,1,NA,soft sediments,all depths,y
+56,Lumpenus sagitta,both,Lumpenus sagitta,0.011312102,0.436466122,0.151464521,44,1314,5,4,NP,soft sediments,all depths,y
+57,Lyopsetta exilis,eDNA only,Lyopsetta exilis,0,0,0,9.847826087,422,0,2,NA,soft sediments,all depths,y
+58,Merluccius productus,eDNA only,Merluccius productus,0,0,0,2.369565217,46,0,11,NA,generalist,deep,n
+59,Microgadus proximus,both,Microgadus proximus,0.000823408,0.030986489,0.001400666,20.56521739,339,2,6,eDNA_m,vegetated (juvenile),shallow (juvenile),y
+60,Microstomus pacificus,eDNA only,Microstomus pacificus,0,0,0,41.34782609,479,0,9,NA,soft sediments,deep,n
+61,Mola mola,eDNA only,Mola mola,0,0,0,18.65217391,307,0,5,NA,pelagic,all depths,n
+62,Myoxocephalus1,both,"Myoxocephalus polyacanthocephalus, Myoxocephalus stelleri",0.049980722,1.251372512,0.198365124,235.4782609,3515,11,20,NP,generalist,shallow (juvenile),y
+63,Nautichthys oculofasciatus,eDNA only,Nautichthys oculofasciatus,0,0,0,9.47826087,399,0,2,NA,rocky,all depths,n
+64,Odontopyxis trispinosa,both,Odontopyxis trispinosa,0.000130292,0.005993429,0.00068216,41.08695652,1538,1,5,eDNA_m,soft sediments,all depths,y
+65,Oligocottus rimensis,BS only,Oligocottus rimensis,7.83142082734878e-05,0.002166658,0.001114724,0,0,2,0,NA,rocky,all depths,n
+66,Oligocottus1,both,"Oligocottus maculosus, Oligocottus snyderi",0.120037275,2.810765458,0.466119659,439.0869565,3419,29,38,both_m,nearshore,shallow,y
+67,Oncorhynchus clarkii,eDNA only,Oncorhynchus clarkii,0,0,0,40.34782609,849,0,11,NA,freshwater/estuarine,shallow,n
+68,Oncorhynchus gorbuscha,eDNA only,Oncorhynchus gorbuscha,0,0,0,2506.521739,46153,0,41,NA,open water,all depths,n
+69,Oncorhynchus keta,eDNA only,Oncorhynchus keta,0,0,0,186.3043478,2607,0,19,NA,open water,all depths,n
+70,Oncorhynchus kisutch,both,Oncorhynchus kisutch,0.030317474,1.07587488,0.072530553,1112.804348,26018,4,34,eDNA_m,open water,all depths,n
+71,Oncorhynchus mykiss,eDNA only,Oncorhynchus mykiss,0,0,0,4.326086957,90,0,5,NA,open water,all depths,n
+72,Oncorhynchus nerka,eDNA only,Oncorhynchus nerka,0,0,0,16.2826087,340,0,4,NA,open water,all depths,n
+73,Oncorhynchus tshawytscha,both,Oncorhynchus tshawytscha,0.010601252,0.48765761,0.169229231,769.1086957,10999,1,39,eDNA_m,open water,all depths,n
+74,Ophiodon elongatus,both,Ophiodon elongatus,0.129396229,4.099351643,0.466580199,484.4565217,3437,19,30,NP,generalist,shallow (juvenile),y
+75,Orthonopias triacis,eDNA only,Orthonopias triacis,0,0,0,6.108695652,152,0,6,NA,rocky,shallow,n
+76,Oxylebius pictus,both,Oxylebius pictus,2.02798433061062e-05,0.000932873,0.00041876,76.19565217,926,1,16,eDNA_m,vegetated/rocky,shallow,y
+77,Pallasina barbata,BS only,Pallasina barbata,0.000717283,0.021633021,0.004001466,0,0,3,0,NA,vegetated/rocky,shallow,y
+78,Pholis1,both,"Pholis clemensi, Pholis ornata",0.052528773,0.399981608,0.153816065,1839.804348,8321,22,41,NP,vegetated,shallow,y
+79,Phytichthys chirus,eDNA only,Phytichthys chirus,0,0,0,79.54347826,816,0,14,NA,rocky,shallow,n
+80,Platichthys stellatus,both,Platichthys stellatus,0.741509167,21.56598144,0.779315665,580.2173913,3456,16,37,eDNA_m,soft sediments,shallow (juvenile),y
+81,Pleuronectidae1,both,"Isopsetta isolepis, Parophrys vetulus, Psettichthys melanostictus",0.366951644,1.676500992,0.623373256,1426.76087,9333,41,45,both_m,soft sediments,shallow (juvenile),y
+82,Pleuronichthys coenosus,both,Pleuronichthys coenosus,0.04384152,0.866355342,0.147970751,140.4565217,1479,11,21,eDNA_m,soft sediments,shallow (juvenile),y
+83,Polypera greeni,eDNA only,Polypera greeni,0,0,0,47.47826087,2121,0,2,NA,rocky,shallow,n
+84,Prosopium williamsoni,eDNA only,Prosopium williamsoni,0,0,0,5.5,143,0,2,NA,freshwater,shallow,n
+85,Rhacochilus vacca,both,Rhacochilus vacca,0.063758769,2.817804133,0.140586983,349.0869565,4275,2,29,eDNA_m,vegetated/rocky,shallow,y
+86,Rhamphocottus richardsonii,eDNA only,Rhamphocottus richardsonii,0,0,0,12.2173913,304,0,3,NA,rocky,shallow,n
+87,Rhinogobiops nicholsii,BS only,Rhinogobiops nicholsii,0.002824164,0.042996421,0.059042089,0,0,7,0,NA,generalist,shallow,y
+88,Rimicola muscarum,both,Rimicola muscarum,0.000432597,0.011396776,0.001428935,37.82608696,645,3,10,eDNA_m,vegetation,shallow,y
+89,Ronquilus jordani,eDNA only,Ronquilus jordani,0,0,0,3.804347826,175,0,1,NA,rocky,shallow,n
+90,Salvelinus malma,both,Salvelinus malma,0.06849865,2.934528952,0.055608415,76.5,1008,4,8,NP,freshwater/estuarine,shallow,n
+91,Scomber japonicus,eDNA only,Scomber japonicus,0,0,0,11.43478261,526,0,1,NA,open water,all depths,n
+92,Scorpaenichthys marmoratus,both,Scorpaenichthys marmoratus,0.019914417,0.326153068,0.073177486,172.6304348,1999,18,26,NP,generalist,shallow (juvenile),y
+93,Sebastes entomelas,eDNA only,Sebastes entomelas,0,0,0,125.7391304,1236,0,15,NA,rocky,all depths,n
+94,Sebastes mystinus,eDNA only,Sebastes mystinus,0,0,0,0.347826087,16,0,1,NA,rocky,all depths,n
+95,Sebastes nebulosus,eDNA only,Sebastes nebulosus,0,0,0,75.76086957,961,0,14,NA,rocky,all depths,n
+96,Sebastes nigrocinctus,eDNA only,Sebastes nigrocinctus,0,0,0,2.782608696,128,0,1,NA,vegetated (juvenile),all depths,y
+97,Sebastes paucispinis,BS only,Sebastes paucispinis,1.20142042498231e-07,5.52653395491862e-06,1.02224458277794e-06,0,0,1,0,NA,vegetated (juvenile),shallow (juvenile),y
+98,Sebastes1,both,"Sebastes caurinus, Sebastes maliger",0.196262316,8.052279822,0.463750336,684.0869565,3274,9,33,eDNA_m,vegetated,shallow (juvenile),y
+99,Sebastes2,both,"Sebastes - alutianus, alutus, elongatus, flavidus, melanistictus, melanops,  ruberrimus",0.096735073,2.004301138,0.461501484,2675.26087,10264,7,46,eDNA_m,na,na,na
+100,Synchirus gilli,both,Synchirus gilli,0.001275879,0.020298389,0.002934401,98.89130435,938,10,15,NP,vegetated,shallow,y
+101,Syngnathus leptorhynchus,both,Syngnathus leptorhynchus,0.102967209,0.776999149,0.150689471,60.02173913,391,33,21,NP,vegetated/seagrass,shallow,y
+102,Trichodon trichodon,both,Trichodon trichodon,0.000148661,0.006838391,0.001088985,72.73913043,3210,1,3,eDNA_m,soft sediments,all depths,y
+103,Xiphister1,eDNA only,"Xiphister atropurpureus, Xiphister mucosus",0,0,0,1015.152174,6411,0,39,NA,rocky,shallow,n
